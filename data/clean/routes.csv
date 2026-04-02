@@ -1,0 +1,1707 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,operator
+3511_51301,7778082,IW07,"Gorey, Main Street - Carlow, Carlow College",,3,,,,dublin_bus
+3592_37748,7778099,KY03,"Killarney, Gleneagle Hotel - Killarney, Gleneagle Hotel",,3,,,,dublin_bus
+3826_51300,7778193,UM11,Gorey - Wicklow - Maynooth,,3,,,,dublin_bus
+3863_49809,7778348,AI05,Edenderry - Athlone,,3,,,,dublin_bus
+4194_46238,7778230,164,Sydney Parade DART Station - UCD,,3,,,,dublin_bus
+4194_72109,7778230,511,Rathfarnham - Mount Anville,,3,,,,dublin_bus
+4389_83262,7778260,DK07,Monaghan - Dundalk Institute of Technology,,3,,,,dublin_bus
+4390_77356,7778227,930,Swanlinbar - Cavan,,3,,,,dublin_bus
+4409_84786,7778266,VI04,Cross Keys - Cavan,,3,,,,dublin_bus
+4410_83419,7778060,IW08,Mountmellick - Carlow,,3,,,,dublin_bus
+4442_85798,7778309,525,Galway City - Rossaveel,,3,,,,dublin_bus
+4465_46239,7778100,KL03,Santry - Keelings Retail UC,,3,,,,dublin_bus
+4506_41295,7778371,809,Galway City  - Glásan Student Village,,3,,,,dublin_bus
+4540_74631,7778247,UM15,Carrick-on-Suir - Maynooth University,,3,,,,dublin_bus
+4540_91935,7778247,WI05,Clonmel/ Limerick - Waterford,,3,,,,dublin_bus
+4551_56125,7778032,947,Rossport - Belmullet,,3,,,,dublin_bus
+4551_91958,7778032,945,Rossport - Belmullet,,3,,,,dublin_bus
+4551_92138,7778032,946,Rossport - Belmullet,,3,,,,dublin_bus
+4586_37963,7778036,836,"Dublin, Millennium Spire - Corduff (Fingal), Cruiserath Road",,3,,,,dublin_bus
+4586_46124,7778036,787,"Ballymun, Travelodge Hotel - Dublin Airport",,3,,,,dublin_bus
+4586_47272,7778036,870,O'Connell Street Upper - Damastown IBM,,3,,,,dublin_bus
+4586_74628,7778036,860,Aston Quay - Park West,,3,,,,dublin_bus
+4586_92217,7778036,786,Dublin Airport Hilton Hotel - Dublin Airport,,3,,,,dublin_bus
+4661_98303,7778352,853,Dublin Port - Dublin City,,3,,,,dublin_bus
+4689_99517,7778363,MB01,Ballymore - Moate,,3,,,,dublin_bus
+4822_107107,7778239,UM04,Wexford - Maynooth,,3,,,,dublin_bus
+4835_107432,7778249,AI01,Longford - Athlone,,3,,,,dublin_bus
+4836_107433,7778487,DK08,Ardee - Dundalk Institute of Technology,,3,,,,dublin_bus
+4847_107435,7778254,UM08,Dundrum - Maynooth University,,3,,,,dublin_bus
+4859_94420,7778352,KL04,Tyrrelstown - Keelings Flowers Food Central,,3,,,,dublin_bus
+4859_94421,7778352,KL01,Phibsborough - Keelings Retail UC,,3,,,,dublin_bus
+4860_107594,7778246,UL05,Westport - LimericK,,3,,,,dublin_bus
+4864_107633,7778246,970,Breaffy House Resort - Castlebar Town,,3,,,,dublin_bus
+4864_37738,7778246,968,"Knockcroghery (Mayo), Church of the Holy Rosary - Castlecourt Hotel Westport",,3,,,,dublin_bus
+4867_107634,7778206,NG01,Ballina - Galway,,3,,,,dublin_bus
+4867_107643,7778206,SI11,Ballina - Sligo,,3,,,,dublin_bus
+4869_107641,7778105,AI02,Roscommon - Athlone,,3,,,,dublin_bus
+4873_107635,7778255,UM05,Cavan - Maynooth University,,3,,,,dublin_bus
+4873_107644,7778255,GM13,Monaghan - Galway,,3,,,,dublin_bus
+4873_107645,7778255,UM09,Athboy - Maynooth University,,3,,,,dublin_bus
+4873_107646,7778255,UM03,Dundalk - Maynooth University,,3,,,,dublin_bus
+4874_107648,7778048,UM02,Birr - Maynooth,,3,,,,dublin_bus
+4878_107647,7778268,DK04,Bailieborough - Dundalk Institute of Technology,,3,,,,dublin_bus
+4878_107654,7778268,DK03,Trim - Dundalk Institute of Technology,,3,,,,dublin_bus
+4878_107655,7778268,DK02,Moynalty - Dundalk Institute of Technology,,3,,,,dublin_bus
+4878_40268,7778268,DK01,"Dunshaughlin (Euromart Shop) - Dundalk, DkIT Dublin Road",,3,,,,dublin_bus
+4881_107657,7778490,VI01,Kingscourt - Cavan,,3,,,,dublin_bus
+4883_107639,7778270,OF01,Carlingford - Dundalk,,3,,,,dublin_bus
+4883_107640,7778270,DF01,Carlingford - Drogheda,,3,,,,dublin_bus
+4889_107656,7778082,IW01,Kilkenny - South East Technological University Ca,,3,,,,dublin_bus
+4951_105288,7778077,976,Cockhill - Bridgend,,3,,,,dublin_bus
+4951_109514,7778077,951,Malin Town - Letterkenny,,3,,,,dublin_bus
+4952_109515,7778054,991,Killybegs - Letterkenny,,3,,,,dublin_bus
+4959_109516,7778068,290A,Tralee and Tralee via Blennerville,,3,,,,dublin_bus
+4959_109717,7778068,290B,Tralee and Tralee via Manor West,,3,,,,dublin_bus
+4977_110723,7778153,980,Carrickmacross - Dublin City,,3,,,,dublin_bus
+4977_84824,7778153,980A,Carrickmacross - Dublin City,,3,,,,dublin_bus
+4977_84825,7778153,980B,Carrickmacross - Dublin City,,3,,,,dublin_bus
+4980_110726,7778106,931,Crolly - Killea,,3,,,,dublin_bus
+4983_110725,7778066,500,Swords - Dublin City,,3,,,,dublin_bus
+4983_110727,7778066,501,Swords - Dublin City,,3,,,,dublin_bus
+4983_110728,7778066,502,Swords - Dublin City,,3,,,,dublin_bus
+4983_110729,7778066,503,Swords - Dublin City,,3,,,,dublin_bus
+4983_110731,7778066,505,Swords - Dublin City,,3,,,,dublin_bus
+4983_110732,7778066,506,Dublin City - Swords,,3,,,,dublin_bus
+4983_110733,7778066,507,Swords - Dublin City,,3,,,,dublin_bus
+4983_110736,7778066,500N,Dublin City - Swords,,3,,,,dublin_bus
+4983_110738,7778066,500X,Swords - Dublin City,,3,,,,dublin_bus
+4983_110739,7778066,505X,Dublin City - Swords,,3,,,,dublin_bus
+4983_110741,7778066,506X,Swords - Dublin City,,3,,,,dublin_bus
+4986_110743,7778093,974,Glen - Letterkenny,,3,,,,dublin_bus
+4988_110896,7778223,871,Urlingford - Kilkenny,,3,,,,dublin_bus
+5026_112120,7778304,437,Tourmakeady - Castlebar,,3,,,,dublin_bus
+5028_112158,7778238,BR01,Gorey - Bray Institute of Further Education,,3,,,,dublin_bus
+5030_112275,7778481,433,Roscommon - Galway City,,3,,,,dublin_bus
+5032_110904,7778056,497,Glenamoy - Glenamoy,,3,,,,dublin_bus
+5032_110905,7778056,499,Glenamoy - Ballina,,3,,,,dublin_bus
+5032_111025,7778056,436,Ballina - Ballycastle,,3,,,,dublin_bus
+5032_111260,7778056,452,Glenamoy - Glenamoy,,3,,,,dublin_bus
+5032_111955,7778056,496,Glenamoy - Ballina,,3,,,,dublin_bus
+5032_112119,7778056,498,Glenamoy - Castlebar,,3,,,,dublin_bus
+5033_112279,7778102,ATH1,Athlone Town Service,,3,,,,dublin_bus
+5042_112911,7778084,231,Ardgroom - Cork City,,3,,,,dublin_bus
+5048_112914,7778094,181,Glendalough - Dublin City,,3,,,,dublin_bus
+5059_113137,7778075,920,Galway - Loughrea,,3,,,,dublin_bus
+5060_113414,7778086,886,Monamolin - Gorey,,3,,,,dublin_bus
+5080_113452,7778083,835,Tullamore - Tullamore,,3,,,,dublin_bus
+5101_114955,7778052,965,Meenlaragh - Letterkenny,,3,,,,dublin_bus
+5104_115073,7778090,309,Kilduff - Limerick City,,3,,,,dublin_bus
+5106_115075,7778223,IW02,Newbridge - Carlow,,3,,,,dublin_bus
+5112_105128,7778062,827,Mountmellick - Portlaoise,,3,,,,dublin_bus
+5112_109507,7778062,830,Mountmellick - Tullamore,,3,,,,dublin_bus
+5112_109508,7778062,829,Portlaoise - Tullamore,,3,,,,dublin_bus
+5112_110720,7778062,837,Tullamore - Mullingar,,3,,,,dublin_bus
+5112_112916,7778062,838,Kilkenny - Mountmellick,,3,,,,dublin_bus
+5112_113136,7778062,832,Errill - Portlaoise,,3,,,,dublin_bus
+5112_115076,7778062,831,Portlaoise - Portlaoise,,3,,,,dublin_bus
+5141_107436,7778229,GD01,Dublin City - Monaghan,,3,,,,dublin_bus
+5141_114218,7778229,180,Clones - Dublin,,3,,,,dublin_bus
+5144_114217,7778058,872,Wexford - Kilmuckridge,,3,,,,dublin_bus
+5144_116047,7778058,875,Blackwater - Whitemill,,3,,,,dublin_bus
+5186_117278,7778008,W1,Clock Tower - Ballybeg,,3,,,,dublin_bus
+5186_117279,7778008,W3,Clock Tower - Meagher's Quay,,3,,,,dublin_bus
+5186_117280,7778008,W2,Clock Tower - WIT - Meagher's Quay,,3,,,,dublin_bus
+5186_117281,7778008,W4,Peter Street - Brownes Road,,3,,,,dublin_bus
+5186_117282,7778008,W5,Hospital - Oakwood,,3,,,,dublin_bus
+5187_107658,7778198,932A,Annagry - Dublin,,3,,,,dublin_bus
+5187_107659,7778198,933A,Moville - Dublin,,3,,,,dublin_bus
+5187_111258,7778198,933,Moville - Dublin,,3,,,,dublin_bus
+5187_112278,7778198,932,Annagry - Dublin,,3,,,,dublin_bus
+5190_102717,7778196,901D,Marshes Shopping Centre - The Helix,,3,,,,dublin_bus
+5190_102719,7778196,912,Grange Rath - Dublin City,,3,,,,dublin_bus
+5190_110679,7778196,900,Dundalk - Dublin,,3,,,,dublin_bus
+5190_110680,7778196,901,Dundalk - Dublin,,3,,,,dublin_bus
+5190_110681,7778196,901M,Drogheda - Dublin,,3,,,,dublin_bus
+5190_113455,7778196,910,Grange Rath - Dublin City,,3,,,,dublin_bus
+5197_109380,7778364,DY01,Kells - Dunboyne,,3,,,,dublin_bus
+5197_117857,7778364,DY02,Enfield - Dunboyne College of Further Education,,3,,,,dublin_bus
+5225_109509,7778042,917,Dundalk - Dundalk via Muirhevnamor,,3,,,,dublin_bus
+5225_109511,7778042,916,Dundalk - Dundalk via Bay Estate,,3,,,,dublin_bus
+5225_111259,7778042,169,Blackrock - Dundalk,,3,,,,dublin_bus
+5225_114953,7778042,918,Saint Patricks Church - Willow Grove,,3,,,,dublin_bus
+5240_119660,7778006,120,Dublin - Edenderry,,3,,,,dublin_bus
+5240_119661,7778006,125,UCD - Newbridge,,3,,,,dublin_bus
+5240_119662,7778006,126,Dublin - Rathangan,,3,,,,dublin_bus
+5240_119663,7778006,130,Dublin - Athy,,3,,,,dublin_bus
+5240_119664,7778006,120A,Dublin - Edenderry,,3,,,,dublin_bus
+5240_119665,7778006,120B,Dublin - Newbridge,,3,,,,dublin_bus
+5240_119666,7778006,120C,Enfield - Tullamore,,3,,,,dublin_bus
+5240_119667,7778006,120D,Enfield - Tullamore,,3,,,,dublin_bus
+5240_119668,7778006,120E,Dublin - Edenderry,,3,,,,dublin_bus
+5240_119669,7778006,120F,Connolly Station - Newbridge Centre,,3,,,,dublin_bus
+5240_119670,7778006,120X,Dublin - Edenderry,,3,,,,dublin_bus
+5240_119671,7778006,126A,Dublin - Kildare,,3,,,,dublin_bus
+5240_119672,7778006,126B,Dublin - Rathangan,,3,,,,dublin_bus
+5240_119673,7778006,126D,Dublin - Kildare,,3,,,,dublin_bus
+5240_119674,7778006,126E,Dublin - Kildare,,3,,,,dublin_bus
+5240_119675,7778006,126T,Dublin - Kildare,,3,,,,dublin_bus
+5240_119676,7778006,126U,Dublin UCD - Kildare,,3,,,,dublin_bus
+5240_119677,7778006,126N,Dublin - Newbridge,,3,,,,dublin_bus
+5240_119678,7778006,126X,Dublin - Rathangan,,3,,,,dublin_bus
+5240_119679,7778006,130A,Dublin - Athy,,3,,,,dublin_bus
+5242_118188,7778014,Red,The Point - Tallaght,,0,,,,dublin_bus
+5242_119680,7778014,Green,Parnell - Brides Glen,,0,,,,dublin_bus
+5245_119506,7778347,DK05,Carrickmacross - Dundalk Institute of Technology,,3,,,,dublin_bus
+5249_119681,7778021,59,Dun Laoghaire - Killiney Hill Park,,3,,,,dublin_bus
+5249_119682,7778021,73,Kilnamanagh Road - Griffith Avenue East,,3,,,,dublin_bus
+5249_119683,7778021,102,Dublin Airport - Sutton DART,,3,,,,dublin_bus
+5249_119684,7778021,104,Clontarf Station - DCU (The Helix),,3,,,,dublin_bus
+5249_119685,7778021,111,Brides Glen - Kilbogget Pk,,3,,,,dublin_bus
+5249_119686,7778021,114,Ticknock - Blackrock,,3,,,,dublin_bus
+5249_119687,7778021,161,Rockbrook - Dundrum,,3,,,,dublin_bus
+5249_119688,7778021,197,"Airside Ind. Estate, stop 7210 - Ashbourne Retail Pk, stop 101001",,3,,,,dublin_bus
+5249_119689,7778021,220,DCU (The Helix) - Lady's Well Road,,3,,,,dublin_bus
+5249_119690,7778021,236,Blanchardstown - IBM Campus,,3,,,,dublin_bus
+5249_119691,7778021,238,Tyrrelstown - Mulhuddart,,3,,,,dublin_bus
+5249_119692,7778021,270,Dunboyne - Blanchardstown,,3,,,,dublin_bus
+5249_119693,7778021,33A,Dublin Airport - Balbriggan,,3,,,,dublin_bus
+5249_119694,7778021,33B,Swords - Portrane,,3,,,,dublin_bus
+5249_119695,7778021,33T,Skerries - Donabate,,3,,,,dublin_bus
+5249_119696,7778021,45A,Kilmacanogue - Dun Laoghaire,,3,,,,dublin_bus
+5249_119697,7778021,45B,Kilmacanogue - Dun Laoghaire,,3,,,,dublin_bus
+5249_119698,7778021,L1,Newcastle Hospital - Bray Station,,3,,,,dublin_bus
+5249_119699,7778021,L2,"Sea Road, Newcastle - Bray Station",,3,,,,dublin_bus
+5249_119700,7778021,L3,Glenbrook Park - The Nurseries,,3,,,,dublin_bus
+5249_119701,7778021,N2,Clontarf Station - Heuston Train Stn,,3,,,,dublin_bus
+5249_119702,7778021,N6,Finglas Village - Naomh Barróg GAA,,3,,,,dublin_bus
+5249_119703,7778021,S4,Liffey Valley - UCD,,3,,,,dublin_bus
+5249_119704,7778021,S6,The Square - Blackrock Station,,3,,,,dublin_bus
+5249_119705,7778021,S8,Kingswood Avenue - Dun Laoghaire Stn,,3,,,,dublin_bus
+5249_119706,7778021,W2,The Square - Liffey Valley SC,,3,,,,dublin_bus
+5249_119707,7778021,W4,The Square - Blanchardstown SC,,3,,,,dublin_bus
+5249_119708,7778021,W6,Community College - The Square,,3,,,,dublin_bus
+5249_119709,7778021,L51,Liffey Valley SC - Adamstown Station,,3,,,,dublin_bus
+5249_119710,7778021,L52,Blanchardstown SC - Adamstown Station,,3,,,,dublin_bus
+5249_119711,7778021,L55,Hollyville Lawn - Glenaulin,,3,,,,dublin_bus
+5249_119712,7778021,102A,Swords - Sutton,,3,,,,dublin_bus
+5249_119713,7778021,102C,Balgriffin - Sutton,,3,,,,dublin_bus
+5249_119714,7778021,102P,Swords - Portmarnock,,3,,,,dublin_bus
+5249_119715,7778021,102T,Swords - Sutton,,3,,,,dublin_bus
+5249_119716,7778021,185T,Enniskerry - Bray,,3,,,,dublin_bus
+5249_119717,7778021,220A,DCU (The Helix) - Lady's Well Road,,3,,,,dublin_bus
+5249_119718,7778021,220T,Collins Avenue West - Finglas Garda Stn,,3,,,,dublin_bus
+5249_119719,7778021,236A,Blanchardstown - IBM Campus,,3,,,,dublin_bus
+5249_119720,7778021,236T,Scoil Oilibheir - Tyrrelstown,,3,,,,dublin_bus
+5249_119721,7778021,270T,Castaheany Estate - Castleknock Community College,,3,,,,dublin_bus
+5249_119722,7778021,L15,Bray Station - Enniskerry,,3,,,,dublin_bus
+5249_119723,7778021,L26,Blackrock Station - Kilternan Village,,3,,,,dublin_bus
+5249_119724,7778021,L27,Dun Laoghaire Stn - Leopardstown Valley,,3,,,,dublin_bus
+5273_120553,7778108,784,Dublin Airport - Dublin City,,3,,,,dublin_bus
+5273_120554,7778108,782,Dublin Airport - Dublin City,,3,,,,dublin_bus
+5273_94479,7778108,785,Belfast - Dublin,,3,,,,dublin_bus
+5273_94480,7778108,783,Dublin Airport - Terenure,,3,,,,dublin_bus
+5276_94517,7778002,29n,"Dublin City South, D'Olier Street - Baldoyle, Warrenhouse Road",,3,,,,dublin_bus
+5276_94518,7778002,31n,"Dublin City South, D'Olier Street - Howth, Outside Train Station",,3,,,,dublin_bus
+5276_94519,7778002,33n,Westmoreland Street - Balbriggan,,3,,,,dublin_bus
+5276_94520,7778002,42n,"Dublin City South, D'Olier Street - Portmarnock, Strand Road (St.Anne's Estate)",,3,,,,dublin_bus
+5276_94521,7778002,46n,"Dublin City South, D'Olier Street - Dundrum, Outside Luas Station",,3,,,,dublin_bus
+5276_94522,7778002,69n,"Dublin City South, Westmoreland Street - Saggart,",,3,,,,dublin_bus
+5276_94523,7778002,70n,Westmoreland Street - Tyrrelstown,,3,,,,dublin_bus
+5276_94524,7778002,77n,D'Olier Street - Citywest,,3,,,,dublin_bus
+5276_94525,7778002,88n,"Dublin City South, Westmoreland Street - Ashbourne, Ashbourne Kelly's",,3,,,,dublin_bus
+5276_94526,7778002,49n,D'Olier Street - Kilnamanagh,,3,,,,dublin_bus
+5276_94527,7778002,7n,"Dublin City South, D'Olier Street - Dún Laoghaire-Rathdown, Woodbrook Golf Club",,3,,,,dublin_bus
+5276_94528,7778002,84n,"Dublin City South, D'Olier Street - Charlesland Road (Seaborne View Apts)",,3,,,,dublin_bus
+5277_110683,7778098,230,Cork City - Skibbereen,,3,,,,dublin_bus
+5277_51299,7778098,229,Bantry - Cork City,,3,,,,dublin_bus
+5277_68250,7778098,228,Kinsale - Cork City,,3,,,,dublin_bus
+5287_107636,7778193,740,Wexford - Dublin Airport,,3,,,,dublin_bus
+5287_107637,7778193,740A,Gorey - Dublin Airport,,3,,,,dublin_bus
+5287_107638,7778193,740X,Wexford - Dublin Airport,,3,,,,dublin_bus
+5287_108852,7778193,859,Enniscorthy - Wexford,,3,,,,dublin_bus
+5287_109379,7778193,376,Wexford - Carlow,,3,,,,dublin_bus
+5287_109512,7778193,390,Wexford Town - Kilmore Quay,,3,,,,dublin_bus
+5287_109839,7778193,WX1,Drinagh Loop,,3,,,,dublin_bus
+5287_110467,7778193,877,Wexford Town - Wexford Town via Castlebridge,,3,,,,dublin_bus
+5287_120891,7778193,WX2,Clonard Loop,,3,,,,dublin_bus
+5287_94290,7778193,884,Gorey - Wexford,,3,,,,dublin_bus
+5287_94293,7778193,340,Wexford - Waterford,,3,,,,dublin_bus
+5305_109553,7778000,763,Dublin Airport - Galway City via Athlone,,3,,,,dublin_bus
+5305_109718,7778000,763X,Creagh (Opp Dubarry) - University Rd (Cathedral),,3,,,,dublin_bus
+5305_110897,7778000,251,Galway City - Cork Airport,,3,,,,dublin_bus
+5305_113413,7778000,923,Galway - Cleggan,,3,,,,dublin_bus
+5305_116048,7778000,760,Galway - Dublin Airport,,3,,,,dublin_bus
+5305_116049,7778000,761,Galway - Dublin Airport,,3,,,,dublin_bus
+5305_116050,7778000,660,Galway City - Dublin,,3,,,,dublin_bus
+5305_99506,7778000,712,Ennis - Dublin Airport,,3,,,,dublin_bus
+5305_99512,7778000,721,Castlebar - Dublin Airport,,3,,,,dublin_bus
+5305_99513,7778000,430,Ballina (Dunnes Stores) - Galway Cathedral,,3,,,,dublin_bus
+5305_99516,7778000,707,Cork - Dublin Airport,,3,,,,dublin_bus
+5325_121856,7778269,BI01,TU Dublin - Carpenterstown,,3,,,,dublin_bus
+5327_103878,7778044,UM12,Carlow - Maynooth University,,3,,,,dublin_bus
+5327_105287,7778044,UM14,Portlaoise - Maynooth University,,3,,,,dublin_bus
+5327_107642,7778044,UM06,Athy - Maynooth University,,3,,,,dublin_bus
+5327_107650,7778044,GD02,Tramore - Dublin City,,3,,,,dublin_bus
+5327_121857,7778044,IW04,Portarlington - Carlow,,3,,,,dublin_bus
+5327_77357,7778044,IW06,Portlaoise - Carlow,,3,,,,dublin_bus
+5330_107649,7778092,UL06,Drumshanbo - Limerick,,3,,,,dublin_bus
+5330_107653,7778092,NG05,Ballinamore – Galway,,3,,,,dublin_bus
+5330_109838,7778092,449,Drumshanbo - Sligo,,3,,,,dublin_bus
+5342_122949,7778228,879,Gorey - Gorey,,3,,,,dublin_bus
+5345_110734,7778013,393,Thurles - Clonmel,,3,,,,dublin_bus
+5345_110742,7778013,397,Nenagh - Thurles,,3,,,,dublin_bus
+5345_110902,7778013,812,Urlingford - Roscrea,,3,,,,dublin_bus
+5345_110903,7778013,394,Clonmel - Thurles,,3,,,,dublin_bus
+5345_111023,7778013,881,"Graiguenamanagh, Graiguenamanagh - Kilkenny Castle",,3,,,,dublin_bus
+5345_112913,7778013,882,Inistioge - Kilkenny,,3,,,,dublin_bus
+5345_120890,7778013,395,Thurles - Nenagh,,3,,,,dublin_bus
+5345_122950,7778013,MU1,Ballinderry Road - Lough Sheever Corporate Pa,,3,,,,dublin_bus
+5345_122951,7778013,MU2,Mullingar Business Park - Dublin Road,,3,,,,dublin_bus
+5345_40574,7778013,396,Thurles - Clonmel,,3,,,,dublin_bus
+5366_124676,7778171,183,Arklow - Glendalough,,3,,,,dublin_bus
+5366_124677,7778171,800,Arklow - Carlow,,3,,,,dublin_bus
+5366_124678,7778171,817c,Carrick-on-Suir - Grangemockler,,3,,,,dublin_bus
+5366_124679,7778171,885,Baltinglass - Sallins,,3,,,,dublin_bus
+5366_124680,7778171,887,Carlow - New Ross,,3,,,,dublin_bus
+5366_124681,7778171,891,Fiddown - Kilkenny,,3,,,,dublin_bus
+5366_124682,7778171,895,Sallins - Glendalough,,3,,,,dublin_bus
+5366_124683,7778171,897,Kilkenny - Athy,,3,,,,dublin_bus
+5366_124684,7778171,WW10,Carnew - Baltinglass,,3,,,,dublin_bus
+5367_124712,7778174,264,Ballyshannon - Letterkenny,,3,,,,dublin_bus
+5367_124713,7778174,288,Ballybofey - Derry,,3,,,,dublin_bus
+5367_124714,7778174,290,Ballybofey - Letterkenny,,3,,,,dublin_bus
+5367_124715,7778174,292,Donegal - Ballyshannon,,3,,,,dublin_bus
+5367_124716,7778174,293,Gleann Cholm Cille - Donegal,,3,,,,dublin_bus
+5367_124717,7778174,563,Sligo - Dromahair,,3,,,,dublin_bus
+5367_124718,7778174,564,Swanlinbar - Carrick-on-Shannon,,3,,,,dublin_bus
+5367_124719,7778174,566,Sligo - Dowra,,3,,,,dublin_bus
+5367_124720,7778174,567,Carrick-on-Shannon - Manorhamilton,,3,,,,dublin_bus
+5367_124721,7778174,572,Ballinamore - Sligo,,3,,,,dublin_bus
+5367_124722,7778174,952,Carndonagh - Derry,,3,,,,dublin_bus
+5367_124723,7778174,953,Greencastle - Letterkenny,,3,,,,dublin_bus
+5367_124724,7778174,954,Malin Head - Carndonagh,,3,,,,dublin_bus
+5367_124725,7778174,957,Greencastle - Derry,,3,,,,dublin_bus
+5367_124726,7778174,959,Greencastle - Buncrana,,3,,,,dublin_bus
+5367_124727,7778174,966,An Fál Carrach - An Clochán Liath,,3,,,,dublin_bus
+5367_124728,7778174,967,Baile na Finne - An Clochán Liath,,3,,,,dublin_bus
+5367_124729,7778174,971,Ailt an Chorráin - Letterkenny,,3,,,,dublin_bus
+5367_124730,7778174,973,Cionn Fhánada - Letterkenny,,3,,,,dublin_bus
+5367_124731,7778174,977,Castlerea - Sligo,,3,,,,dublin_bus
+5367_124732,7778174,981,Coolaney - Sligo,,3,,,,dublin_bus
+5367_124733,7778174,982,Sligo - Ballyshannon,,3,,,,dublin_bus
+5367_124734,7778174,983,Manorhamilton - Ballyshannon,,3,,,,dublin_bus
+5367_124735,7778174,987,Lifford - Letterkenny,,3,,,,dublin_bus
+5367_124736,7778174,988,An Clochán - Letterkenny,,3,,,,dublin_bus
+5367_124737,7778174,989,Carrigans - Letterkenny,,3,,,,dublin_bus
+5367_124738,7778174,993,Carraig Airt - Na Dúnaibh,,3,,,,dublin_bus
+5367_124739,7778174,994,Portnoo - Donegal,,3,,,,dublin_bus
+5368_124761,7778312,821,Newbridge - Sallins,,3,,,,dublin_bus
+5368_124762,7778312,880,Carlow - Naas,,3,,,,dublin_bus
+5368_124763,7778312,883,Athy - Newbridge,,3,,,,dublin_bus
+5368_124764,7778312,888,Athy - Allenwood,,3,,,,dublin_bus
+5368_124765,7778312,892,Newbridge - Dunlavin,,3,,,,dublin_bus
+5368_124766,7778312,SD3,Tallaght - Bohernabreena,,3,,,,dublin_bus
+5368_124767,7778312,SD4,Tallaght - Tibradden,,3,,,,dublin_bus
+5369_124778,7778170,163,Brú na Bóinne - Drogheda,,3,,,,dublin_bus
+5369_124779,7778170,177,Kells - Ardee,,3,,,,dublin_bus
+5369_124780,7778170,188,Athboy - Navan - Drogheda,,3,,,,dublin_bus
+5369_124781,7778170,189,Navan - Trim - Enfield,,3,,,,dublin_bus
+5369_124782,7778170,192,Swords - Balbriggan,,3,,,,dublin_bus
+5369_124783,7778170,195,Balbriggan - Ashbourne,,3,,,,dublin_bus
+5369_124784,7778170,196,Knocksedan - Swords,,3,,,,dublin_bus
+5370_124685,7778163,232,Castletownbere - Kilcrohane,,3,,,,dublin_bus
+5370_124686,7778163,253,Kinsale - Clonakilty,,3,,,,dublin_bus
+5370_124687,7778163,253c,Kinsale Town Shuttle,,3,,,,dublin_bus
+5370_124688,7778163,253t,Clonakilty - Technology Park,,3,,,,dublin_bus
+5370_124689,7778163,254,Bandon - Kinsale,,3,,,,dublin_bus
+5370_124690,7778163,255,Kinsale - MTU Bishopstown,,3,,,,dublin_bus
+5370_124691,7778163,263,Allihies - Castletownbere,,3,,,,dublin_bus
+5370_124692,7778163,265,Mizen Head - Skibbereen,,3,,,,dublin_bus
+5370_124693,7778163,266a,Baltimore - Castletownshend,,3,,,,dublin_bus
+5370_124694,7778163,266b,Baltimore - Union Hall,,3,,,,dublin_bus
+5370_124695,7778163,522,Charleville - Mallow,,3,,,,dublin_bus
+5370_124696,7778163,523,Mitchelstown - Mallow,,3,,,,dublin_bus
+5370_124697,7778163,529,Mitchelstown - Fermoy,,3,,,,dublin_bus
+5370_124698,7778163,530,Fermoy - Mallow,,3,,,,dublin_bus
+5371_124699,7778166,171,Shercock - Dundalk,,3,,,,dublin_bus
+5371_124700,7778166,172,Cootehill - Virginia,,3,,,,dublin_bus
+5371_124701,7778166,176,Cavan - Monaghan,,3,,,,dublin_bus
+5371_124702,7778166,178,Kells - Cootehill,,3,,,,dublin_bus
+5371_124703,7778166,186,Baile Ghib - Cavan,,3,,,,dublin_bus
+5371_124704,7778166,929,Ballinamore - Cavan,,3,,,,dublin_bus
+5371_124705,7778166,C1,Ballyhaise - Kilmore Hotel,,3,,,,dublin_bus
+5371_124706,7778166,C2,Cavan Hospital - Kilnaleck,,3,,,,dublin_bus
+5371_124707,7778166,C3,Redhills - Cavan Hospital,,3,,,,dublin_bus
+5371_124708,7778166,MN1,Knockatallon - Monaghan,,3,,,,dublin_bus
+5371_124709,7778166,MN2,Castleblayney - Monaghan,,3,,,,dublin_bus
+5371_124710,7778166,MN3,Mullan - Monaghan,,3,,,,dublin_bus
+5371_124711,7778166,MN33,Emyvale - Carrickroe,,3,,,,dublin_bus
+5372_124740,7778164,431,Claremorris - An Cheathrú Rua,,3,,,,dublin_bus
+5372_124741,7778164,432,An Cheathrú Rua - Clifden,,3,,,,dublin_bus
+5372_124742,7778164,438,Galway - Tuam,,3,,,,dublin_bus
+5372_124743,7778164,439,Galway - Loughrea,,3,,,,dublin_bus
+5372_124744,7778164,546,Castlerea - Ballinasloe,,3,,,,dublin_bus
+5372_124745,7778164,547,Portumna - Ballinasloe,,3,,,,dublin_bus
+5372_124746,7778164,548,Loughrea - Athlone,,3,,,,dublin_bus
+5372_124747,7778164,934,Gort - Loughrea,,3,,,,dublin_bus
+5373_124748,7778162,268,Dingle - Baile na nGall,,3,,,,dublin_bus
+5373_124749,7778162,273,Cé Bhréanainn - Tralee,,3,,,,dublin_bus
+5373_124750,7778162,274,Tarbert - Tralee,,3,,,,dublin_bus
+5373_124751,7778162,276,Killarney - Dingle,,3,,,,dublin_bus
+5373_124752,7778162,277a,Dingle - Dún Chaoin,,3,,,,dublin_bus
+5373_124753,7778162,277b,Dingle - Dún Chaoin,,3,,,,dublin_bus
+5373_124754,7778162,278,Fenit - Tralee,,3,,,,dublin_bus
+5373_124755,7778162,280,Waterville - Killarney,,3,,,,dublin_bus
+5373_124756,7778162,281,Waterville - Kenmare,,3,,,,dublin_bus
+5373_124757,7778162,282,Castletownbere - Kenmare,,3,,,,dublin_bus
+5373_124758,7778162,283,Currow - Tralee,,3,,,,dublin_bus
+5373_124759,7778162,287a,Knightstown - Cahersiveen,,3,,,,dublin_bus
+5373_124760,7778162,287b,Baile an Sceilg - Cahersiveen,,3,,,,dublin_bus
+5374_124768,7778173,318,Limerick - Ennis,,3,,,,dublin_bus
+5374_124769,7778173,331,Ballyvaughan - Ennis,,3,,,,dublin_bus
+5374_124770,7778173,335,Ennis - Kilrush,,3,,,,dublin_bus
+5374_124771,7778173,337,Ennis - Kilrush,,3,,,,dublin_bus
+5374_124772,7778173,339,Kilrush - Loop Head,,3,,,,dublin_bus
+5374_124773,7778173,342,Flagmount - Ennis,,3,,,,dublin_bus
+5374_124774,7778173,344,Whitegate - Ennis,,3,,,,dublin_bus
+5374_124775,7778173,351,Cliffs of Moher - Galway,,3,,,,dublin_bus
+5374_124776,7778173,521,Newcastle West - Charleville,,3,,,,dublin_bus
+5374_124777,7778173,595,Tarbert - Croom,,3,,,,dublin_bus
+5375_124796,7778165,426,Longford - Roscommon,,3,,,,dublin_bus
+5375_124797,7778165,570,Boyle - Roscommon,,3,,,,dublin_bus
+5375_124798,7778165,571,Arigna - Boyle,,3,,,,dublin_bus
+5375_124799,7778165,816,Longford - Mullingar,,3,,,,dublin_bus
+5375_124800,7778165,818,Castlepollard - Mullingar,,3,,,,dublin_bus
+5375_124801,7778165,819,Athlone - Mullingar,,3,,,,dublin_bus
+5375_124802,7778165,862,Longford - Cavan,,3,,,,dublin_bus
+5375_124803,7778165,865,Lough Gowna - Longford,,3,,,,dublin_bus
+5375_124804,7778165,LR24,Ballymahon - Longford,,3,,,,dublin_bus
+5376_124805,7778161,454,Ballina - Castlebar,,3,,,,dublin_bus
+5376_124806,7778161,460a,Gob an Choire - Castlebar,,3,,,,dublin_bus
+5376_124807,7778161,460b,Béal an Mhuirthead - Castlebar,,3,,,,dublin_bus
+5377_124808,7778167,322,Portumna - Nenagh,,3,,,,dublin_bus
+5377_124809,7778167,391,Thurles - Limerick,,3,,,,dublin_bus
+5377_124810,7778167,828,Cashel - Portlaoise,,3,,,,dublin_bus
+5377_124811,7778167,854,Ballybrophy - Silvermines,,3,,,,dublin_bus
+5377_124812,7778167,855,Tipperary - Cahir - Cashel,,3,,,,dublin_bus
+5377_124813,7778167,896,Ballingarry - Thurles,,3,,,,dublin_bus
+5377_124814,7778167,CL1,Crann Ard - Poppyfield Retail Park,,3,,,,dublin_bus
+5377_124815,7778167,CL2,Crann Ard - Ard Gaoithe Business Park,,3,,,,dublin_bus
+5377_124816,7778167,CL9,Crann Ard - Ard Gaoithe Business Park,,3,,,,dublin_bus
+5378_124817,7778168,356,Clonmel - Dungarvan,,3,,,,dublin_bus
+5378_124818,7778168,357,Youghal - Dungarvan,,3,,,,dublin_bus
+5378_124819,7778168,358,Tramore - Waterford,,3,,,,dublin_bus
+5378_124820,7778168,361,Youghal - Dungarvan,,3,,,,dublin_bus
+5378_124821,7778168,363,Fermoy - Dungarvan,,3,,,,dublin_bus
+5378_124822,7778168,363a,Ballyduff Upper - Dungarvan,,3,,,,dublin_bus
+5378_124823,7778168,367,Tramore - Dungarvan,,3,,,,dublin_bus
+5378_124824,7778168,667,Dungarvan - Waterford,,3,,,,dublin_bus
+5379_124825,7778169,359,New Ross - Enniscorthy,,3,,,,dublin_bus
+5379_124826,7778169,368,Enniscorthy - New Ross,,3,,,,dublin_bus
+5379_124827,7778169,369,Enniscorthy - Tullow,,3,,,,dublin_bus
+5379_124828,7778169,384,Wexford - Enniscorthy,,3,,,,dublin_bus
+5379_124829,7778169,387,Wexford - Rosslare Harbour,,3,,,,dublin_bus
+5379_124830,7778169,388,Duncormick - Wexford,,3,,,,dublin_bus
+5379_124831,7778169,389,Riverchapel - Gorey,,3,,,,dublin_bus
+5379_124832,7778169,392,Wellingtonbridge - New Ross,,3,,,,dublin_bus
+5379_124833,7778169,399,Hook Head - New Ross,,3,,,,dublin_bus
+5382_106966,7778044,139,Blanchardstown - Naas,,3,,,,dublin_bus
+5382_112910,7778044,736,Dublin Airport - Tramore,,3,,,,dublin_bus
+5382_113451,7778044,874,Hacketstown - Carlow,,3,,,,dublin_bus
+5382_114256,7778044,735,Limerick - Dublin Airport,,3,,,,dublin_bus
+5382_115074,7778044,717,Clonmel - Dublin Airport,,3,,,,dublin_bus
+5382_116113,7778044,617,Waterford - Kilkenny,,3,,,,dublin_bus
+5382_116114,7778044,627,Waterford - Kilkenny,,3,,,,dublin_bus
+5382_117855,7778044,607,Waterford - Kilkenny,,3,,,,dublin_bus
+5384_115271,7778155,726,Portlaoise - Dublin Airport,,3,,,,dublin_bus
+5384_124834,7778155,310,Sarsfield Street - National Tech Park,,3,,,,dublin_bus
+5384_51295,7778155,600,Cork City - Dublin City,,3,,,,dublin_bus
+5384_68765,7778155,750,Dundrum - Dublin Airport,,3,,,,dublin_bus
+5384_70766,7778155,300,Kerry / Clare - Dublin,,3,,,,dublin_bus
+5397_113138,7778191,961,Crolly - Letterkenny,,3,,,,dublin_bus
+5401_125824,7778020,2,Dublin Airport - Gorey - Wexford,,3,,,,dublin_bus
+5401_125825,7778020,4,Dublin Airport - Waterford,,3,,,,dublin_bus
+5401_125826,7778020,13,Limerick - Adare - Listowel - Tralee,,3,,,,dublin_bus
+5401_125827,7778020,14,Limerick - Kerry Airport - Killarney,,3,,,,dublin_bus
+5401_125828,7778020,22,Dublin - Airport - Longford - Ballina,,3,,,,dublin_bus
+5401_125829,7778020,23,Dublin - Airport - Longford - Sligo,,3,,,,dublin_bus
+5401_125830,7778020,30,Dublin - Airport - Cavan - Donegal,,3,,,,dublin_bus
+5401_125831,7778020,32,Dublin Airport - Monaghan - Letterkenny,,3,,,,dublin_bus
+5401_125832,7778020,40,Tralee - Cork - Waterford - Rosslare,,3,,,,dublin_bus
+5401_125833,7778020,51,Cork - Limerick - Galway,,3,,,,dublin_bus
+5401_125834,7778020,52,Ballina - Castlebar - Galway,,3,,,,dublin_bus
+5401_125835,7778020,55,Limerick - Waterford,,3,,,,dublin_bus
+5401_125836,7778020,64,Galway - Killea,,3,,,,dublin_bus
+5401_125837,7778020,65,Galway - Athlone - Monaghan,,3,,,,dublin_bus
+5401_125838,7778020,70,Galway - Mullingar - Dundalk,,3,,,,dublin_bus
+5401_125839,7778020,72,Limerick - Birr - Athlone,,3,,,,dublin_bus
+5401_125840,7778020,73,Waterford - Athlone - Longford,,3,,,,dublin_bus
+5401_125841,7778020,100,Drogheda - Dundalk - Newry,,3,,,,dublin_bus
+5401_125842,7778020,101,Dublin - Airport - Drogheda,,3,,,,dublin_bus
+5401_125843,7778020,103,Dublin - Ashbourne - Ratoath,,3,,,,dublin_bus
+5401_125844,7778020,B1,Rail Station - Millfield Centre,,3,,,,dublin_bus
+5401_125845,7778020,105,Blanchardstown - Ashbourne - Ashbourne - Drogheda,,3,,,,dublin_bus
+5401_125846,7778020,115,Dublin - Mullingar,,3,,,,dublin_bus
+5401_125847,7778020,131,Bray - Wicklow,,3,,,,dublin_bus
+5401_125848,7778020,132,Dublin - Carnew - Bunclody,,3,,,,dublin_bus
+5401_125849,7778020,133,Dublin - Wicklow,,3,,,,dublin_bus
+5401_125850,7778020,160,Dundalk - Ravensdale - Newry,,3,,,,dublin_bus
+5401_125851,7778020,161,Dundalk - Carlingford - Newry,,3,,,,dublin_bus
+5401_125852,7778020,162,Dundalk - Monaghan - Clones - Cavan,,3,,,,dublin_bus
+5401_125853,7778020,167,Dundalk - Louth - Ardee,,3,,,,dublin_bus
+5401_125854,7778020,168,Dundalk - Annagassan,,3,,,,dublin_bus
+5401_125855,7778020,170,Cavan - Dundalk,,3,,,,dublin_bus
+5401_125856,7778020,173,Drogheda West St - Dominck St,,3,,,,dublin_bus
+5401_125857,7778020,174,Long Walk - Muirhevnamuir,,3,,,,dublin_bus
+5401_125858,7778020,175,Monaghan - Cootehill - Cavan,,3,,,,dublin_bus
+5401_125859,7778020,182,Drogheda - Collon - Ardee - Monaghan,,3,,,,dublin_bus
+5401_125860,7778020,190,Drogheda - Navan - Trim,,3,,,,dublin_bus
+5401_125861,7778020,201,Lotabeg - Hollyhill - CIT - CUH,,3,,,,dublin_bus
+5401_125862,7778020,202,Ringmahon - City - Hollyhill (Apple),,3,,,,dublin_bus
+5401_125863,7778020,203,Lehenaghmore - City Centre - Parklands,,3,,,,dublin_bus
+5401_125864,7778020,205,Train Station - St. Patrick St - CIT,,3,,,,dublin_bus
+5401_125865,7778020,206,Grange - Douglas - South Mall,,3,,,,dublin_bus
+5401_125866,7778020,207,Donnybrook - City Centre - City Centre - Glenheights,,3,,,,dublin_bus
+5401_125867,7778020,208,Lotabeg - Bishopstown - Curraheen,,3,,,,dublin_bus
+5401_125868,7778020,209,Patrick St - Audley Place - Lotamore,,3,,,,dublin_bus
+5401_125869,7778020,212,Kent Station - Blackrock - Mahon Point,,3,,,,dublin_bus
+5401_125870,7778020,213,Lapps Quay (P&R) - Black Ash,,3,,,,dublin_bus
+5401_125871,7778020,214,Glanmire - City Centre - CUH,,3,,,,dublin_bus
+5401_125872,7778020,215,Mahon Point - Ballinlough - Cloghroe,,3,,,,dublin_bus
+5401_125873,7778020,216,Mount Oval - City - Glasheen - CUH,,3,,,,dublin_bus
+5401_125874,7778020,219,Mahon - Douglas - CUH/ CIT (South Orb),,3,,,,dublin_bus
+5401_125875,7778020,220,Ballincollig - Douglas - Carrigaline,,3,,,,dublin_bus
+5401_125876,7778020,223,Cork - Ringaskiddy - Haulbowline,,3,,,,dublin_bus
+5401_125877,7778020,225,Cork Airport - Haulbowline,,3,,,,dublin_bus
+5401_125878,7778020,226,Train Stn - Airport - Kinsale,,3,,,,dublin_bus
+5401_125879,7778020,233,Cork - Macroom,,3,,,,dublin_bus
+5401_125880,7778020,235,Cork - Rylane - Stuake,,3,,,,dublin_bus
+5401_125881,7778020,236,Cork - Bantry - Castletownbere,,3,,,,dublin_bus
+5401_125882,7778020,237,Cork - Skibereen - Goleen,,3,,,,dublin_bus
+5401_125883,7778020,239,Cork - Bandon,,3,,,,dublin_bus
+5401_125884,7778020,240,Cork - Cloyne - Ballycotton,,3,,,,dublin_bus
+5401_125885,7778020,241,Cork - Midelton - Whitegate,,3,,,,dublin_bus
+5401_125886,7778020,243,Cork - Newmarket/Doneraile/Charleville,,3,,,,dublin_bus
+5401_125887,7778020,245,Cork - Fermoy - Mitchelstown - Clonmel,,3,,,,dublin_bus
+5401_125888,7778020,248,Cork - Carrignavar/ Glenville,,3,,,,dublin_bus
+5401_125889,7778020,257,Macroom - Killarney,,3,,,,dublin_bus
+5401_125890,7778020,260,Cork - Youghal - Ardmore,,3,,,,dublin_bus
+5401_125891,7778020,261,Cork - Midelton - Ballincurra,,3,,,,dublin_bus
+5401_125892,7778020,270,Killarney - Kenmare - Skibbereen,,3,,,,dublin_bus
+5401_125893,7778020,271,Tralee - Kerry Airport - Killarney,,3,,,,dublin_bus
+5401_125894,7778020,272,Tralee - Listowel - Tarbert,,3,,,,dublin_bus
+5401_125895,7778020,275,Tralee - Dingle,,3,,,,dublin_bus
+5401_125896,7778020,279,Killarney - Cahersiveen - Waterville,,3,,,,dublin_bus
+5401_125897,7778020,284,Killarney - Tralee,,3,,,,dublin_bus
+5401_125898,7778020,301,Westbury - Regional Hospital,,3,,,,dublin_bus
+5401_125899,7778020,302,City Centre - Caherdavin,,3,,,,dublin_bus
+5401_125900,7778020,303,O'Malley Park - City Centre - Pineview,,3,,,,dublin_bus
+5401_125901,7778020,304,UL - City Centre - Raheen,,3,,,,dublin_bus
+5401_125902,7778020,305,Lynwood Pk - City Centre - St Marys Pk,,3,,,,dublin_bus
+5401_125903,7778020,306,Brookfield - City Centre - Ballynanty,,3,,,,dublin_bus
+5401_125904,7778020,313,Limerick - Ardnacrusha,,3,,,,dublin_bus
+5401_125905,7778020,314,Limerick - Foynes - Glin - Ballybunion,,3,,,,dublin_bus
+5401_125906,7778020,316,Sixmilebridge - Shannon Airport,,3,,,,dublin_bus
+5401_125907,7778020,317,Limerick - Ennis,,3,,,,dublin_bus
+5401_125908,7778020,320,Limerick - Charleville,,3,,,,dublin_bus
+5401_125909,7778020,321,Limerick - Rathkeale - Newcastlewest,,3,,,,dublin_bus
+5401_125910,7778020,323,Limerick - Killaloe - Nenagh - Birr,,3,,,,dublin_bus
+5401_125911,7778020,324,Nenagh - Borrisokane - Kilbarron,,3,,,,dublin_bus
+5401_125912,7778020,328,Limerick - Mitchellstown,,3,,,,dublin_bus
+5401_125913,7778020,329,Limerick - Bruff - Kilfinane,,3,,,,dublin_bus
+5401_125914,7778020,330,Ennis - Shannon Airport,,3,,,,dublin_bus
+5401_125915,7778020,332,Limerick - Dundrum,,3,,,,dublin_bus
+5401_125916,7778020,333,Limerick - Ennis - Corofin - Doonbeg,,3,,,,dublin_bus
+5401_125917,7778020,336,Limerick - Ennis - Kilrush - Kilkee,,3,,,,dublin_bus
+5401_125918,7778020,343,Limerick - Shannon Airport,,3,,,,dublin_bus
+5401_125919,7778020,345,Limerick - Killaloe - Scariff,,3,,,,dublin_bus
+5401_125920,7778020,347,Limerick - Tipperary,,3,,,,dublin_bus
+5401_125921,7778020,350,Galway - Kinvara - Doolin - Ennis,,3,,,,dublin_bus
+5401_125922,7778020,354,Portlaw - Waterford - Dunmore East,,3,,,,dublin_bus
+5401_125923,7778020,355,Waterford - Cahir,,3,,,,dublin_bus
+5401_125924,7778020,360,Waterford - Tramore,,3,,,,dublin_bus
+5401_125925,7778020,362,Waterford - Dungarvan,,3,,,,dublin_bus
+5401_125926,7778020,365,Waterford - Thomastown,,3,,,,dublin_bus
+5401_125927,7778020,370,Waterford - New Ross - Wexford,,3,,,,dublin_bus
+5401_125928,7778020,371,New Ross - Adamstown - Wexford,,3,,,,dublin_bus
+5401_125929,7778020,372,New Ross - Foulksmills - Wexford,,3,,,,dublin_bus
+5401_125930,7778020,373,New Ross - Fethard - Wexford,,3,,,,dublin_bus
+5401_125931,7778020,374,New Ross - Kilkenny,,3,,,,dublin_bus
+5401_125932,7778020,379,Wexford - Curracloe - Gorey,,3,,,,dublin_bus
+5401_125933,7778020,382,Adamstown - Wexford,,3,,,,dublin_bus
+5401_125934,7778020,445,Ballina - Killala - Ballycastle,,3,,,,dublin_bus
+5401_125935,7778020,446,Ballina - Blacksod,,3,,,,dublin_bus
+5401_125936,7778020,447,Finea - Castlepollard - Mullingar,,3,,,,dublin_bus
+5401_125937,7778020,448,Shandonagh - Ballynacargy - Mullingar,,3,,,,dublin_bus
+5401_125938,7778020,450,Dooagh - Louisburgh,,3,,,,dublin_bus
+5401_125939,7778020,451,Ballina - Charlestown - Longford,,3,,,,dublin_bus
+5401_125940,7778020,456,Galway - Westport - Ballina,,3,,,,dublin_bus
+5401_125941,7778020,458,Sligo - Enniscrone - Ballina,,3,,,,dublin_bus
+5401_125942,7778020,461,Sligo - Roscommon - Athlone,,3,,,,dublin_bus
+5401_125943,7778020,462,Carrigallen - Ballinamore - Sligo,,3,,,,dublin_bus
+5401_125944,7778020,464,Carrigallen - Eniskillen,,3,,,,dublin_bus
+5401_125945,7778020,465,Carrigallen - Cavan,,3,,,,dublin_bus
+5401_125946,7778020,466,Athlone - Longford,,3,,,,dublin_bus
+5401_125947,7778020,468,Strokestown - Carrick on Shannon,,3,,,,dublin_bus
+5401_125948,7778020,469,Sligo - Drumkeeran - Longford,,3,,,,dublin_bus
+5401_125949,7778020,470,Sligo - Glenfarne - Rossinver,,3,,,,dublin_bus
+5401_125950,7778020,S2,Strandhill - Rosses Point,,3,,,,dublin_bus
+5401_125951,7778020,S3,Finisklin Sth - Markievicz Rd,,3,,,,dublin_bus
+5401_125952,7778020,476,Killavil - Ballymote - Tubbercurry,,3,,,,dublin_bus
+5401_125953,7778020,S1,Cartron - Sligo Town Centre - Cairns,,3,,,,dublin_bus
+5401_125954,7778020,479,Aclare - Coolaney - Sligo,,3,,,,dublin_bus
+5401_125955,7778020,480,Sligo - Donegal - Letterkenny - Derry,,3,,,,dublin_bus
+5401_125956,7778020,487,Strabane - Raphoe - Letterkenny,,3,,,,dublin_bus
+5401_125957,7778020,490,Donegal - Killybegs - Glencolumbcille,,3,,,,dublin_bus
+5401_125958,7778020,491,Letterkenny - Ballybofey,,3,,,,dublin_bus
+5401_125959,7778020,492,Donegal - Glenties - Dungloe,,3,,,,dublin_bus
+5401_125960,7778020,494,Strabane - Ballybofey,,3,,,,dublin_bus
+5401_125961,7778020,519,Cork - Charleville,,3,,,,dublin_bus
+5401_125962,7778020,100X,Wilton Tce - Airport - Dundalk,,3,,,,dublin_bus
+5401_125963,7778020,115C,Enfield - Killucan - Mullingar,,3,,,,dublin_bus
+5401_125964,7778020,174A,Long Walk - Fatima,,3,,,,dublin_bus
+5401_125965,7778020,174B,Long Walk - Bay Estate,,3,,,,dublin_bus
+5401_125966,7778020,175A,Cavan - Clones - Monaghan,,3,,,,dublin_bus
+5401_125967,7778020,D4,Southgate SC - Ballymakenny,,3,,,,dublin_bus
+5401_125968,7778020,D5,Colpe Road - Termonabbey,,3,,,,dublin_bus
+5401_125969,7778020,209A,City Centre - Pouladuff - Connolly Rd,,3,,,,dublin_bus
+5401_125970,7778020,215A,Mahon Point - Boreenmanna Rd - City,,3,,,,dublin_bus
+5401_125971,7778020,207A,Merchants Quay - Glen Ave - Glenthorn,,3,,,,dublin_bus
+5401_125972,7778020,CW1,MSD - Tyndall College,,3,,,,dublin_bus
+5401_125973,7778020,CW2,Barrow Valley RPK - Business Park,,3,,,,dublin_bus
+5401_125974,7778020,D1,Drogheda - Laytown,,3,,,,dublin_bus
+5401_125975,7778020,D2,Drogheda - Coast Road - Laytown,,3,,,,dublin_bus
+5401_125976,7778020,226X,Kinsale - UCC,,3,,,,dublin_bus
+5401_125977,7778020,323X,Limerick - Birr - Athlone,,3,,,,dublin_bus
+5401_125978,7778020,330X,Limerick - Ennis,,3,,,,dublin_bus
+5401_125979,7778020,317A,Limerick - Ennis,,3,,,,dublin_bus
+5401_125980,7778020,305A,CC - St.Marys Park - CC,,3,,,,dublin_bus
+5401_125981,7778020,202A,Ringmahon - City - Hollyhill (Apple),,3,,,,dublin_bus
+5401_125982,7778020,220A,South Mall - Fountainstown,,3,,,,dublin_bus
+5401_125983,7778020,225L,Carrigaline - NMCI,,3,,,,dublin_bus
+5401_125984,7778020,31,Parnell Place - Knockraha,,3,,,,dublin_bus
+5401_125985,7778020,360A,Waterford - WIT - Tramore,,3,,,,dublin_bus
+5401_125986,7778020,279A,Waterville - Caherciveen - Killarney,,3,,,,dublin_bus
+5401_125987,7778020,220X,Ovens - Carrigaline - Crosshaven,,3,,,,dublin_bus
+5401_125988,7778020,101X,Wilton Tce - Drogheda - Termon Abbey,,3,,,,dublin_bus
+5401_125989,7778020,245X,Busaras - Fermoy - Cork,,3,,,,dublin_bus
+5401_125990,7778020,223X,South Mall - Haulbowline,,3,,,,dublin_bus
+5401_125991,7778020,EK1,Kells - Virginia,,3,,,,dublin_bus
+5401_125992,7778020,A1,Bellanamulla - Station - Creggan,,3,,,,dublin_bus
+5401_125993,7778020,A2,Bellanamulla - Station - Creggan,,3,,,,dublin_bus
+5401_125994,7778020,107,Dublin - Navan - Nobber - Kingscourt,,3,,,,dublin_bus
+5401_125995,7778020,109,Dublin - Navan - Kells - Cavan,,3,,,,dublin_bus
+5401_125996,7778020,110D,DCU - Kennedy Road,,3,,,,dublin_bus
+5401_125997,7778020,111,Wilton Tce - Trim - Granard - Cavan,,3,,,,dublin_bus
+5401_125998,7778020,187,Kells - Virginia - Ballyjamesduff,,3,,,,dublin_bus
+5401_125999,7778020,401,Parkmore Road - Doctor Mannix Road,,3,,,,dublin_bus
+5401_126000,7778020,402,Seacrest - Eyre Square - Merlin Park,,3,,,,dublin_bus
+5401_126001,7778020,404,Eyre Square - Newcastle,,3,,,,dublin_bus
+5401_126002,7778020,405,Rahoon - Eyre Square - Ballybane,,3,,,,dublin_bus
+5401_126003,7778020,407,Eyre Square - Bóthar an Chóiste,,3,,,,dublin_bus
+5401_126004,7778020,409,Eyre Square - An Pháirc Mhór,,3,,,,dublin_bus
+5401_126005,7778020,417,Galway - Corofin Cross - Tuam,,3,,,,dublin_bus
+5401_126006,7778020,419,Galway - Clifden,,3,,,,dublin_bus
+5401_126007,7778020,420,Ballina - Pontoon - Castlebar,,3,,,,dublin_bus
+5401_126008,7778020,421,Swinford - Claremorris,,3,,,,dublin_bus
+5401_126009,7778020,422,Headford - Castlebar,,3,,,,dublin_bus
+5401_126010,7778020,423,Westport - Clifden,,3,,,,dublin_bus
+5401_126011,7778020,424,Galway - Lettermullen,,3,,,,dublin_bus
+5401_126012,7778020,425,Galway - Roscommon - Longford,,3,,,,dublin_bus
+5401_126013,7778020,429,Galway - Tuam - Castlerea,,3,,,,dublin_bus
+5401_126014,7778020,434,Galway - Gort,,3,,,,dublin_bus
+5401_126015,7778020,440,Knock Airport - Westport - Dooagh,,3,,,,dublin_bus
+5401_126016,7778020,109A,DCU - Airport - Ratoath - Navan,,3,,,,dublin_bus
+5401_126017,7778020,425A,Galway - Monivea - Mountbellew,,3,,,,dublin_bus
+5401_126018,7778020,109D,DCU - Trim,,3,,,,dublin_bus
+5401_126019,7778020,109B,Dublin - Dunshaughlin - Trim,,3,,,,dublin_bus
+5401_126020,7778020,109X,Dublin - Kells - Cavan Hourly Express,,3,,,,dublin_bus
+5401_126021,7778020,111A,Delvin - Granard - Cavan,,3,,,,dublin_bus
+5401_126022,7778020,115X,Connolly Station - Mullingar Stn,,3,,,,dublin_bus
+5401_126023,7778020,220C,MTU - Crosshaven,,3,,,,dublin_bus
+5401_126024,7778020,304A,Raheen - Bus Station - UL,,3,,,,dublin_bus
+5401_126025,7778020,NX,Dublin Wilton Terrace - Navan,,3,,,,dublin_bus
+5401_126026,7778020,NV1,Gainstown - Dunville Road,,3,,,,dublin_bus
+5401_126027,7778020,NV2,Gainstown - Cluster Park,,3,,,,dublin_bus
+5401_126028,7778020,103X,Dublin - Ashbourne - Duleek - Navan,,3,,,,dublin_bus
+5401_126029,7778020,105X,UCD - M3 - Ratoath - Ashbourne,,3,,,,dublin_bus
+5401_126030,7778020,111X,Dublin express - Athboy - Clonmellon,,3,,,,dublin_bus
+5402_123775,7778019,6,Howth Dart Stn - Lower Abbey Street,,3,,,,dublin_bus
+5402_123776,7778019,13,Grange Castle - Harristown,,3,,,,dublin_bus
+5402_123777,7778019,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),,3,,,,dublin_bus
+5402_123778,7778019,15,Ballycullen Road - Clongriffin,,3,,,,dublin_bus
+5402_123779,7778019,16,Ballinteer - Dublin Airport,,3,,,,dublin_bus
+5402_123780,7778019,16D,Airport - Beaumont Village - Ballinteer not,,3,,,,dublin_bus
+5402_123781,7778019,19,Parnell Square West - Dublin Airport,,3,,,,dublin_bus
+5402_123782,7778019,23,Merrion Square - Charlestown SC,,3,,,,dublin_bus
+5402_123783,7778019,24,Merrion Square - Dublin Airport,,3,,,,dublin_bus
+5402_123784,7778019,27,Jobstown - Clare Hall,,3,,,,dublin_bus
+5402_123785,7778019,33,Balbriggan - Lower Abbey St,,3,,,,dublin_bus
+5402_123786,7778019,33D,Portrane - St Stephens Green,,3,,,,dublin_bus
+5402_123787,7778019,33E,Lwr Abbey St - Portrane - Skerries,,3,,,,dublin_bus
+5402_123788,7778019,37,Blanchardstown Shopping Centre - Wilton Terrace,,3,,,,dublin_bus
+5402_123789,7778019,38,Damastown - Burlington Road,,3,,,,dublin_bus
+5402_123790,7778019,39,Ongar - Burlington Rd,,3,,,,dublin_bus
+5402_123791,7778019,41,Swords Manor - Lower Abbey Street,,3,,,,dublin_bus
+5402_123792,7778019,41D,Swords Business Park - Lwr Abbey St,,3,,,,dublin_bus
+5402_123793,7778019,42,Sand's Hotel Portmarnock - Eden Quay,,3,,,,dublin_bus
+5402_123794,7778019,43,Talbot Street - Swords Business Park,,3,,,,dublin_bus
+5402_123795,7778019,44,Enniskerry - DCU,,3,,,,dublin_bus
+5402_123796,7778019,47,Poolbeg Street - Belarmine,,3,,,,dublin_bus
+5402_123797,7778019,52,Intel - Ringsend,,3,,,,dublin_bus
+5402_123798,7778019,53,Dublin Ferryport - Talbot St,,3,,,,dublin_bus
+5402_123799,7778019,56A,Tallaght - Ringsend Rd,,3,,,,dublin_bus
+5402_123800,7778019,60,Forbes Street - Tallaght,,3,,,,dublin_bus
+5402_123801,7778019,65,Poolbeg Street - Blessington/Ballymore,,3,,,,dublin_bus
+5402_123802,7778019,68,Newcastle / Greenogue Business Pk - Hawkins St,,3,,,,dublin_bus
+5402_123803,7778019,69,Rathcoole - Hawkins St,,3,,,,dublin_bus
+5402_123804,7778019,70,Dunboyne - Burlington Rd,,3,,,,dublin_bus
+5402_123805,7778019,74,Dundrum Luas - Eden Quay,,3,,,,dublin_bus
+5402_123806,7778019,77A,Citywest - Ringsend,,3,,,,dublin_bus
+5402_123807,7778019,80,Liffey Valley SC - Palmerston Park,,3,,,,dublin_bus
+5402_123808,7778019,82,Irishtown - Kiltipper,,3,,,,dublin_bus
+5402_123809,7778019,99,Phoenix Park - Phoenix Park,,3,,,,dublin_bus
+5402_123810,7778019,116,Whitechurch - Parnell Square,,3,,,,dublin_bus
+5402_123811,7778019,118,Kilternan - Eden Quay,,3,,,,dublin_bus
+5402_123812,7778019,120,Ashtown Station - Parnell St,,3,,,,dublin_bus
+5402_123813,7778019,122,Drimnagh - Ashington,,3,,,,dublin_bus
+5402_123814,7778019,130,Talbot Street - Castle Avenue,,3,,,,dublin_bus
+5402_123815,7778019,38D,IBM Damastown via N3 - Burlington Rd,,3,,,,dublin_bus
+5402_123816,7778019,142,Portmarnock - UCD (Belfield),,3,,,,dublin_bus
+5402_123817,7778019,44D,Dundrum - OCS,,3,,,,dublin_bus
+5402_123818,7778019,150,Rossmore - Hawkins Street,,3,,,,dublin_bus
+5402_123819,7778019,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),,3,,,,dublin_bus
+5402_123820,7778019,P29,Adamstown Stn - Ringsend,,3,,,,dublin_bus
+5402_123821,7778019,X1,Kilcoole - Hawkins Street,,3,,,,dublin_bus
+5402_123822,7778019,X2,Newcastle - Hawkins Street,,3,,,,dublin_bus
+5402_123823,7778019,X25,Maynooth - Easton Rd - UCD,,3,,,,dublin_bus
+5402_123824,7778019,X26,Maynooth - Louisa Bridge - Leeson Street Lower,,3,,,,dublin_bus
+5402_123825,7778019,X27,Salesian College - Aghards Rd - UCD,,3,,,,dublin_bus
+5402_123826,7778019,X28,Salesian College - Celbridge Main St - UCD,,3,,,,dublin_bus
+5402_123827,7778019,X30,Dodsboro - UCD,,3,,,,dublin_bus
+5402_123828,7778019,X31,River Forest - UCD Belfield,,3,,,,dublin_bus
+5402_123829,7778019,X32,Kildare Innovation Campus - UCD Belfield,,3,,,,dublin_bus
+5402_123830,7778019,C1,Adamstown Stn - Sandymount,,3,,,,dublin_bus
+5402_123831,7778019,C2,Adamstown Stn - Sandymount,,3,,,,dublin_bus
+5402_123832,7778019,C3,Maynooth - Ringsend,,3,,,,dublin_bus
+5402_123833,7778019,C4,Maynooth - Ringsend,,3,,,,dublin_bus
+5402_123834,7778019,C5,Maynooth - Ringsend Night Service,,3,,,,dublin_bus
+5402_123835,7778019,C6,Maynooth - Celbridge - Ringsend Night Service,,3,,,,dublin_bus
+5402_123836,7778019,E1,Ballywaltrim - Northwood,,3,,,,dublin_bus
+5402_123837,7778019,E2,Dun Laoghaire - Harristown,,3,,,,dublin_bus
+5402_123838,7778019,F1,The Square Tallaght - IKEA,,3,,,,dublin_bus
+5402_123839,7778019,F2,Charlestown SC - Rossmore,,3,,,,dublin_bus
+5402_123840,7778019,F3,Charlestown SC - Limekiln Avenue,,3,,,,dublin_bus
+5402_123841,7778019,G1,Red Cow LUAS - Spencer Dock,,3,,,,dublin_bus
+5402_123842,7778019,G2,Liffey Valley SC - Spencer Dock,,3,,,,dublin_bus
+5402_123843,7778019,H1,Baldoyle - Lower Abbey Street,,3,,,,dublin_bus
+5402_123844,7778019,H2,Malahide - Lower Abbey Street,,3,,,,dublin_bus
+5402_123845,7778019,H3,Howth Summit - Lower Abbey Street,,3,,,,dublin_bus
+5402_123846,7778019,N4,Blanchardstown - Point Village,,3,,,,dublin_bus
+5402_123847,7778019,S2,Sean Moore Road - Heuston Station,,3,,,,dublin_bus
+5402_123848,7778019,65A,Route 65A Tallaght Sq - Blessington,,3,,,,dublin_bus
+5402_123849,7778019,15A,Merrion Square - Limekiln Avenue,,3,,,,dublin_bus
+5402_123850,7778019,27B,Eden Quay - Harristown,,3,,,,dublin_bus
+5402_123851,7778019,32X,UCD Belfield - Malahide,,3,,,,dublin_bus
+5402_123852,7778019,38A,Damastown via Navan Rd - Burlington Rd,,3,,,,dublin_bus
+5402_123853,7778019,39X,Ongar - Burlington Road,,3,,,,dublin_bus
+5402_123854,7778019,44B,Glencullen - Dundrum Luas,,3,,,,dublin_bus
+5402_123855,7778019,65B,Poolbeg Street - Citywest,,3,,,,dublin_bus
+5402_123856,7778019,70D,Dunboyne - DCU,,3,,,,dublin_bus
+5402_123857,7778019,77X,Citywest - UCD Belfield,,3,,,,dublin_bus
+5402_123858,7778019,1,Sandymount - O'Connell Street - Santry,,3,,,,dublin_bus
+5402_123859,7778019,4,Monkstown Avenue - Heuston Station,,3,,,,dublin_bus
+5402_123860,7778019,7,Brides Glen Luas - Mountjoy Square,,3,,,,dublin_bus
+5402_123861,7778019,11,Phoenix Park - Sandyford Business District,,3,,,,dublin_bus
+5402_123862,7778019,11B,Phoenix Park - Donnybrook,,3,,,,dublin_bus
+5402_123863,7778019,15B,Merrion Square - Stocking Avenue,,3,,,,dublin_bus
+5402_123864,7778019,41B,Rolestown - Lower Abbey Street,,3,,,,dublin_bus
+5402_123865,7778019,41X,Swords - UCD Belfield,,3,,,,dublin_bus
+5402_123866,7778019,7E,Mountjoy Square - Dalkey,,3,,,,dublin_bus
+5402_123867,7778019,7A,Loughlinstown - Mountjoy Sq,,3,,,,dublin_bus
+5402_123868,7778019,7B,Shankill - Mountjoy Square,,3,,,,dublin_bus
+5402_123869,7778019,7D,Dalkey - Mountjoy Square,,3,,,,dublin_bus
+5402_123870,7778019,27X,Clare Hall - UCD Belfield,,3,,,,dublin_bus
+5402_123871,7778019,15D,Merrion Square - Whitechurch,,3,,,,dublin_bus
+5402_123872,7778019,40D,Tyrrelstown - Parnell Street,,3,,,,dublin_bus
+5402_123873,7778019,40E,Broombridge Luas - Tyrrelstown,,3,,,,dublin_bus
+5402_123874,7778019,33X,Skerries - Custom House Quay / St Stephen Green,,3,,,,dublin_bus
+5402_123875,7778019,38B,Damastown via Ballycoolin Ind Est - Burlington Rd,,3,,,,dublin_bus
+5402_123876,7778019,39A,Ongar - UCD Belfield,,3,,,,dublin_bus
+5402_123877,7778019,41C,Swords Manor Via River Valley - Lower Abbey St,,3,,,,dublin_bus
+5402_123878,7778019,42D,Portmarnock - DCU,,3,,,,dublin_bus
+5402_123879,7778019,51D,Aston Quay - Clondalkin,,3,,,,dublin_bus
+5402_123880,7778019,27A,Blunden Drive - Eden Quay,,3,,,,dublin_bus
+5402_123881,7778019,68A,Hawkins Street - Bulfin Road,,3,,,,dublin_bus
+5402_123882,7778019,69X,Rathcoole - Hawkins St,,3,,,,dublin_bus
+5402_123883,7778019,L12,Ballywaltrim - Bray Dart Station,,3,,,,dublin_bus
+5402_123884,7778019,L14,Southern Cross Road - Palermo,,3,,,,dublin_bus
+5402_123885,7778019,L25,Dun Laoghaire - Dundrum Town Centre,,3,,,,dublin_bus
+5402_123886,7778019,L53,Liffey Valley - Adamstown Stn,,3,,,,dublin_bus
+5402_123887,7778019,L54,River Forest - Red Cow Luas,,3,,,,dublin_bus
+5402_123888,7778019,L58,River Forest - Castletown - Hazelhatch Stn,,3,,,,dublin_bus
+5402_123889,7778019,L59,River Forest - Celbridge - Hazelhatch,,3,,,,dublin_bus
+5402_123890,7778019,L89,Broombridge Luas - Toberburr,,3,,,,dublin_bus
+5403_126031,7778017,rail,Dublin - Belfast,,2,,,,dublin_bus
+5403_126032,7778017,rail,Belfast - Dublin,,2,,,,dublin_bus
+5403_126033,7778017,InterCity,Dublin - Cork,,2,,,,dublin_bus
+5403_126035,7778017,rail,Dublin - Tralee,,2,,,,dublin_bus
+5403_126037,7778017,rail,Dublin - Limerick,,2,,,,dublin_bus
+5403_126039,7778017,rail,Limerick - Galway,,2,,,,dublin_bus
+5403_126040,7778017,rail,Waterford - Limerick,,2,,,,dublin_bus
+5403_126041,7778017,rail,Limerick - Ballybrophy,,2,,,,dublin_bus
+5403_126044,7778017,rail,Dublin - Waterford,,2,,,,dublin_bus
+5403_126047,7778017,rail,Dublin - Europort,,2,,,,dublin_bus
+5403_126049,7778017,rail,Dublin - Galway,,2,,,,dublin_bus
+5403_126050,7778017,rail,Dublin - Westport,,2,,,,dublin_bus
+5403_126053,7778017,rail,Dublin - Sligo,,2,,,,dublin_bus
+5403_126055,7778017,Commuter,Dublin - Portlaoise,,2,,,,dublin_bus
+5403_126056,7778017,rail,Dublin - Maynooth,,2,,,,dublin_bus
+5403_126057,7778017,rail,Mallow - Cobh,,2,,,,dublin_bus
+5403_126058,7778017,rail,Dublin - Drogheda/Dundalk,,2,,,,dublin_bus
+5403_126059,7778017,DART,Bray - Howth,,2,,,,dublin_bus
+5404_109840,7778048,843,Birr - Tullamore,,3,,,,dublin_bus
+5404_110721,7778048,844,Birr - Galway,,3,,,,dublin_bus
+5404_110730,7778048,845,Birr - Dublin,,3,,,,dublin_bus
+5404_114219,7778048,847,Birr - Dublin,,3,,,,dublin_bus
+5405_105285,7778028,KK1,Glenbawn - Danville Business Park,,3,,,,dublin_bus
+5405_105286,7778028,KK2,Cillín Hill - St Luke’s Hospital,,3,,,,dublin_bus
+5405_116109,7778028,410,Mount Prospect - Eyre Square,,3,,,,dublin_bus
+5405_116110,7778028,411,Mount Prospect - Eyre Square,,3,,,,dublin_bus
+5405_116111,7778028,412,Mount Prospect - Eyre Square,,3,,,,dublin_bus
+5405_99938,7778028,PL1,Colliers Lane - Woodgrove,,3,,,,dublin_bus
+5405_99940,7778028,PL2,Kilminchy Avenue – Bellingham,,3,,,,dublin_bus
+5410_124785,7778172,806,Portarlington - Monasterevin,,3,,,,dublin_bus
+5410_124786,7778172,815,Tullamore - Athlone,,3,,,,dublin_bus
+5410_124787,7778172,822,Mountrath - Carlow,,3,,,,dublin_bus
+5410_124788,7778172,823,Birr - Portlaoise,,3,,,,dublin_bus
+5410_124789,7778172,831,Borris-in-Ossory - Portlaoise,,3,,,,dublin_bus
+5410_124790,7778172,834,Roscrea - Portlaoise,,3,,,,dublin_bus
+5410_124791,7778172,840,Banagher - Tullamore,,3,,,,dublin_bus
+5410_124792,7778172,850,Athlone - Thurles,,3,,,,dublin_bus
+5410_124793,7778172,858,Thurles - Portlaoise,,3,,,,dublin_bus
+5410_124794,7778172,LS1,Borris-in-Ossory - Mount Lucas,,3,,,,dublin_bus
+5410_124795,7778172,OY1,Tullamore - Mount Lucas,,3,,,,dublin_bus
+5411_110899,7778024,702,Dublin Airport - Dalkey,,3,,,,dublin_bus
+5411_110900,7778024,700,Dublin Airport - Leopardstown,,3,,,,dublin_bus
+5411_110901,7778024,700X,Dublin Airport - City Centre,,3,,,,dublin_bus
+5411_94474,7778024,704x,Cork - Dublin - Dublin Airport,,3,,,,dublin_bus
+5411_94475,7778024,705x,Dublin - Derry/Londonderry,,3,,,,dublin_bus
+5413_107358,7778080,250,Cobh Town Service,,3,,,,dublin_bus
+5413_125571,7778080,200,Cobh - Cork,,3,,,,dublin_bus
+5413_125572,7778080,210,Hollyhill - Little Island,,3,,,,dublin_bus
+5413_51296,7778080,211,Cobh - Little Island,,3,,,,dublin_bus
+5414_122948,7778225,741,Dublin Airport - Swords,,3,,,,dublin_bus
+5414_126707,7778225,193,Ashbourne - Dublin,,3,,,,dublin_bus
+5414_68787,7778225,194,Ratoath - Dublin,,3,,,,dublin_bus
+5415_53763,7778256,SI03,Béal an Mhuirthead - Sligo,,3,,,,dublin_bus
+5415_53764,7778256,NG11,Béal an Mhuirthead - Galway,,3,,,,dublin_bus
+5416_77790,7778101,191,Stamullen - Dublin,,3,,,,dublin_bus
+5417_114373,7778151,435,Ballinrobe - Headfort - Galway,,3,,,,dublin_bus
+5417_114956,7778151,427,Dunmore - Tuam - Galway,,3,,,,dublin_bus
+5417_36546,7778151,428,Tuam - Galway,,3,,,,dublin_bus
+5418_114374,7778157,964,Galway - Croithlí,,3,,,,dublin_bus
+5419_114954,7778030,593,Creeves - Newcastle West,,3,,,,dublin_bus
+5420_110902,7778013,812,Urlingford - Thurles - Roscrea,,3,,,,dublin_bus
+5420_111023,7778013,881,Graiguenamanagh - Kilkenny,,3,,,,dublin_bus
+5420_122950,7778013,MU1,Ballinderry Road - Lough Sheever Corporate Park,,3,,,,dublin_bus
+5420_122951,7778013,MU2,Mullingar Business Park - Ardmore Road,,3,,,,dublin_bus
+5421_105286,7778028,KK2,Cillín Hill - Saint Luke's Hospital,,3,,,,dublin_bus
+5421_99940,7778028,PL2,Kilminchy Avenue - Bellingham,,3,,,,dublin_bus
+5423_109553,7778000,763,Dublin Airport - Athlone - Galway,,3,,,,dublin_bus
+5423_109718,7778000,763X,Ballinasloe - Galway,,3,,,,dublin_bus
+5423_110897,7778000,251,Galway - Limerick - Cork Airport,,3,,,,dublin_bus
+5423_113413,7778000,923,Galway - Clifden - Letterfrack,,3,,,,dublin_bus
+5423_116049,7778000,761,Galway - Dublin - Dublin Airport,,3,,,,dublin_bus
+5423_116050,7778000,660,Galway - Dublin,,3,,,,dublin_bus
+5423_99506,7778000,712,Ennis - Limerick - Dublin Airport,,3,,,,dublin_bus
+5423_99512,7778000,721,Castlebar - Dublin - Dublin Airport,,3,,,,dublin_bus
+5423_99513,7778000,430,Ballina - Galway,,3,,,,dublin_bus
+5423_99516,7778000,707,Cork - Dublin - Dublin Airport,,3,,,,dublin_bus
+5424_110723,7778153,980,Carrickmacross - Dublin,,3,,,,dublin_bus
+5424_84824,7778153,980A,Carrickmacross - Dublin,,3,,,,dublin_bus
+5424_84825,7778153,980B,Carrickmacross - Dublin,,3,,,,dublin_bus
+5425_56125,7778032,947,Ros Dumhach - Béal an Mhuirthead,,3,,,,dublin_bus
+5425_91958,7778032,945,Ros Dumhach - Béal an Mhuirthead,,3,,,,dublin_bus
+5425_92138,7778032,946,Ros Dumhach - Béal an Mhuirthead,,3,,,,dublin_bus
+5427_113138,7778191,961,Croithlí - Letterkenny,,3,,,,dublin_bus
+5428_107656,7778082,IW01,Kilkenny - Carlow,,3,,,,dublin_bus
+5429_51301,7778082,IW07,Gorey - Carlow,,3,,,,dublin_bus
+5430_83262,7778260,DK07,Monaghan - Dundalk,,3,,,,dublin_bus
+5431_37963,7778036,836,O'Connell Street - Ballycoolin,,3,,,,dublin_bus
+5431_46124,7778036,787,Travelodge Ballymun - Dublin Airport,,3,,,,dublin_bus
+5431_47272,7778036,870,O'Connell Street - IBM Damastown,,3,,,,dublin_bus
+5431_92217,7778036,786,Hilton Hotel - Dublin Airport,,3,,,,dublin_bus
+5432_109381,7778038,527,Glennaneeny - Tuam,,3,,,,dublin_bus
+5432_109382,7778038,488,Glennaneeny - Dunmore,,3,,,,dublin_bus
+5432_109513,7778038,441,Corofin - Tuam,,3,,,,dublin_bus
+5432_110722,7778038,484,Glennaneeny - Tuam,,3,,,,dublin_bus
+5433_112279,7778102,ATH1,Golden Island - TUS Athlone,,3,,,,dublin_bus
+5434_119506,7778347,DK05,Carrickmacross - Dundalk,,3,,,,dublin_bus
+5435_37748,7778099,KY03,Gleneagle Hotel - Killarney,,3,,,,dublin_bus
+5436_122949,7778228,879,Gorey - Courtown,,3,,,,dublin_bus
+5437_112158,7778238,BR01,Gorey - Bray,,3,,,,dublin_bus
+5438_109509,7778042,917,Dundalk - Muirhevnamor,,3,,,,dublin_bus
+5438_109511,7778042,916,Dundalk - Bay Estate,,3,,,,dublin_bus
+5438_114953,7778042,918,Dundalk - Carrick Road,,3,,,,dublin_bus
+5439_112911,7778084,231,Ardgroom - Cork,,3,,,,dublin_bus
+5440_85798,7778309,525,Galway - Ros an Mhíl,,3,,,,dublin_bus
+5441_103878,7778044,UM12,Carlow - Naas - Maynooth,,3,,,,dublin_bus
+5441_105287,7778044,UM14,Portlaoise - Maynooth,,3,,,,dublin_bus
+5441_107642,7778044,UM06,Athy - Maynooth,,3,,,,dublin_bus
+5441_107650,7778044,GD02,Waterford - Carlow - Dublin,,3,,,,dublin_bus
+5442_112910,7778044,736,Dublin Airport - Carlow - Waterford,,3,,,,dublin_bus
+5442_114256,7778044,735,Limerick - Nenagh - Dublin Airport,,3,,,,dublin_bus
+5442_115074,7778044,717,Clonmel - Kilkenny - Dublin Airport,,3,,,,dublin_bus
+5442_116113,7778044,617,Waterford - Ballygunner,,3,,,,dublin_bus
+5442_116114,7778044,627,Waterford - Slieverue,,3,,,,dublin_bus
+5442_117855,7778044,607,Waterford - Ballygunner,,3,,,,dublin_bus
+5443_46238,7778230,164,Sydney Parade - UCD,,3,,,,dublin_bus
+5444_110724,7778046,327,Tankardstown - Kilmallock,,3,,,,dublin_bus
+5444_112157,7778046,325,Garrane - Charleville,,3,,,,dublin_bus
+5445_113452,7778083,835,Tullamore Town Service,,3,,,,dublin_bus
+3511_51301,7778082,IW07,"Gorey, Main Street - Carlow, Carlow College",,3,,,,luas
+3592_37748,7778099,KY03,"Killarney, Gleneagle Hotel - Killarney, Gleneagle Hotel",,3,,,,luas
+3826_51300,7778193,UM11,Gorey - Wicklow - Maynooth,,3,,,,luas
+3863_49809,7778348,AI05,Edenderry - Athlone,,3,,,,luas
+4194_46238,7778230,164,Sydney Parade DART Station - UCD,,3,,,,luas
+4194_72109,7778230,511,Rathfarnham - Mount Anville,,3,,,,luas
+4389_83262,7778260,DK07,Monaghan - Dundalk Institute of Technology,,3,,,,luas
+4390_77356,7778227,930,Swanlinbar - Cavan,,3,,,,luas
+4409_84786,7778266,VI04,Cross Keys - Cavan,,3,,,,luas
+4410_83419,7778060,IW08,Mountmellick - Carlow,,3,,,,luas
+4442_85798,7778309,525,Galway City - Rossaveel,,3,,,,luas
+4465_46239,7778100,KL03,Santry - Keelings Retail UC,,3,,,,luas
+4506_41295,7778371,809,Galway City  - Glásan Student Village,,3,,,,luas
+4540_74631,7778247,UM15,Carrick-on-Suir - Maynooth University,,3,,,,luas
+4540_91935,7778247,WI05,Clonmel/ Limerick - Waterford,,3,,,,luas
+4551_56125,7778032,947,Rossport - Belmullet,,3,,,,luas
+4551_91958,7778032,945,Rossport - Belmullet,,3,,,,luas
+4551_92138,7778032,946,Rossport - Belmullet,,3,,,,luas
+4586_37963,7778036,836,"Dublin, Millennium Spire - Corduff (Fingal), Cruiserath Road",,3,,,,luas
+4586_46124,7778036,787,"Ballymun, Travelodge Hotel - Dublin Airport",,3,,,,luas
+4586_47272,7778036,870,O'Connell Street Upper - Damastown IBM,,3,,,,luas
+4586_74628,7778036,860,Aston Quay - Park West,,3,,,,luas
+4586_92217,7778036,786,Dublin Airport Hilton Hotel - Dublin Airport,,3,,,,luas
+4661_98303,7778352,853,Dublin Port - Dublin City,,3,,,,luas
+4689_99517,7778363,MB01,Ballymore - Moate,,3,,,,luas
+4822_107107,7778239,UM04,Wexford - Maynooth,,3,,,,luas
+4835_107432,7778249,AI01,Longford - Athlone,,3,,,,luas
+4836_107433,7778487,DK08,Ardee - Dundalk Institute of Technology,,3,,,,luas
+4847_107435,7778254,UM08,Dundrum - Maynooth University,,3,,,,luas
+4859_94420,7778352,KL04,Tyrrelstown - Keelings Flowers Food Central,,3,,,,luas
+4859_94421,7778352,KL01,Phibsborough - Keelings Retail UC,,3,,,,luas
+4860_107594,7778246,UL05,Westport - LimericK,,3,,,,luas
+4864_107633,7778246,970,Breaffy House Resort - Castlebar Town,,3,,,,luas
+4864_37738,7778246,968,"Knockcroghery (Mayo), Church of the Holy Rosary - Castlecourt Hotel Westport",,3,,,,luas
+4867_107634,7778206,NG01,Ballina - Galway,,3,,,,luas
+4867_107643,7778206,SI11,Ballina - Sligo,,3,,,,luas
+4869_107641,7778105,AI02,Roscommon - Athlone,,3,,,,luas
+4873_107635,7778255,UM05,Cavan - Maynooth University,,3,,,,luas
+4873_107644,7778255,GM13,Monaghan - Galway,,3,,,,luas
+4873_107645,7778255,UM09,Athboy - Maynooth University,,3,,,,luas
+4873_107646,7778255,UM03,Dundalk - Maynooth University,,3,,,,luas
+4874_107648,7778048,UM02,Birr - Maynooth,,3,,,,luas
+4878_107647,7778268,DK04,Bailieborough - Dundalk Institute of Technology,,3,,,,luas
+4878_107654,7778268,DK03,Trim - Dundalk Institute of Technology,,3,,,,luas
+4878_107655,7778268,DK02,Moynalty - Dundalk Institute of Technology,,3,,,,luas
+4878_40268,7778268,DK01,"Dunshaughlin (Euromart Shop) - Dundalk, DkIT Dublin Road",,3,,,,luas
+4881_107657,7778490,VI01,Kingscourt - Cavan,,3,,,,luas
+4883_107639,7778270,OF01,Carlingford - Dundalk,,3,,,,luas
+4883_107640,7778270,DF01,Carlingford - Drogheda,,3,,,,luas
+4889_107656,7778082,IW01,Kilkenny - South East Technological University Ca,,3,,,,luas
+4951_105288,7778077,976,Cockhill - Bridgend,,3,,,,luas
+4951_109514,7778077,951,Malin Town - Letterkenny,,3,,,,luas
+4952_109515,7778054,991,Killybegs - Letterkenny,,3,,,,luas
+4959_109516,7778068,290A,Tralee and Tralee via Blennerville,,3,,,,luas
+4959_109717,7778068,290B,Tralee and Tralee via Manor West,,3,,,,luas
+4977_110723,7778153,980,Carrickmacross - Dublin City,,3,,,,luas
+4977_84824,7778153,980A,Carrickmacross - Dublin City,,3,,,,luas
+4977_84825,7778153,980B,Carrickmacross - Dublin City,,3,,,,luas
+4980_110726,7778106,931,Crolly - Killea,,3,,,,luas
+4983_110725,7778066,500,Swords - Dublin City,,3,,,,luas
+4983_110727,7778066,501,Swords - Dublin City,,3,,,,luas
+4983_110728,7778066,502,Swords - Dublin City,,3,,,,luas
+4983_110729,7778066,503,Swords - Dublin City,,3,,,,luas
+4983_110731,7778066,505,Swords - Dublin City,,3,,,,luas
+4983_110732,7778066,506,Dublin City - Swords,,3,,,,luas
+4983_110733,7778066,507,Swords - Dublin City,,3,,,,luas
+4983_110736,7778066,500N,Dublin City - Swords,,3,,,,luas
+4983_110738,7778066,500X,Swords - Dublin City,,3,,,,luas
+4983_110739,7778066,505X,Dublin City - Swords,,3,,,,luas
+4983_110741,7778066,506X,Swords - Dublin City,,3,,,,luas
+4986_110743,7778093,974,Glen - Letterkenny,,3,,,,luas
+4988_110896,7778223,871,Urlingford - Kilkenny,,3,,,,luas
+5026_112120,7778304,437,Tourmakeady - Castlebar,,3,,,,luas
+5028_112158,7778238,BR01,Gorey - Bray Institute of Further Education,,3,,,,luas
+5030_112275,7778481,433,Roscommon - Galway City,,3,,,,luas
+5032_110904,7778056,497,Glenamoy - Glenamoy,,3,,,,luas
+5032_110905,7778056,499,Glenamoy - Ballina,,3,,,,luas
+5032_111025,7778056,436,Ballina - Ballycastle,,3,,,,luas
+5032_111260,7778056,452,Glenamoy - Glenamoy,,3,,,,luas
+5032_111955,7778056,496,Glenamoy - Ballina,,3,,,,luas
+5032_112119,7778056,498,Glenamoy - Castlebar,,3,,,,luas
+5033_112279,7778102,ATH1,Athlone Town Service,,3,,,,luas
+5042_112911,7778084,231,Ardgroom - Cork City,,3,,,,luas
+5048_112914,7778094,181,Glendalough - Dublin City,,3,,,,luas
+5059_113137,7778075,920,Galway - Loughrea,,3,,,,luas
+5060_113414,7778086,886,Monamolin - Gorey,,3,,,,luas
+5080_113452,7778083,835,Tullamore - Tullamore,,3,,,,luas
+5101_114955,7778052,965,Meenlaragh - Letterkenny,,3,,,,luas
+5104_115073,7778090,309,Kilduff - Limerick City,,3,,,,luas
+5106_115075,7778223,IW02,Newbridge - Carlow,,3,,,,luas
+5112_105128,7778062,827,Mountmellick - Portlaoise,,3,,,,luas
+5112_109507,7778062,830,Mountmellick - Tullamore,,3,,,,luas
+5112_109508,7778062,829,Portlaoise - Tullamore,,3,,,,luas
+5112_110720,7778062,837,Tullamore - Mullingar,,3,,,,luas
+5112_112916,7778062,838,Kilkenny - Mountmellick,,3,,,,luas
+5112_113136,7778062,832,Errill - Portlaoise,,3,,,,luas
+5112_115076,7778062,831,Portlaoise - Portlaoise,,3,,,,luas
+5141_107436,7778229,GD01,Dublin City - Monaghan,,3,,,,luas
+5141_114218,7778229,180,Clones - Dublin,,3,,,,luas
+5144_114217,7778058,872,Wexford - Kilmuckridge,,3,,,,luas
+5144_116047,7778058,875,Blackwater - Whitemill,,3,,,,luas
+5186_117278,7778008,W1,Clock Tower - Ballybeg,,3,,,,luas
+5186_117279,7778008,W3,Clock Tower - Meagher's Quay,,3,,,,luas
+5186_117280,7778008,W2,Clock Tower - WIT - Meagher's Quay,,3,,,,luas
+5186_117281,7778008,W4,Peter Street - Brownes Road,,3,,,,luas
+5186_117282,7778008,W5,Hospital - Oakwood,,3,,,,luas
+5187_107658,7778198,932A,Annagry - Dublin,,3,,,,luas
+5187_107659,7778198,933A,Moville - Dublin,,3,,,,luas
+5187_111258,7778198,933,Moville - Dublin,,3,,,,luas
+5187_112278,7778198,932,Annagry - Dublin,,3,,,,luas
+5190_102717,7778196,901D,Marshes Shopping Centre - The Helix,,3,,,,luas
+5190_102719,7778196,912,Grange Rath - Dublin City,,3,,,,luas
+5190_110679,7778196,900,Dundalk - Dublin,,3,,,,luas
+5190_110680,7778196,901,Dundalk - Dublin,,3,,,,luas
+5190_110681,7778196,901M,Drogheda - Dublin,,3,,,,luas
+5190_113455,7778196,910,Grange Rath - Dublin City,,3,,,,luas
+5197_109380,7778364,DY01,Kells - Dunboyne,,3,,,,luas
+5197_117857,7778364,DY02,Enfield - Dunboyne College of Further Education,,3,,,,luas
+5225_109509,7778042,917,Dundalk - Dundalk via Muirhevnamor,,3,,,,luas
+5225_109511,7778042,916,Dundalk - Dundalk via Bay Estate,,3,,,,luas
+5225_111259,7778042,169,Blackrock - Dundalk,,3,,,,luas
+5225_114953,7778042,918,Saint Patricks Church - Willow Grove,,3,,,,luas
+5240_119660,7778006,120,Dublin - Edenderry,,3,,,,luas
+5240_119661,7778006,125,UCD - Newbridge,,3,,,,luas
+5240_119662,7778006,126,Dublin - Rathangan,,3,,,,luas
+5240_119663,7778006,130,Dublin - Athy,,3,,,,luas
+5240_119664,7778006,120A,Dublin - Edenderry,,3,,,,luas
+5240_119665,7778006,120B,Dublin - Newbridge,,3,,,,luas
+5240_119666,7778006,120C,Enfield - Tullamore,,3,,,,luas
+5240_119667,7778006,120D,Enfield - Tullamore,,3,,,,luas
+5240_119668,7778006,120E,Dublin - Edenderry,,3,,,,luas
+5240_119669,7778006,120F,Connolly Station - Newbridge Centre,,3,,,,luas
+5240_119670,7778006,120X,Dublin - Edenderry,,3,,,,luas
+5240_119671,7778006,126A,Dublin - Kildare,,3,,,,luas
+5240_119672,7778006,126B,Dublin - Rathangan,,3,,,,luas
+5240_119673,7778006,126D,Dublin - Kildare,,3,,,,luas
+5240_119674,7778006,126E,Dublin - Kildare,,3,,,,luas
+5240_119675,7778006,126T,Dublin - Kildare,,3,,,,luas
+5240_119676,7778006,126U,Dublin UCD - Kildare,,3,,,,luas
+5240_119677,7778006,126N,Dublin - Newbridge,,3,,,,luas
+5240_119678,7778006,126X,Dublin - Rathangan,,3,,,,luas
+5240_119679,7778006,130A,Dublin - Athy,,3,,,,luas
+5242_118188,7778014,Red,The Point - Tallaght,,0,,,,luas
+5242_119680,7778014,Green,Parnell - Brides Glen,,0,,,,luas
+5245_119506,7778347,DK05,Carrickmacross - Dundalk Institute of Technology,,3,,,,luas
+5249_119681,7778021,59,Dun Laoghaire - Killiney Hill Park,,3,,,,luas
+5249_119682,7778021,73,Kilnamanagh Road - Griffith Avenue East,,3,,,,luas
+5249_119683,7778021,102,Dublin Airport - Sutton DART,,3,,,,luas
+5249_119684,7778021,104,Clontarf Station - DCU (The Helix),,3,,,,luas
+5249_119685,7778021,111,Brides Glen - Kilbogget Pk,,3,,,,luas
+5249_119686,7778021,114,Ticknock - Blackrock,,3,,,,luas
+5249_119687,7778021,161,Rockbrook - Dundrum,,3,,,,luas
+5249_119688,7778021,197,"Airside Ind. Estate, stop 7210 - Ashbourne Retail Pk, stop 101001",,3,,,,luas
+5249_119689,7778021,220,DCU (The Helix) - Lady's Well Road,,3,,,,luas
+5249_119690,7778021,236,Blanchardstown - IBM Campus,,3,,,,luas
+5249_119691,7778021,238,Tyrrelstown - Mulhuddart,,3,,,,luas
+5249_119692,7778021,270,Dunboyne - Blanchardstown,,3,,,,luas
+5249_119693,7778021,33A,Dublin Airport - Balbriggan,,3,,,,luas
+5249_119694,7778021,33B,Swords - Portrane,,3,,,,luas
+5249_119695,7778021,33T,Skerries - Donabate,,3,,,,luas
+5249_119696,7778021,45A,Kilmacanogue - Dun Laoghaire,,3,,,,luas
+5249_119697,7778021,45B,Kilmacanogue - Dun Laoghaire,,3,,,,luas
+5249_119698,7778021,L1,Newcastle Hospital - Bray Station,,3,,,,luas
+5249_119699,7778021,L2,"Sea Road, Newcastle - Bray Station",,3,,,,luas
+5249_119700,7778021,L3,Glenbrook Park - The Nurseries,,3,,,,luas
+5249_119701,7778021,N2,Clontarf Station - Heuston Train Stn,,3,,,,luas
+5249_119702,7778021,N6,Finglas Village - Naomh Barróg GAA,,3,,,,luas
+5249_119703,7778021,S4,Liffey Valley - UCD,,3,,,,luas
+5249_119704,7778021,S6,The Square - Blackrock Station,,3,,,,luas
+5249_119705,7778021,S8,Kingswood Avenue - Dun Laoghaire Stn,,3,,,,luas
+5249_119706,7778021,W2,The Square - Liffey Valley SC,,3,,,,luas
+5249_119707,7778021,W4,The Square - Blanchardstown SC,,3,,,,luas
+5249_119708,7778021,W6,Community College - The Square,,3,,,,luas
+5249_119709,7778021,L51,Liffey Valley SC - Adamstown Station,,3,,,,luas
+5249_119710,7778021,L52,Blanchardstown SC - Adamstown Station,,3,,,,luas
+5249_119711,7778021,L55,Hollyville Lawn - Glenaulin,,3,,,,luas
+5249_119712,7778021,102A,Swords - Sutton,,3,,,,luas
+5249_119713,7778021,102C,Balgriffin - Sutton,,3,,,,luas
+5249_119714,7778021,102P,Swords - Portmarnock,,3,,,,luas
+5249_119715,7778021,102T,Swords - Sutton,,3,,,,luas
+5249_119716,7778021,185T,Enniskerry - Bray,,3,,,,luas
+5249_119717,7778021,220A,DCU (The Helix) - Lady's Well Road,,3,,,,luas
+5249_119718,7778021,220T,Collins Avenue West - Finglas Garda Stn,,3,,,,luas
+5249_119719,7778021,236A,Blanchardstown - IBM Campus,,3,,,,luas
+5249_119720,7778021,236T,Scoil Oilibheir - Tyrrelstown,,3,,,,luas
+5249_119721,7778021,270T,Castaheany Estate - Castleknock Community College,,3,,,,luas
+5249_119722,7778021,L15,Bray Station - Enniskerry,,3,,,,luas
+5249_119723,7778021,L26,Blackrock Station - Kilternan Village,,3,,,,luas
+5249_119724,7778021,L27,Dun Laoghaire Stn - Leopardstown Valley,,3,,,,luas
+5273_120553,7778108,784,Dublin Airport - Dublin City,,3,,,,luas
+5273_120554,7778108,782,Dublin Airport - Dublin City,,3,,,,luas
+5273_94479,7778108,785,Belfast - Dublin,,3,,,,luas
+5273_94480,7778108,783,Dublin Airport - Terenure,,3,,,,luas
+5276_94517,7778002,29n,"Dublin City South, D'Olier Street - Baldoyle, Warrenhouse Road",,3,,,,luas
+5276_94518,7778002,31n,"Dublin City South, D'Olier Street - Howth, Outside Train Station",,3,,,,luas
+5276_94519,7778002,33n,Westmoreland Street - Balbriggan,,3,,,,luas
+5276_94520,7778002,42n,"Dublin City South, D'Olier Street - Portmarnock, Strand Road (St.Anne's Estate)",,3,,,,luas
+5276_94521,7778002,46n,"Dublin City South, D'Olier Street - Dundrum, Outside Luas Station",,3,,,,luas
+5276_94522,7778002,69n,"Dublin City South, Westmoreland Street - Saggart,",,3,,,,luas
+5276_94523,7778002,70n,Westmoreland Street - Tyrrelstown,,3,,,,luas
+5276_94524,7778002,77n,D'Olier Street - Citywest,,3,,,,luas
+5276_94525,7778002,88n,"Dublin City South, Westmoreland Street - Ashbourne, Ashbourne Kelly's",,3,,,,luas
+5276_94526,7778002,49n,D'Olier Street - Kilnamanagh,,3,,,,luas
+5276_94527,7778002,7n,"Dublin City South, D'Olier Street - Dún Laoghaire-Rathdown, Woodbrook Golf Club",,3,,,,luas
+5276_94528,7778002,84n,"Dublin City South, D'Olier Street - Charlesland Road (Seaborne View Apts)",,3,,,,luas
+5277_110683,7778098,230,Cork City - Skibbereen,,3,,,,luas
+5277_51299,7778098,229,Bantry - Cork City,,3,,,,luas
+5277_68250,7778098,228,Kinsale - Cork City,,3,,,,luas
+5287_107636,7778193,740,Wexford - Dublin Airport,,3,,,,luas
+5287_107637,7778193,740A,Gorey - Dublin Airport,,3,,,,luas
+5287_107638,7778193,740X,Wexford - Dublin Airport,,3,,,,luas
+5287_108852,7778193,859,Enniscorthy - Wexford,,3,,,,luas
+5287_109379,7778193,376,Wexford - Carlow,,3,,,,luas
+5287_109512,7778193,390,Wexford Town - Kilmore Quay,,3,,,,luas
+5287_109839,7778193,WX1,Drinagh Loop,,3,,,,luas
+5287_110467,7778193,877,Wexford Town - Wexford Town via Castlebridge,,3,,,,luas
+5287_120891,7778193,WX2,Clonard Loop,,3,,,,luas
+5287_94290,7778193,884,Gorey - Wexford,,3,,,,luas
+5287_94293,7778193,340,Wexford - Waterford,,3,,,,luas
+5305_109553,7778000,763,Dublin Airport - Galway City via Athlone,,3,,,,luas
+5305_109718,7778000,763X,Creagh (Opp Dubarry) - University Rd (Cathedral),,3,,,,luas
+5305_110897,7778000,251,Galway City - Cork Airport,,3,,,,luas
+5305_113413,7778000,923,Galway - Cleggan,,3,,,,luas
+5305_116048,7778000,760,Galway - Dublin Airport,,3,,,,luas
+5305_116049,7778000,761,Galway - Dublin Airport,,3,,,,luas
+5305_116050,7778000,660,Galway City - Dublin,,3,,,,luas
+5305_99506,7778000,712,Ennis - Dublin Airport,,3,,,,luas
+5305_99512,7778000,721,Castlebar - Dublin Airport,,3,,,,luas
+5305_99513,7778000,430,Ballina (Dunnes Stores) - Galway Cathedral,,3,,,,luas
+5305_99516,7778000,707,Cork - Dublin Airport,,3,,,,luas
+5325_121856,7778269,BI01,TU Dublin - Carpenterstown,,3,,,,luas
+5327_103878,7778044,UM12,Carlow - Maynooth University,,3,,,,luas
+5327_105287,7778044,UM14,Portlaoise - Maynooth University,,3,,,,luas
+5327_107642,7778044,UM06,Athy - Maynooth University,,3,,,,luas
+5327_107650,7778044,GD02,Tramore - Dublin City,,3,,,,luas
+5327_121857,7778044,IW04,Portarlington - Carlow,,3,,,,luas
+5327_77357,7778044,IW06,Portlaoise - Carlow,,3,,,,luas
+5330_107649,7778092,UL06,Drumshanbo - Limerick,,3,,,,luas
+5330_107653,7778092,NG05,Ballinamore – Galway,,3,,,,luas
+5330_109838,7778092,449,Drumshanbo - Sligo,,3,,,,luas
+5342_122949,7778228,879,Gorey - Gorey,,3,,,,luas
+5345_110734,7778013,393,Thurles - Clonmel,,3,,,,luas
+5345_110742,7778013,397,Nenagh - Thurles,,3,,,,luas
+5345_110902,7778013,812,Urlingford - Roscrea,,3,,,,luas
+5345_110903,7778013,394,Clonmel - Thurles,,3,,,,luas
+5345_111023,7778013,881,"Graiguenamanagh, Graiguenamanagh - Kilkenny Castle",,3,,,,luas
+5345_112913,7778013,882,Inistioge - Kilkenny,,3,,,,luas
+5345_120890,7778013,395,Thurles - Nenagh,,3,,,,luas
+5345_122950,7778013,MU1,Ballinderry Road - Lough Sheever Corporate Pa,,3,,,,luas
+5345_122951,7778013,MU2,Mullingar Business Park - Dublin Road,,3,,,,luas
+5345_40574,7778013,396,Thurles - Clonmel,,3,,,,luas
+5366_124676,7778171,183,Arklow - Glendalough,,3,,,,luas
+5366_124677,7778171,800,Arklow - Carlow,,3,,,,luas
+5366_124678,7778171,817c,Carrick-on-Suir - Grangemockler,,3,,,,luas
+5366_124679,7778171,885,Baltinglass - Sallins,,3,,,,luas
+5366_124680,7778171,887,Carlow - New Ross,,3,,,,luas
+5366_124681,7778171,891,Fiddown - Kilkenny,,3,,,,luas
+5366_124682,7778171,895,Sallins - Glendalough,,3,,,,luas
+5366_124683,7778171,897,Kilkenny - Athy,,3,,,,luas
+5366_124684,7778171,WW10,Carnew - Baltinglass,,3,,,,luas
+5367_124712,7778174,264,Ballyshannon - Letterkenny,,3,,,,luas
+5367_124713,7778174,288,Ballybofey - Derry,,3,,,,luas
+5367_124714,7778174,290,Ballybofey - Letterkenny,,3,,,,luas
+5367_124715,7778174,292,Donegal - Ballyshannon,,3,,,,luas
+5367_124716,7778174,293,Gleann Cholm Cille - Donegal,,3,,,,luas
+5367_124717,7778174,563,Sligo - Dromahair,,3,,,,luas
+5367_124718,7778174,564,Swanlinbar - Carrick-on-Shannon,,3,,,,luas
+5367_124719,7778174,566,Sligo - Dowra,,3,,,,luas
+5367_124720,7778174,567,Carrick-on-Shannon - Manorhamilton,,3,,,,luas
+5367_124721,7778174,572,Ballinamore - Sligo,,3,,,,luas
+5367_124722,7778174,952,Carndonagh - Derry,,3,,,,luas
+5367_124723,7778174,953,Greencastle - Letterkenny,,3,,,,luas
+5367_124724,7778174,954,Malin Head - Carndonagh,,3,,,,luas
+5367_124725,7778174,957,Greencastle - Derry,,3,,,,luas
+5367_124726,7778174,959,Greencastle - Buncrana,,3,,,,luas
+5367_124727,7778174,966,An Fál Carrach - An Clochán Liath,,3,,,,luas
+5367_124728,7778174,967,Baile na Finne - An Clochán Liath,,3,,,,luas
+5367_124729,7778174,971,Ailt an Chorráin - Letterkenny,,3,,,,luas
+5367_124730,7778174,973,Cionn Fhánada - Letterkenny,,3,,,,luas
+5367_124731,7778174,977,Castlerea - Sligo,,3,,,,luas
+5367_124732,7778174,981,Coolaney - Sligo,,3,,,,luas
+5367_124733,7778174,982,Sligo - Ballyshannon,,3,,,,luas
+5367_124734,7778174,983,Manorhamilton - Ballyshannon,,3,,,,luas
+5367_124735,7778174,987,Lifford - Letterkenny,,3,,,,luas
+5367_124736,7778174,988,An Clochán - Letterkenny,,3,,,,luas
+5367_124737,7778174,989,Carrigans - Letterkenny,,3,,,,luas
+5367_124738,7778174,993,Carraig Airt - Na Dúnaibh,,3,,,,luas
+5367_124739,7778174,994,Portnoo - Donegal,,3,,,,luas
+5368_124761,7778312,821,Newbridge - Sallins,,3,,,,luas
+5368_124762,7778312,880,Carlow - Naas,,3,,,,luas
+5368_124763,7778312,883,Athy - Newbridge,,3,,,,luas
+5368_124764,7778312,888,Athy - Allenwood,,3,,,,luas
+5368_124765,7778312,892,Newbridge - Dunlavin,,3,,,,luas
+5368_124766,7778312,SD3,Tallaght - Bohernabreena,,3,,,,luas
+5368_124767,7778312,SD4,Tallaght - Tibradden,,3,,,,luas
+5369_124778,7778170,163,Brú na Bóinne - Drogheda,,3,,,,luas
+5369_124779,7778170,177,Kells - Ardee,,3,,,,luas
+5369_124780,7778170,188,Athboy - Navan - Drogheda,,3,,,,luas
+5369_124781,7778170,189,Navan - Trim - Enfield,,3,,,,luas
+5369_124782,7778170,192,Swords - Balbriggan,,3,,,,luas
+5369_124783,7778170,195,Balbriggan - Ashbourne,,3,,,,luas
+5369_124784,7778170,196,Knocksedan - Swords,,3,,,,luas
+5370_124685,7778163,232,Castletownbere - Kilcrohane,,3,,,,luas
+5370_124686,7778163,253,Kinsale - Clonakilty,,3,,,,luas
+5370_124687,7778163,253c,Kinsale Town Shuttle,,3,,,,luas
+5370_124688,7778163,253t,Clonakilty - Technology Park,,3,,,,luas
+5370_124689,7778163,254,Bandon - Kinsale,,3,,,,luas
+5370_124690,7778163,255,Kinsale - MTU Bishopstown,,3,,,,luas
+5370_124691,7778163,263,Allihies - Castletownbere,,3,,,,luas
+5370_124692,7778163,265,Mizen Head - Skibbereen,,3,,,,luas
+5370_124693,7778163,266a,Baltimore - Castletownshend,,3,,,,luas
+5370_124694,7778163,266b,Baltimore - Union Hall,,3,,,,luas
+5370_124695,7778163,522,Charleville - Mallow,,3,,,,luas
+5370_124696,7778163,523,Mitchelstown - Mallow,,3,,,,luas
+5370_124697,7778163,529,Mitchelstown - Fermoy,,3,,,,luas
+5370_124698,7778163,530,Fermoy - Mallow,,3,,,,luas
+5371_124699,7778166,171,Shercock - Dundalk,,3,,,,luas
+5371_124700,7778166,172,Cootehill - Virginia,,3,,,,luas
+5371_124701,7778166,176,Cavan - Monaghan,,3,,,,luas
+5371_124702,7778166,178,Kells - Cootehill,,3,,,,luas
+5371_124703,7778166,186,Baile Ghib - Cavan,,3,,,,luas
+5371_124704,7778166,929,Ballinamore - Cavan,,3,,,,luas
+5371_124705,7778166,C1,Ballyhaise - Kilmore Hotel,,3,,,,luas
+5371_124706,7778166,C2,Cavan Hospital - Kilnaleck,,3,,,,luas
+5371_124707,7778166,C3,Redhills - Cavan Hospital,,3,,,,luas
+5371_124708,7778166,MN1,Knockatallon - Monaghan,,3,,,,luas
+5371_124709,7778166,MN2,Castleblayney - Monaghan,,3,,,,luas
+5371_124710,7778166,MN3,Mullan - Monaghan,,3,,,,luas
+5371_124711,7778166,MN33,Emyvale - Carrickroe,,3,,,,luas
+5372_124740,7778164,431,Claremorris - An Cheathrú Rua,,3,,,,luas
+5372_124741,7778164,432,An Cheathrú Rua - Clifden,,3,,,,luas
+5372_124742,7778164,438,Galway - Tuam,,3,,,,luas
+5372_124743,7778164,439,Galway - Loughrea,,3,,,,luas
+5372_124744,7778164,546,Castlerea - Ballinasloe,,3,,,,luas
+5372_124745,7778164,547,Portumna - Ballinasloe,,3,,,,luas
+5372_124746,7778164,548,Loughrea - Athlone,,3,,,,luas
+5372_124747,7778164,934,Gort - Loughrea,,3,,,,luas
+5373_124748,7778162,268,Dingle - Baile na nGall,,3,,,,luas
+5373_124749,7778162,273,Cé Bhréanainn - Tralee,,3,,,,luas
+5373_124750,7778162,274,Tarbert - Tralee,,3,,,,luas
+5373_124751,7778162,276,Killarney - Dingle,,3,,,,luas
+5373_124752,7778162,277a,Dingle - Dún Chaoin,,3,,,,luas
+5373_124753,7778162,277b,Dingle - Dún Chaoin,,3,,,,luas
+5373_124754,7778162,278,Fenit - Tralee,,3,,,,luas
+5373_124755,7778162,280,Waterville - Killarney,,3,,,,luas
+5373_124756,7778162,281,Waterville - Kenmare,,3,,,,luas
+5373_124757,7778162,282,Castletownbere - Kenmare,,3,,,,luas
+5373_124758,7778162,283,Currow - Tralee,,3,,,,luas
+5373_124759,7778162,287a,Knightstown - Cahersiveen,,3,,,,luas
+5373_124760,7778162,287b,Baile an Sceilg - Cahersiveen,,3,,,,luas
+5374_124768,7778173,318,Limerick - Ennis,,3,,,,luas
+5374_124769,7778173,331,Ballyvaughan - Ennis,,3,,,,luas
+5374_124770,7778173,335,Ennis - Kilrush,,3,,,,luas
+5374_124771,7778173,337,Ennis - Kilrush,,3,,,,luas
+5374_124772,7778173,339,Kilrush - Loop Head,,3,,,,luas
+5374_124773,7778173,342,Flagmount - Ennis,,3,,,,luas
+5374_124774,7778173,344,Whitegate - Ennis,,3,,,,luas
+5374_124775,7778173,351,Cliffs of Moher - Galway,,3,,,,luas
+5374_124776,7778173,521,Newcastle West - Charleville,,3,,,,luas
+5374_124777,7778173,595,Tarbert - Croom,,3,,,,luas
+5375_124796,7778165,426,Longford - Roscommon,,3,,,,luas
+5375_124797,7778165,570,Boyle - Roscommon,,3,,,,luas
+5375_124798,7778165,571,Arigna - Boyle,,3,,,,luas
+5375_124799,7778165,816,Longford - Mullingar,,3,,,,luas
+5375_124800,7778165,818,Castlepollard - Mullingar,,3,,,,luas
+5375_124801,7778165,819,Athlone - Mullingar,,3,,,,luas
+5375_124802,7778165,862,Longford - Cavan,,3,,,,luas
+5375_124803,7778165,865,Lough Gowna - Longford,,3,,,,luas
+5375_124804,7778165,LR24,Ballymahon - Longford,,3,,,,luas
+5376_124805,7778161,454,Ballina - Castlebar,,3,,,,luas
+5376_124806,7778161,460a,Gob an Choire - Castlebar,,3,,,,luas
+5376_124807,7778161,460b,Béal an Mhuirthead - Castlebar,,3,,,,luas
+5377_124808,7778167,322,Portumna - Nenagh,,3,,,,luas
+5377_124809,7778167,391,Thurles - Limerick,,3,,,,luas
+5377_124810,7778167,828,Cashel - Portlaoise,,3,,,,luas
+5377_124811,7778167,854,Ballybrophy - Silvermines,,3,,,,luas
+5377_124812,7778167,855,Tipperary - Cahir - Cashel,,3,,,,luas
+5377_124813,7778167,896,Ballingarry - Thurles,,3,,,,luas
+5377_124814,7778167,CL1,Crann Ard - Poppyfield Retail Park,,3,,,,luas
+5377_124815,7778167,CL2,Crann Ard - Ard Gaoithe Business Park,,3,,,,luas
+5377_124816,7778167,CL9,Crann Ard - Ard Gaoithe Business Park,,3,,,,luas
+5378_124817,7778168,356,Clonmel - Dungarvan,,3,,,,luas
+5378_124818,7778168,357,Youghal - Dungarvan,,3,,,,luas
+5378_124819,7778168,358,Tramore - Waterford,,3,,,,luas
+5378_124820,7778168,361,Youghal - Dungarvan,,3,,,,luas
+5378_124821,7778168,363,Fermoy - Dungarvan,,3,,,,luas
+5378_124822,7778168,363a,Ballyduff Upper - Dungarvan,,3,,,,luas
+5378_124823,7778168,367,Tramore - Dungarvan,,3,,,,luas
+5378_124824,7778168,667,Dungarvan - Waterford,,3,,,,luas
+5379_124825,7778169,359,New Ross - Enniscorthy,,3,,,,luas
+5379_124826,7778169,368,Enniscorthy - New Ross,,3,,,,luas
+5379_124827,7778169,369,Enniscorthy - Tullow,,3,,,,luas
+5379_124828,7778169,384,Wexford - Enniscorthy,,3,,,,luas
+5379_124829,7778169,387,Wexford - Rosslare Harbour,,3,,,,luas
+5379_124830,7778169,388,Duncormick - Wexford,,3,,,,luas
+5379_124831,7778169,389,Riverchapel - Gorey,,3,,,,luas
+5379_124832,7778169,392,Wellingtonbridge - New Ross,,3,,,,luas
+5379_124833,7778169,399,Hook Head - New Ross,,3,,,,luas
+5382_106966,7778044,139,Blanchardstown - Naas,,3,,,,luas
+5382_112910,7778044,736,Dublin Airport - Tramore,,3,,,,luas
+5382_113451,7778044,874,Hacketstown - Carlow,,3,,,,luas
+5382_114256,7778044,735,Limerick - Dublin Airport,,3,,,,luas
+5382_115074,7778044,717,Clonmel - Dublin Airport,,3,,,,luas
+5382_116113,7778044,617,Waterford - Kilkenny,,3,,,,luas
+5382_116114,7778044,627,Waterford - Kilkenny,,3,,,,luas
+5382_117855,7778044,607,Waterford - Kilkenny,,3,,,,luas
+5384_115271,7778155,726,Portlaoise - Dublin Airport,,3,,,,luas
+5384_124834,7778155,310,Sarsfield Street - National Tech Park,,3,,,,luas
+5384_51295,7778155,600,Cork City - Dublin City,,3,,,,luas
+5384_68765,7778155,750,Dundrum - Dublin Airport,,3,,,,luas
+5384_70766,7778155,300,Kerry / Clare - Dublin,,3,,,,luas
+5397_113138,7778191,961,Crolly - Letterkenny,,3,,,,luas
+5401_125824,7778020,2,Dublin Airport - Gorey - Wexford,,3,,,,luas
+5401_125825,7778020,4,Dublin Airport - Waterford,,3,,,,luas
+5401_125826,7778020,13,Limerick - Adare - Listowel - Tralee,,3,,,,luas
+5401_125827,7778020,14,Limerick - Kerry Airport - Killarney,,3,,,,luas
+5401_125828,7778020,22,Dublin - Airport - Longford - Ballina,,3,,,,luas
+5401_125829,7778020,23,Dublin - Airport - Longford - Sligo,,3,,,,luas
+5401_125830,7778020,30,Dublin - Airport - Cavan - Donegal,,3,,,,luas
+5401_125831,7778020,32,Dublin Airport - Monaghan - Letterkenny,,3,,,,luas
+5401_125832,7778020,40,Tralee - Cork - Waterford - Rosslare,,3,,,,luas
+5401_125833,7778020,51,Cork - Limerick - Galway,,3,,,,luas
+5401_125834,7778020,52,Ballina - Castlebar - Galway,,3,,,,luas
+5401_125835,7778020,55,Limerick - Waterford,,3,,,,luas
+5401_125836,7778020,64,Galway - Killea,,3,,,,luas
+5401_125837,7778020,65,Galway - Athlone - Monaghan,,3,,,,luas
+5401_125838,7778020,70,Galway - Mullingar - Dundalk,,3,,,,luas
+5401_125839,7778020,72,Limerick - Birr - Athlone,,3,,,,luas
+5401_125840,7778020,73,Waterford - Athlone - Longford,,3,,,,luas
+5401_125841,7778020,100,Drogheda - Dundalk - Newry,,3,,,,luas
+5401_125842,7778020,101,Dublin - Airport - Drogheda,,3,,,,luas
+5401_125843,7778020,103,Dublin - Ashbourne - Ratoath,,3,,,,luas
+5401_125844,7778020,B1,Rail Station - Millfield Centre,,3,,,,luas
+5401_125845,7778020,105,Blanchardstown - Ashbourne - Ashbourne - Drogheda,,3,,,,luas
+5401_125846,7778020,115,Dublin - Mullingar,,3,,,,luas
+5401_125847,7778020,131,Bray - Wicklow,,3,,,,luas
+5401_125848,7778020,132,Dublin - Carnew - Bunclody,,3,,,,luas
+5401_125849,7778020,133,Dublin - Wicklow,,3,,,,luas
+5401_125850,7778020,160,Dundalk - Ravensdale - Newry,,3,,,,luas
+5401_125851,7778020,161,Dundalk - Carlingford - Newry,,3,,,,luas
+5401_125852,7778020,162,Dundalk - Monaghan - Clones - Cavan,,3,,,,luas
+5401_125853,7778020,167,Dundalk - Louth - Ardee,,3,,,,luas
+5401_125854,7778020,168,Dundalk - Annagassan,,3,,,,luas
+5401_125855,7778020,170,Cavan - Dundalk,,3,,,,luas
+5401_125856,7778020,173,Drogheda West St - Dominck St,,3,,,,luas
+5401_125857,7778020,174,Long Walk - Muirhevnamuir,,3,,,,luas
+5401_125858,7778020,175,Monaghan - Cootehill - Cavan,,3,,,,luas
+5401_125859,7778020,182,Drogheda - Collon - Ardee - Monaghan,,3,,,,luas
+5401_125860,7778020,190,Drogheda - Navan - Trim,,3,,,,luas
+5401_125861,7778020,201,Lotabeg - Hollyhill - CIT - CUH,,3,,,,luas
+5401_125862,7778020,202,Ringmahon - City - Hollyhill (Apple),,3,,,,luas
+5401_125863,7778020,203,Lehenaghmore - City Centre - Parklands,,3,,,,luas
+5401_125864,7778020,205,Train Station - St. Patrick St - CIT,,3,,,,luas
+5401_125865,7778020,206,Grange - Douglas - South Mall,,3,,,,luas
+5401_125866,7778020,207,Donnybrook - City Centre - City Centre - Glenheights,,3,,,,luas
+5401_125867,7778020,208,Lotabeg - Bishopstown - Curraheen,,3,,,,luas
+5401_125868,7778020,209,Patrick St - Audley Place - Lotamore,,3,,,,luas
+5401_125869,7778020,212,Kent Station - Blackrock - Mahon Point,,3,,,,luas
+5401_125870,7778020,213,Lapps Quay (P&R) - Black Ash,,3,,,,luas
+5401_125871,7778020,214,Glanmire - City Centre - CUH,,3,,,,luas
+5401_125872,7778020,215,Mahon Point - Ballinlough - Cloghroe,,3,,,,luas
+5401_125873,7778020,216,Mount Oval - City - Glasheen - CUH,,3,,,,luas
+5401_125874,7778020,219,Mahon - Douglas - CUH/ CIT (South Orb),,3,,,,luas
+5401_125875,7778020,220,Ballincollig - Douglas - Carrigaline,,3,,,,luas
+5401_125876,7778020,223,Cork - Ringaskiddy - Haulbowline,,3,,,,luas
+5401_125877,7778020,225,Cork Airport - Haulbowline,,3,,,,luas
+5401_125878,7778020,226,Train Stn - Airport - Kinsale,,3,,,,luas
+5401_125879,7778020,233,Cork - Macroom,,3,,,,luas
+5401_125880,7778020,235,Cork - Rylane - Stuake,,3,,,,luas
+5401_125881,7778020,236,Cork - Bantry - Castletownbere,,3,,,,luas
+5401_125882,7778020,237,Cork - Skibereen - Goleen,,3,,,,luas
+5401_125883,7778020,239,Cork - Bandon,,3,,,,luas
+5401_125884,7778020,240,Cork - Cloyne - Ballycotton,,3,,,,luas
+5401_125885,7778020,241,Cork - Midelton - Whitegate,,3,,,,luas
+5401_125886,7778020,243,Cork - Newmarket/Doneraile/Charleville,,3,,,,luas
+5401_125887,7778020,245,Cork - Fermoy - Mitchelstown - Clonmel,,3,,,,luas
+5401_125888,7778020,248,Cork - Carrignavar/ Glenville,,3,,,,luas
+5401_125889,7778020,257,Macroom - Killarney,,3,,,,luas
+5401_125890,7778020,260,Cork - Youghal - Ardmore,,3,,,,luas
+5401_125891,7778020,261,Cork - Midelton - Ballincurra,,3,,,,luas
+5401_125892,7778020,270,Killarney - Kenmare - Skibbereen,,3,,,,luas
+5401_125893,7778020,271,Tralee - Kerry Airport - Killarney,,3,,,,luas
+5401_125894,7778020,272,Tralee - Listowel - Tarbert,,3,,,,luas
+5401_125895,7778020,275,Tralee - Dingle,,3,,,,luas
+5401_125896,7778020,279,Killarney - Cahersiveen - Waterville,,3,,,,luas
+5401_125897,7778020,284,Killarney - Tralee,,3,,,,luas
+5401_125898,7778020,301,Westbury - Regional Hospital,,3,,,,luas
+5401_125899,7778020,302,City Centre - Caherdavin,,3,,,,luas
+5401_125900,7778020,303,O'Malley Park - City Centre - Pineview,,3,,,,luas
+5401_125901,7778020,304,UL - City Centre - Raheen,,3,,,,luas
+5401_125902,7778020,305,Lynwood Pk - City Centre - St Marys Pk,,3,,,,luas
+5401_125903,7778020,306,Brookfield - City Centre - Ballynanty,,3,,,,luas
+5401_125904,7778020,313,Limerick - Ardnacrusha,,3,,,,luas
+5401_125905,7778020,314,Limerick - Foynes - Glin - Ballybunion,,3,,,,luas
+5401_125906,7778020,316,Sixmilebridge - Shannon Airport,,3,,,,luas
+5401_125907,7778020,317,Limerick - Ennis,,3,,,,luas
+5401_125908,7778020,320,Limerick - Charleville,,3,,,,luas
+5401_125909,7778020,321,Limerick - Rathkeale - Newcastlewest,,3,,,,luas
+5401_125910,7778020,323,Limerick - Killaloe - Nenagh - Birr,,3,,,,luas
+5401_125911,7778020,324,Nenagh - Borrisokane - Kilbarron,,3,,,,luas
+5401_125912,7778020,328,Limerick - Mitchellstown,,3,,,,luas
+5401_125913,7778020,329,Limerick - Bruff - Kilfinane,,3,,,,luas
+5401_125914,7778020,330,Ennis - Shannon Airport,,3,,,,luas
+5401_125915,7778020,332,Limerick - Dundrum,,3,,,,luas
+5401_125916,7778020,333,Limerick - Ennis - Corofin - Doonbeg,,3,,,,luas
+5401_125917,7778020,336,Limerick - Ennis - Kilrush - Kilkee,,3,,,,luas
+5401_125918,7778020,343,Limerick - Shannon Airport,,3,,,,luas
+5401_125919,7778020,345,Limerick - Killaloe - Scariff,,3,,,,luas
+5401_125920,7778020,347,Limerick - Tipperary,,3,,,,luas
+5401_125921,7778020,350,Galway - Kinvara - Doolin - Ennis,,3,,,,luas
+5401_125922,7778020,354,Portlaw - Waterford - Dunmore East,,3,,,,luas
+5401_125923,7778020,355,Waterford - Cahir,,3,,,,luas
+5401_125924,7778020,360,Waterford - Tramore,,3,,,,luas
+5401_125925,7778020,362,Waterford - Dungarvan,,3,,,,luas
+5401_125926,7778020,365,Waterford - Thomastown,,3,,,,luas
+5401_125927,7778020,370,Waterford - New Ross - Wexford,,3,,,,luas
+5401_125928,7778020,371,New Ross - Adamstown - Wexford,,3,,,,luas
+5401_125929,7778020,372,New Ross - Foulksmills - Wexford,,3,,,,luas
+5401_125930,7778020,373,New Ross - Fethard - Wexford,,3,,,,luas
+5401_125931,7778020,374,New Ross - Kilkenny,,3,,,,luas
+5401_125932,7778020,379,Wexford - Curracloe - Gorey,,3,,,,luas
+5401_125933,7778020,382,Adamstown - Wexford,,3,,,,luas
+5401_125934,7778020,445,Ballina - Killala - Ballycastle,,3,,,,luas
+5401_125935,7778020,446,Ballina - Blacksod,,3,,,,luas
+5401_125936,7778020,447,Finea - Castlepollard - Mullingar,,3,,,,luas
+5401_125937,7778020,448,Shandonagh - Ballynacargy - Mullingar,,3,,,,luas
+5401_125938,7778020,450,Dooagh - Louisburgh,,3,,,,luas
+5401_125939,7778020,451,Ballina - Charlestown - Longford,,3,,,,luas
+5401_125940,7778020,456,Galway - Westport - Ballina,,3,,,,luas
+5401_125941,7778020,458,Sligo - Enniscrone - Ballina,,3,,,,luas
+5401_125942,7778020,461,Sligo - Roscommon - Athlone,,3,,,,luas
+5401_125943,7778020,462,Carrigallen - Ballinamore - Sligo,,3,,,,luas
+5401_125944,7778020,464,Carrigallen - Eniskillen,,3,,,,luas
+5401_125945,7778020,465,Carrigallen - Cavan,,3,,,,luas
+5401_125946,7778020,466,Athlone - Longford,,3,,,,luas
+5401_125947,7778020,468,Strokestown - Carrick on Shannon,,3,,,,luas
+5401_125948,7778020,469,Sligo - Drumkeeran - Longford,,3,,,,luas
+5401_125949,7778020,470,Sligo - Glenfarne - Rossinver,,3,,,,luas
+5401_125950,7778020,S2,Strandhill - Rosses Point,,3,,,,luas
+5401_125951,7778020,S3,Finisklin Sth - Markievicz Rd,,3,,,,luas
+5401_125952,7778020,476,Killavil - Ballymote - Tubbercurry,,3,,,,luas
+5401_125953,7778020,S1,Cartron - Sligo Town Centre - Cairns,,3,,,,luas
+5401_125954,7778020,479,Aclare - Coolaney - Sligo,,3,,,,luas
+5401_125955,7778020,480,Sligo - Donegal - Letterkenny - Derry,,3,,,,luas
+5401_125956,7778020,487,Strabane - Raphoe - Letterkenny,,3,,,,luas
+5401_125957,7778020,490,Donegal - Killybegs - Glencolumbcille,,3,,,,luas
+5401_125958,7778020,491,Letterkenny - Ballybofey,,3,,,,luas
+5401_125959,7778020,492,Donegal - Glenties - Dungloe,,3,,,,luas
+5401_125960,7778020,494,Strabane - Ballybofey,,3,,,,luas
+5401_125961,7778020,519,Cork - Charleville,,3,,,,luas
+5401_125962,7778020,100X,Wilton Tce - Airport - Dundalk,,3,,,,luas
+5401_125963,7778020,115C,Enfield - Killucan - Mullingar,,3,,,,luas
+5401_125964,7778020,174A,Long Walk - Fatima,,3,,,,luas
+5401_125965,7778020,174B,Long Walk - Bay Estate,,3,,,,luas
+5401_125966,7778020,175A,Cavan - Clones - Monaghan,,3,,,,luas
+5401_125967,7778020,D4,Southgate SC - Ballymakenny,,3,,,,luas
+5401_125968,7778020,D5,Colpe Road - Termonabbey,,3,,,,luas
+5401_125969,7778020,209A,City Centre - Pouladuff - Connolly Rd,,3,,,,luas
+5401_125970,7778020,215A,Mahon Point - Boreenmanna Rd - City,,3,,,,luas
+5401_125971,7778020,207A,Merchants Quay - Glen Ave - Glenthorn,,3,,,,luas
+5401_125972,7778020,CW1,MSD - Tyndall College,,3,,,,luas
+5401_125973,7778020,CW2,Barrow Valley RPK - Business Park,,3,,,,luas
+5401_125974,7778020,D1,Drogheda - Laytown,,3,,,,luas
+5401_125975,7778020,D2,Drogheda - Coast Road - Laytown,,3,,,,luas
+5401_125976,7778020,226X,Kinsale - UCC,,3,,,,luas
+5401_125977,7778020,323X,Limerick - Birr - Athlone,,3,,,,luas
+5401_125978,7778020,330X,Limerick - Ennis,,3,,,,luas
+5401_125979,7778020,317A,Limerick - Ennis,,3,,,,luas
+5401_125980,7778020,305A,CC - St.Marys Park - CC,,3,,,,luas
+5401_125981,7778020,202A,Ringmahon - City - Hollyhill (Apple),,3,,,,luas
+5401_125982,7778020,220A,South Mall - Fountainstown,,3,,,,luas
+5401_125983,7778020,225L,Carrigaline - NMCI,,3,,,,luas
+5401_125984,7778020,31,Parnell Place - Knockraha,,3,,,,luas
+5401_125985,7778020,360A,Waterford - WIT - Tramore,,3,,,,luas
+5401_125986,7778020,279A,Waterville - Caherciveen - Killarney,,3,,,,luas
+5401_125987,7778020,220X,Ovens - Carrigaline - Crosshaven,,3,,,,luas
+5401_125988,7778020,101X,Wilton Tce - Drogheda - Termon Abbey,,3,,,,luas
+5401_125989,7778020,245X,Busaras - Fermoy - Cork,,3,,,,luas
+5401_125990,7778020,223X,South Mall - Haulbowline,,3,,,,luas
+5401_125991,7778020,EK1,Kells - Virginia,,3,,,,luas
+5401_125992,7778020,A1,Bellanamulla - Station - Creggan,,3,,,,luas
+5401_125993,7778020,A2,Bellanamulla - Station - Creggan,,3,,,,luas
+5401_125994,7778020,107,Dublin - Navan - Nobber - Kingscourt,,3,,,,luas
+5401_125995,7778020,109,Dublin - Navan - Kells - Cavan,,3,,,,luas
+5401_125996,7778020,110D,DCU - Kennedy Road,,3,,,,luas
+5401_125997,7778020,111,Wilton Tce - Trim - Granard - Cavan,,3,,,,luas
+5401_125998,7778020,187,Kells - Virginia - Ballyjamesduff,,3,,,,luas
+5401_125999,7778020,401,Parkmore Road - Doctor Mannix Road,,3,,,,luas
+5401_126000,7778020,402,Seacrest - Eyre Square - Merlin Park,,3,,,,luas
+5401_126001,7778020,404,Eyre Square - Newcastle,,3,,,,luas
+5401_126002,7778020,405,Rahoon - Eyre Square - Ballybane,,3,,,,luas
+5401_126003,7778020,407,Eyre Square - Bóthar an Chóiste,,3,,,,luas
+5401_126004,7778020,409,Eyre Square - An Pháirc Mhór,,3,,,,luas
+5401_126005,7778020,417,Galway - Corofin Cross - Tuam,,3,,,,luas
+5401_126006,7778020,419,Galway - Clifden,,3,,,,luas
+5401_126007,7778020,420,Ballina - Pontoon - Castlebar,,3,,,,luas
+5401_126008,7778020,421,Swinford - Claremorris,,3,,,,luas
+5401_126009,7778020,422,Headford - Castlebar,,3,,,,luas
+5401_126010,7778020,423,Westport - Clifden,,3,,,,luas
+5401_126011,7778020,424,Galway - Lettermullen,,3,,,,luas
+5401_126012,7778020,425,Galway - Roscommon - Longford,,3,,,,luas
+5401_126013,7778020,429,Galway - Tuam - Castlerea,,3,,,,luas
+5401_126014,7778020,434,Galway - Gort,,3,,,,luas
+5401_126015,7778020,440,Knock Airport - Westport - Dooagh,,3,,,,luas
+5401_126016,7778020,109A,DCU - Airport - Ratoath - Navan,,3,,,,luas
+5401_126017,7778020,425A,Galway - Monivea - Mountbellew,,3,,,,luas
+5401_126018,7778020,109D,DCU - Trim,,3,,,,luas
+5401_126019,7778020,109B,Dublin - Dunshaughlin - Trim,,3,,,,luas
+5401_126020,7778020,109X,Dublin - Kells - Cavan Hourly Express,,3,,,,luas
+5401_126021,7778020,111A,Delvin - Granard - Cavan,,3,,,,luas
+5401_126022,7778020,115X,Connolly Station - Mullingar Stn,,3,,,,luas
+5401_126023,7778020,220C,MTU - Crosshaven,,3,,,,luas
+5401_126024,7778020,304A,Raheen - Bus Station - UL,,3,,,,luas
+5401_126025,7778020,NX,Dublin Wilton Terrace - Navan,,3,,,,luas
+5401_126026,7778020,NV1,Gainstown - Dunville Road,,3,,,,luas
+5401_126027,7778020,NV2,Gainstown - Cluster Park,,3,,,,luas
+5401_126028,7778020,103X,Dublin - Ashbourne - Duleek - Navan,,3,,,,luas
+5401_126029,7778020,105X,UCD - M3 - Ratoath - Ashbourne,,3,,,,luas
+5401_126030,7778020,111X,Dublin express - Athboy - Clonmellon,,3,,,,luas
+5402_123775,7778019,6,Howth Dart Stn - Lower Abbey Street,,3,,,,luas
+5402_123776,7778019,13,Grange Castle - Harristown,,3,,,,luas
+5402_123777,7778019,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),,3,,,,luas
+5402_123778,7778019,15,Ballycullen Road - Clongriffin,,3,,,,luas
+5402_123779,7778019,16,Ballinteer - Dublin Airport,,3,,,,luas
+5402_123780,7778019,16D,Airport - Beaumont Village - Ballinteer not,,3,,,,luas
+5402_123781,7778019,19,Parnell Square West - Dublin Airport,,3,,,,luas
+5402_123782,7778019,23,Merrion Square - Charlestown SC,,3,,,,luas
+5402_123783,7778019,24,Merrion Square - Dublin Airport,,3,,,,luas
+5402_123784,7778019,27,Jobstown - Clare Hall,,3,,,,luas
+5402_123785,7778019,33,Balbriggan - Lower Abbey St,,3,,,,luas
+5402_123786,7778019,33D,Portrane - St Stephens Green,,3,,,,luas
+5402_123787,7778019,33E,Lwr Abbey St - Portrane - Skerries,,3,,,,luas
+5402_123788,7778019,37,Blanchardstown Shopping Centre - Wilton Terrace,,3,,,,luas
+5402_123789,7778019,38,Damastown - Burlington Road,,3,,,,luas
+5402_123790,7778019,39,Ongar - Burlington Rd,,3,,,,luas
+5402_123791,7778019,41,Swords Manor - Lower Abbey Street,,3,,,,luas
+5402_123792,7778019,41D,Swords Business Park - Lwr Abbey St,,3,,,,luas
+5402_123793,7778019,42,Sand's Hotel Portmarnock - Eden Quay,,3,,,,luas
+5402_123794,7778019,43,Talbot Street - Swords Business Park,,3,,,,luas
+5402_123795,7778019,44,Enniskerry - DCU,,3,,,,luas
+5402_123796,7778019,47,Poolbeg Street - Belarmine,,3,,,,luas
+5402_123797,7778019,52,Intel - Ringsend,,3,,,,luas
+5402_123798,7778019,53,Dublin Ferryport - Talbot St,,3,,,,luas
+5402_123799,7778019,56A,Tallaght - Ringsend Rd,,3,,,,luas
+5402_123800,7778019,60,Forbes Street - Tallaght,,3,,,,luas
+5402_123801,7778019,65,Poolbeg Street - Blessington/Ballymore,,3,,,,luas
+5402_123802,7778019,68,Newcastle / Greenogue Business Pk - Hawkins St,,3,,,,luas
+5402_123803,7778019,69,Rathcoole - Hawkins St,,3,,,,luas
+5402_123804,7778019,70,Dunboyne - Burlington Rd,,3,,,,luas
+5402_123805,7778019,74,Dundrum Luas - Eden Quay,,3,,,,luas
+5402_123806,7778019,77A,Citywest - Ringsend,,3,,,,luas
+5402_123807,7778019,80,Liffey Valley SC - Palmerston Park,,3,,,,luas
+5402_123808,7778019,82,Irishtown - Kiltipper,,3,,,,luas
+5402_123809,7778019,99,Phoenix Park - Phoenix Park,,3,,,,luas
+5402_123810,7778019,116,Whitechurch - Parnell Square,,3,,,,luas
+5402_123811,7778019,118,Kilternan - Eden Quay,,3,,,,luas
+5402_123812,7778019,120,Ashtown Station - Parnell St,,3,,,,luas
+5402_123813,7778019,122,Drimnagh - Ashington,,3,,,,luas
+5402_123814,7778019,130,Talbot Street - Castle Avenue,,3,,,,luas
+5402_123815,7778019,38D,IBM Damastown via N3 - Burlington Rd,,3,,,,luas
+5402_123816,7778019,142,Portmarnock - UCD (Belfield),,3,,,,luas
+5402_123817,7778019,44D,Dundrum - OCS,,3,,,,luas
+5402_123818,7778019,150,Rossmore - Hawkins Street,,3,,,,luas
+5402_123819,7778019,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),,3,,,,luas
+5402_123820,7778019,P29,Adamstown Stn - Ringsend,,3,,,,luas
+5402_123821,7778019,X1,Kilcoole - Hawkins Street,,3,,,,luas
+5402_123822,7778019,X2,Newcastle - Hawkins Street,,3,,,,luas
+5402_123823,7778019,X25,Maynooth - Easton Rd - UCD,,3,,,,luas
+5402_123824,7778019,X26,Maynooth - Louisa Bridge - Leeson Street Lower,,3,,,,luas
+5402_123825,7778019,X27,Salesian College - Aghards Rd - UCD,,3,,,,luas
+5402_123826,7778019,X28,Salesian College - Celbridge Main St - UCD,,3,,,,luas
+5402_123827,7778019,X30,Dodsboro - UCD,,3,,,,luas
+5402_123828,7778019,X31,River Forest - UCD Belfield,,3,,,,luas
+5402_123829,7778019,X32,Kildare Innovation Campus - UCD Belfield,,3,,,,luas
+5402_123830,7778019,C1,Adamstown Stn - Sandymount,,3,,,,luas
+5402_123831,7778019,C2,Adamstown Stn - Sandymount,,3,,,,luas
+5402_123832,7778019,C3,Maynooth - Ringsend,,3,,,,luas
+5402_123833,7778019,C4,Maynooth - Ringsend,,3,,,,luas
+5402_123834,7778019,C5,Maynooth - Ringsend Night Service,,3,,,,luas
+5402_123835,7778019,C6,Maynooth - Celbridge - Ringsend Night Service,,3,,,,luas
+5402_123836,7778019,E1,Ballywaltrim - Northwood,,3,,,,luas
+5402_123837,7778019,E2,Dun Laoghaire - Harristown,,3,,,,luas
+5402_123838,7778019,F1,The Square Tallaght - IKEA,,3,,,,luas
+5402_123839,7778019,F2,Charlestown SC - Rossmore,,3,,,,luas
+5402_123840,7778019,F3,Charlestown SC - Limekiln Avenue,,3,,,,luas
+5402_123841,7778019,G1,Red Cow LUAS - Spencer Dock,,3,,,,luas
+5402_123842,7778019,G2,Liffey Valley SC - Spencer Dock,,3,,,,luas
+5402_123843,7778019,H1,Baldoyle - Lower Abbey Street,,3,,,,luas
+5402_123844,7778019,H2,Malahide - Lower Abbey Street,,3,,,,luas
+5402_123845,7778019,H3,Howth Summit - Lower Abbey Street,,3,,,,luas
+5402_123846,7778019,N4,Blanchardstown - Point Village,,3,,,,luas
+5402_123847,7778019,S2,Sean Moore Road - Heuston Station,,3,,,,luas
+5402_123848,7778019,65A,Route 65A Tallaght Sq - Blessington,,3,,,,luas
+5402_123849,7778019,15A,Merrion Square - Limekiln Avenue,,3,,,,luas
+5402_123850,7778019,27B,Eden Quay - Harristown,,3,,,,luas
+5402_123851,7778019,32X,UCD Belfield - Malahide,,3,,,,luas
+5402_123852,7778019,38A,Damastown via Navan Rd - Burlington Rd,,3,,,,luas
+5402_123853,7778019,39X,Ongar - Burlington Road,,3,,,,luas
+5402_123854,7778019,44B,Glencullen - Dundrum Luas,,3,,,,luas
+5402_123855,7778019,65B,Poolbeg Street - Citywest,,3,,,,luas
+5402_123856,7778019,70D,Dunboyne - DCU,,3,,,,luas
+5402_123857,7778019,77X,Citywest - UCD Belfield,,3,,,,luas
+5402_123858,7778019,1,Sandymount - O'Connell Street - Santry,,3,,,,luas
+5402_123859,7778019,4,Monkstown Avenue - Heuston Station,,3,,,,luas
+5402_123860,7778019,7,Brides Glen Luas - Mountjoy Square,,3,,,,luas
+5402_123861,7778019,11,Phoenix Park - Sandyford Business District,,3,,,,luas
+5402_123862,7778019,11B,Phoenix Park - Donnybrook,,3,,,,luas
+5402_123863,7778019,15B,Merrion Square - Stocking Avenue,,3,,,,luas
+5402_123864,7778019,41B,Rolestown - Lower Abbey Street,,3,,,,luas
+5402_123865,7778019,41X,Swords - UCD Belfield,,3,,,,luas
+5402_123866,7778019,7E,Mountjoy Square - Dalkey,,3,,,,luas
+5402_123867,7778019,7A,Loughlinstown - Mountjoy Sq,,3,,,,luas
+5402_123868,7778019,7B,Shankill - Mountjoy Square,,3,,,,luas
+5402_123869,7778019,7D,Dalkey - Mountjoy Square,,3,,,,luas
+5402_123870,7778019,27X,Clare Hall - UCD Belfield,,3,,,,luas
+5402_123871,7778019,15D,Merrion Square - Whitechurch,,3,,,,luas
+5402_123872,7778019,40D,Tyrrelstown - Parnell Street,,3,,,,luas
+5402_123873,7778019,40E,Broombridge Luas - Tyrrelstown,,3,,,,luas
+5402_123874,7778019,33X,Skerries - Custom House Quay / St Stephen Green,,3,,,,luas
+5402_123875,7778019,38B,Damastown via Ballycoolin Ind Est - Burlington Rd,,3,,,,luas
+5402_123876,7778019,39A,Ongar - UCD Belfield,,3,,,,luas
+5402_123877,7778019,41C,Swords Manor Via River Valley - Lower Abbey St,,3,,,,luas
+5402_123878,7778019,42D,Portmarnock - DCU,,3,,,,luas
+5402_123879,7778019,51D,Aston Quay - Clondalkin,,3,,,,luas
+5402_123880,7778019,27A,Blunden Drive - Eden Quay,,3,,,,luas
+5402_123881,7778019,68A,Hawkins Street - Bulfin Road,,3,,,,luas
+5402_123882,7778019,69X,Rathcoole - Hawkins St,,3,,,,luas
+5402_123883,7778019,L12,Ballywaltrim - Bray Dart Station,,3,,,,luas
+5402_123884,7778019,L14,Southern Cross Road - Palermo,,3,,,,luas
+5402_123885,7778019,L25,Dun Laoghaire - Dundrum Town Centre,,3,,,,luas
+5402_123886,7778019,L53,Liffey Valley - Adamstown Stn,,3,,,,luas
+5402_123887,7778019,L54,River Forest - Red Cow Luas,,3,,,,luas
+5402_123888,7778019,L58,River Forest - Castletown - Hazelhatch Stn,,3,,,,luas
+5402_123889,7778019,L59,River Forest - Celbridge - Hazelhatch,,3,,,,luas
+5402_123890,7778019,L89,Broombridge Luas - Toberburr,,3,,,,luas
+5403_126031,7778017,rail,Dublin - Belfast,,2,,,,luas
+5403_126032,7778017,rail,Belfast - Dublin,,2,,,,luas
+5403_126033,7778017,InterCity,Dublin - Cork,,2,,,,luas
+5403_126035,7778017,rail,Dublin - Tralee,,2,,,,luas
+5403_126037,7778017,rail,Dublin - Limerick,,2,,,,luas
+5403_126039,7778017,rail,Limerick - Galway,,2,,,,luas
+5403_126040,7778017,rail,Waterford - Limerick,,2,,,,luas
+5403_126041,7778017,rail,Limerick - Ballybrophy,,2,,,,luas
+5403_126044,7778017,rail,Dublin - Waterford,,2,,,,luas
+5403_126047,7778017,rail,Dublin - Europort,,2,,,,luas
+5403_126049,7778017,rail,Dublin - Galway,,2,,,,luas
+5403_126050,7778017,rail,Dublin - Westport,,2,,,,luas
+5403_126053,7778017,rail,Dublin - Sligo,,2,,,,luas
+5403_126055,7778017,Commuter,Dublin - Portlaoise,,2,,,,luas
+5403_126056,7778017,rail,Dublin - Maynooth,,2,,,,luas
+5403_126057,7778017,rail,Mallow - Cobh,,2,,,,luas
+5403_126058,7778017,rail,Dublin - Drogheda/Dundalk,,2,,,,luas
+5403_126059,7778017,DART,Bray - Howth,,2,,,,luas
+5404_109840,7778048,843,Birr - Tullamore,,3,,,,luas
+5404_110721,7778048,844,Birr - Galway,,3,,,,luas
+5404_110730,7778048,845,Birr - Dublin,,3,,,,luas
+5404_114219,7778048,847,Birr - Dublin,,3,,,,luas
+5405_105285,7778028,KK1,Glenbawn - Danville Business Park,,3,,,,luas
+5405_105286,7778028,KK2,Cillín Hill - St Luke’s Hospital,,3,,,,luas
+5405_116109,7778028,410,Mount Prospect - Eyre Square,,3,,,,luas
+5405_116110,7778028,411,Mount Prospect - Eyre Square,,3,,,,luas
+5405_116111,7778028,412,Mount Prospect - Eyre Square,,3,,,,luas
+5405_99938,7778028,PL1,Colliers Lane - Woodgrove,,3,,,,luas
+5405_99940,7778028,PL2,Kilminchy Avenue – Bellingham,,3,,,,luas
+5410_124785,7778172,806,Portarlington - Monasterevin,,3,,,,luas
+5410_124786,7778172,815,Tullamore - Athlone,,3,,,,luas
+5410_124787,7778172,822,Mountrath - Carlow,,3,,,,luas
+5410_124788,7778172,823,Birr - Portlaoise,,3,,,,luas
+5410_124789,7778172,831,Borris-in-Ossory - Portlaoise,,3,,,,luas
+5410_124790,7778172,834,Roscrea - Portlaoise,,3,,,,luas
+5410_124791,7778172,840,Banagher - Tullamore,,3,,,,luas
+5410_124792,7778172,850,Athlone - Thurles,,3,,,,luas
+5410_124793,7778172,858,Thurles - Portlaoise,,3,,,,luas
+5410_124794,7778172,LS1,Borris-in-Ossory - Mount Lucas,,3,,,,luas
+5410_124795,7778172,OY1,Tullamore - Mount Lucas,,3,,,,luas
+5411_110899,7778024,702,Dublin Airport - Dalkey,,3,,,,luas
+5411_110900,7778024,700,Dublin Airport - Leopardstown,,3,,,,luas
+5411_110901,7778024,700X,Dublin Airport - City Centre,,3,,,,luas
+5411_94474,7778024,704x,Cork - Dublin - Dublin Airport,,3,,,,luas
+5411_94475,7778024,705x,Dublin - Derry/Londonderry,,3,,,,luas
+5413_107358,7778080,250,Cobh Town Service,,3,,,,luas
+5413_125571,7778080,200,Cobh - Cork,,3,,,,luas
+5413_125572,7778080,210,Hollyhill - Little Island,,3,,,,luas
+5413_51296,7778080,211,Cobh - Little Island,,3,,,,luas
+5414_122948,7778225,741,Dublin Airport - Swords,,3,,,,luas
+5414_126707,7778225,193,Ashbourne - Dublin,,3,,,,luas
+5414_68787,7778225,194,Ratoath - Dublin,,3,,,,luas
+5415_53763,7778256,SI03,Béal an Mhuirthead - Sligo,,3,,,,luas
+5415_53764,7778256,NG11,Béal an Mhuirthead - Galway,,3,,,,luas
+5416_77790,7778101,191,Stamullen - Dublin,,3,,,,luas
+5417_114373,7778151,435,Ballinrobe - Headfort - Galway,,3,,,,luas
+5417_114956,7778151,427,Dunmore - Tuam - Galway,,3,,,,luas
+5417_36546,7778151,428,Tuam - Galway,,3,,,,luas
+5418_114374,7778157,964,Galway - Croithlí,,3,,,,luas
+5419_114954,7778030,593,Creeves - Newcastle West,,3,,,,luas
+5420_110902,7778013,812,Urlingford - Thurles - Roscrea,,3,,,,luas
+5420_111023,7778013,881,Graiguenamanagh - Kilkenny,,3,,,,luas
+5420_122950,7778013,MU1,Ballinderry Road - Lough Sheever Corporate Park,,3,,,,luas
+5420_122951,7778013,MU2,Mullingar Business Park - Ardmore Road,,3,,,,luas
+5421_105286,7778028,KK2,Cillín Hill - Saint Luke's Hospital,,3,,,,luas
+5421_99940,7778028,PL2,Kilminchy Avenue - Bellingham,,3,,,,luas
+5423_109553,7778000,763,Dublin Airport - Athlone - Galway,,3,,,,luas
+5423_109718,7778000,763X,Ballinasloe - Galway,,3,,,,luas
+5423_110897,7778000,251,Galway - Limerick - Cork Airport,,3,,,,luas
+5423_113413,7778000,923,Galway - Clifden - Letterfrack,,3,,,,luas
+5423_116049,7778000,761,Galway - Dublin - Dublin Airport,,3,,,,luas
+5423_116050,7778000,660,Galway - Dublin,,3,,,,luas
+5423_99506,7778000,712,Ennis - Limerick - Dublin Airport,,3,,,,luas
+5423_99512,7778000,721,Castlebar - Dublin - Dublin Airport,,3,,,,luas
+5423_99513,7778000,430,Ballina - Galway,,3,,,,luas
+5423_99516,7778000,707,Cork - Dublin - Dublin Airport,,3,,,,luas
+5424_110723,7778153,980,Carrickmacross - Dublin,,3,,,,luas
+5424_84824,7778153,980A,Carrickmacross - Dublin,,3,,,,luas
+5424_84825,7778153,980B,Carrickmacross - Dublin,,3,,,,luas
+5425_56125,7778032,947,Ros Dumhach - Béal an Mhuirthead,,3,,,,luas
+5425_91958,7778032,945,Ros Dumhach - Béal an Mhuirthead,,3,,,,luas
+5425_92138,7778032,946,Ros Dumhach - Béal an Mhuirthead,,3,,,,luas
+5427_113138,7778191,961,Croithlí - Letterkenny,,3,,,,luas
+5428_107656,7778082,IW01,Kilkenny - Carlow,,3,,,,luas
+5429_51301,7778082,IW07,Gorey - Carlow,,3,,,,luas
+5430_83262,7778260,DK07,Monaghan - Dundalk,,3,,,,luas
+5431_37963,7778036,836,O'Connell Street - Ballycoolin,,3,,,,luas
+5431_46124,7778036,787,Travelodge Ballymun - Dublin Airport,,3,,,,luas
+5431_47272,7778036,870,O'Connell Street - IBM Damastown,,3,,,,luas
+5431_92217,7778036,786,Hilton Hotel - Dublin Airport,,3,,,,luas
+5432_109381,7778038,527,Glennaneeny - Tuam,,3,,,,luas
+5432_109382,7778038,488,Glennaneeny - Dunmore,,3,,,,luas
+5432_109513,7778038,441,Corofin - Tuam,,3,,,,luas
+5432_110722,7778038,484,Glennaneeny - Tuam,,3,,,,luas
+5433_112279,7778102,ATH1,Golden Island - TUS Athlone,,3,,,,luas
+5434_119506,7778347,DK05,Carrickmacross - Dundalk,,3,,,,luas
+5435_37748,7778099,KY03,Gleneagle Hotel - Killarney,,3,,,,luas
+5436_122949,7778228,879,Gorey - Courtown,,3,,,,luas
+5437_112158,7778238,BR01,Gorey - Bray,,3,,,,luas
+5438_109509,7778042,917,Dundalk - Muirhevnamor,,3,,,,luas
+5438_109511,7778042,916,Dundalk - Bay Estate,,3,,,,luas
+5438_114953,7778042,918,Dundalk - Carrick Road,,3,,,,luas
+5439_112911,7778084,231,Ardgroom - Cork,,3,,,,luas
+5440_85798,7778309,525,Galway - Ros an Mhíl,,3,,,,luas
+5441_103878,7778044,UM12,Carlow - Naas - Maynooth,,3,,,,luas
+5441_105287,7778044,UM14,Portlaoise - Maynooth,,3,,,,luas
+5441_107642,7778044,UM06,Athy - Maynooth,,3,,,,luas
+5441_107650,7778044,GD02,Waterford - Carlow - Dublin,,3,,,,luas
+5442_112910,7778044,736,Dublin Airport - Carlow - Waterford,,3,,,,luas
+5442_114256,7778044,735,Limerick - Nenagh - Dublin Airport,,3,,,,luas
+5442_115074,7778044,717,Clonmel - Kilkenny - Dublin Airport,,3,,,,luas
+5442_116113,7778044,617,Waterford - Ballygunner,,3,,,,luas
+5442_116114,7778044,627,Waterford - Slieverue,,3,,,,luas
+5442_117855,7778044,607,Waterford - Ballygunner,,3,,,,luas
+5443_46238,7778230,164,Sydney Parade - UCD,,3,,,,luas
+5444_110724,7778046,327,Tankardstown - Kilmallock,,3,,,,luas
+5444_112157,7778046,325,Garrane - Charleville,,3,,,,luas
+5445_113452,7778083,835,Tullamore Town Service,,3,,,,luas

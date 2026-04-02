@@ -1,0 +1,101 @@
+id,name,type,address,locality,region,postalCode,lat,lon,geocode_source,updated_at
+544eabea-899f-4ca4-aa1d-1e28c5681c47,The Glamping Village at Westport Estate ,Fáilte Ireland's Welcome Standard,Westport Estate Glamping Village,Westport,Mayo,F28 TY45,,,,2026-03-30T12:39:46.152229
+b236fbb6-3899-4498-bb99-011654ed8edf,The Courtyard Mews at Longueville House,Fáilte Ireland's Welcome Standard,Longueville House,Mallow,Cork,P51 KC8K,,,,2026-03-30T12:40:02.797433
+f1d499c8-3375-46f6-8612-550ca3b4c495,Elfin Cottage,Fáilte Ireland's Welcome Standard,Cronagort,Doolin,Clare,V95 H0XD,,,,2026-03-30T12:40:18.225078
+f8dfd23a-17cb-471d-a9b2-7076c0b811de,Russells Cottage,Fáilte Ireland's Welcome Standard,Russells Cottage,Doonnagore,Clare,V95 PD00,,,,2026-03-30T12:40:33.668865
+d1eb98dd-0179-4dbe-abff-ac9d021b9919,Storytellers Cottage,Fáilte Ireland's Welcome Standard,Luogh South,Doolin,Clare,V95 E4H1,,,,2026-03-30T12:40:47.491408
+80926571-eaf9-477d-b880-95e21292b019,Bungalow in Blarney,Fáilte Ireland's Welcome Standard,12 Sunberry Heights,Blarney,Cork,T23 YF58,,,,2026-03-30T12:41:04.017135
+39fbbe46-4cba-4df3-888c-56eb06e488a9,O'Regan's,Fáilte Ireland's Welcome Standard,26 South Great George's Street,Dublin 2,Dublin,D02 A395,,,,2026-03-30T12:41:19.875284
+c42eb6b7-ab08-490c-8eb7-fa0a1c10b48b,Grouse Lodge ,Fáilte Ireland's Welcome Standard,Grouse Lodge,Rosemount,Westmeath,N37 N974,,,,2026-03-30T12:41:34.725477
+55aacf55-504b-487f-a94f-8c852d940f90,Shamrock Stay Blarney,Fáilte Ireland's Welcome Standard,17 Shamrock Terrace,Blarney,Cork,T23 F29T,,,,2026-03-30T12:41:50.818146
+dc87b7d7-0b0e-4c11-863a-bf472aeb9840,Saltcliff Cottage ,Fáilte Ireland's Welcome Standard,Lough South,Doolin,Clare,V95 WF38,,,,2026-03-30T12:42:06.500592
+99e4e584-6e21-41f0-93ff-c244a70c64fc,Wild Hideaways,Fáilte Ireland's Welcome Standard,Laharanshermeen,Bantry,Cork,P75 P599,,,,2026-03-30T12:42:23.491715
+8d6c546e-6999-4be6-8693-c6a7eec49b75,Oranmore Castle,Fáilte Ireland's Welcome Standard,"Oranmore castle, Oranmore",Galway,Galway,H91 TFT6,,,,2026-03-30T12:42:39.576233
+73056730-33a2-47ab-a9e1-ffed87c4f7b1,Tankardstown Hospitality ,Holiday Cottage,"Tankardstown Estate, Rathkenny",Slane,Meath,C15 D535,,,,2026-03-30T12:42:56.490113
+b9bff45b-0bae-471c-a4d3-cea940d93bb8,Druids Glen Hotel & Golf Resort,Hotel,Druids Glen,Newtownmountkennedy,Wicklow,A63 DW08,,,,2026-03-30T12:43:11.509036
+f24f21ff-48a9-4038-924a-8550cafca2bf,Glenview Hotel,Hotel,Glen of the Downs,Wicklow,Wicklow,A63 DC95,,,,2026-03-30T12:43:25.257248
+1d29cc5b-bb86-4b8a-8e1e-7232407cfa03,The Western Hotel,Hotel,33 Prospect Hill,Galway city,Galway,H91 Y3FA,,,,2026-03-30T12:43:39.888473
+bb968bea-aea1-4e76-9b92-f61d4ab982fd,Hotel Isaacs,Hotel,48 MacCurtain Street,Cork,Cork,T23 F6EK,,,,2026-03-30T12:43:56.261273
+2de5a3f3-57d7-406a-85b9-bc76bc3014fe,Maldron Hotel Pearse Street,Hotel,99-107 Pearse Street,Dublin 2,Dublin,D02 RK37,,,,2026-03-30T12:44:11.274476
+8e63ba4d-d599-498f-adcb-9c9857173c1c,Whites of Wexford,Hotel,Abbey Street,Wexford,Wexford,Y35 C5PF,,,,2026-03-30T12:44:28.836566
+4a895757-40be-44ca-80e3-139fcb881431,Killeen House Hotel,Hotel,"Knoppoge, Aghadoe",Killarney,Kerry,V93 WR04,,,,2026-03-30T12:44:46.619632
+b73ac9a0-0fcb-4189-aaa5-1556b02976bd,Ashford Castle Hotel,Hotel,Ashford Castle Estate,Cong,Mayo,F31 CA48,,,,2026-03-30T12:45:02.691587
+3b9654dc-87d0-42f4-abec-c6b3bd513a87,Raheen Woods Hotel,Hotel,Raheen,Athenry,Galway,H65 E443,,,,2026-03-30T12:45:19.836120
+c92866ae-67f2-4e5f-b7ba-f0de4177904a,Newtown Park Hotel,Hotel,Ballindinas,Wexford,Wexford,Y35 E8KT,,,,2026-03-30T12:45:34.905451
+aa79216e-fced-4834-b24e-64de4652ad69,Jackson's Hotel,Hotel,Railway Road,Ballybofey,Donegal,F93 RD40,,,,2026-03-30T12:45:50.130464
+ae232b92-f0ec-4470-b978-478e5d319302,Ardagh Hotel & Restaurant,Hotel,Ardagh,Clifden,Galway,H71 X590,,,,2026-03-30T12:46:05.840868
+62061c5c-7a97-438b-8b3f-81c99cc04641,Great National Ballykisteen Golf Hotel,Hotel,Ballykisteen,Tipperary,Tipperary,E34 VK12,,,,2026-03-30T12:46:21.186560
+3e7b8bf3-d107-415c-8725-9aceca4296fe,Gregans Castle Hotel,Hotel,Gragan East,Ballyvaughan,Clare,H91 CF60,,,,2026-03-30T12:46:37.561844
+f4badb9d-1f14-4b11-9b13-b77bd70e6ff2,Hylands Burren Hotel,Hotel,The Square,Ballyvaughan,Clare,H91 EY00,,,,2026-03-30T12:46:52.169121
+a7cbab04-3cd3-4aaf-9391-b1a19a94afce,Casey's of Baltimore Hotel,Hotel,Church Strand,Baltimore,Cork,P81 YW66,,,,2026-03-30T12:47:07.774580
+c780cf85-6755-4196-bd1a-0d4448505c54,Westlodge Hotel,Hotel,Seafield,Bantry,Cork,P75 N978,,,,2026-03-30T12:47:23.276292
+2ae76120-b9ce-4fe0-b92e-fdc9d8e0a847,The Twelve,Hotel,Freeport,Barna,Galway,H91 Y3KA,,,,2026-03-30T12:47:38.062928
+e53b09a9-8d4b-4633-860a-093ce9ae6505,The Dunloe Hotel & Gardens,Hotel,"Dunloe Lower, Dunloe Lower",Beaufort,Kerry,V93 E029,,,,2026-03-30T12:47:53.226046
+762fb523-ed63-4811-9311-c34fdf8319f3,Glashaus Hotel,Hotel,"Belgard Square West, Tallaght",Dublin 24,Dublin,D24 AT84,,,,2026-03-30T12:48:08.910228
+5646c1c6-f4dd-4050-a8aa-3389cbc0549c,Fitzwilton Hotel,Hotel,Bridge Street,Waterford,Waterford,X91 RC9A,,,,2026-03-30T12:48:24.783394
+ac16dc4b-e303-4693-9cf4-d9142aef599b,"Castlecourt Hotel Spa, Leisure and Conference",Hotel,Castlebar Street,Westport,Mayo,F28 NX84,,,,2026-03-30T12:48:40.075897
+1d829ef6-a8f8-4c36-80d6-4c70dc84b9c3,"Westport Plaza Hotel Spa, Leisure and Conference",Hotel,Castlebar Street,Westport,Mayo,F28 D297,,,,2026-03-30T12:48:55.673813
+02d3495c-8ed3-48a3-a111-a7a14d32d2bc,Newpark Hotel,Hotel,Castlecomer Road,Kilkenny,Kilkenny,R95 KP63,,,,2026-03-30T12:49:12.672778
+d3f32a70-e475-4293-a67b-9e2474678303,Hilton Dublin,Hotel,Charlemont Place,Dublin 2,Dublin,D02 A893,,,,2026-03-30T12:49:28.675381
+a894b7ec-d1a1-4369-8bbb-61d63454521c,Shamrock Lodge Hotel,Hotel,Clonown Road,Athlone,Westmeath,N37 CK73,,,,2026-03-30T12:49:43.756126
+a4a2765b-de24-4313-9aea-891a4379a4c1,White Sands Hotel,Hotel,"Strand Road, Portmarnock",Dublin 13,Dublin,D13 W7X2,,,,2026-03-30T12:49:58.513845
+8a26cb44-92c3-4033-8e46-56c3e6d0fc36,"The College Green Hotel Dublin, Autograph Collection",Hotel,35-39 Westmoreland Street,Dublin 2,Dublin,D02 HR67,,,,2026-03-30T12:50:14.836853
+a467ba22-9ff3-4fa2-89b7-66551c1b6e39,Arbutus Hotel,Hotel,"1 College Street, Town Centre",Killarney,Kerry,V93 AYP9,,,,2026-03-30T12:50:30.319203
+76fd4ab8-bc59-42e1-9d74-802ace6ce4da,Hotel Killarney,Hotel,Cork Road,Killarney,Kerry,V93 FX00,,,,2026-03-30T12:50:46.492370
+acea05b7-2bd2-4003-a650-72c383740f1a,Twin Trees Hotel & Leisure Club,Hotel,Downhill Road,Ballina,Mayo,F26 A3N7,,,,2026-03-30T12:51:03.224202
+cd50a233-2f26-4cf4-839e-481307c0b190,The Anner Hotel,Hotel,Dublin Road,Thurles,Tipperary,E41 X789,,,,2026-03-30T12:51:18.978755
+d7753626-5e55-4f7d-9120-4a696e99521c,Falls Hotel,Hotel,Glencree,Ennistymon,Clare,V95 D2PC,,,,2026-03-30T12:51:35.144564
+36d820c4-ff48-44ea-948e-5cfab3cbf988,Innisfallen Hotel,Hotel,Fossa,Killarney,Kerry,V93 CR90,,,,2026-03-30T12:51:51.222445
+09dbc33c-c3f2-4e74-96f0-461853ca9074,Fota Island Hotel and Spa,Hotel,Fota Island Resort,Carrigtwohill,Cork,T45 HX62,,,,2026-03-30T12:52:08.957844
+31b81b8f-6973-4bcb-8dc6-055b36a27af2,"Abbey Hotel, Conference and Leisure",Hotel,"Abbeytown, Galway Road",Roscommon,Roscommon,F42 F992,,,,2026-03-30T12:52:23.504408
+271c8f9b-ad5f-4889-a840-2a9a0cc716dd,Garryvoe Hotel,Hotel,Garryvoe,Ladysbridge,Cork,P25 DR94,,,,2026-03-30T12:52:38.796045
+7480a22e-528a-4263-b889-ec5aa267e1e3,Glasson Lakehouse,Hotel,"Glasson, Killinure",Athlone,Westmeath,N37 HX45,,,,2026-03-30T12:52:54.335354
+19917199-a870-493f-85d6-4422e2d9d43e,Sneem Hotel,Hotel,Drimna Beg,Sneem,Kerry,V93 XV44,,,,2026-03-30T12:53:09.016807
+8033b443-a272-4884-a5db-c311fb806321,Kenmare Bay Hotel & Resort,Hotel,Gortamullen,Kenmare,Kerry,V93 HY28,,,,2026-03-30T12:53:24.216387
+8251fbc2-3943-4af8-b6fa-2fa1701424f3,Manor West Hotel,Hotel,Manor West,Tralee,Kerry,V92 YC59,,,,2026-03-30T12:53:38.970468
+b35872af-ebe7-4599-826b-271798bbe266,Clybaun Hotel,Hotel,"Clybaun Road, Knocknacarra",Galway,Galway,H91 F62V,,,,2026-03-30T12:53:54.822783
+86d4aa1e-7d6e-4a6c-85f2-c47a6160e7a6,Castlerosse Park Resort,Hotel,Gortroe,Killarney,Kerry,V93 VN5P,,,,2026-03-30T12:54:10.208805
+91ebe43a-beea-4251-b146-bf41aa721fc1,Ballygarry Estate Hotel and Spa,Hotel,Leebrook,Tralee,Kerry,V92 W279,,,,2026-03-30T12:54:24.602464
+ed957a4e-2dde-4b0e-a418-13d3fe6f1a60,Delphi Resort,Hotel,Tawnyinlough,Leenane,Mayo,H91 DP08,,,,2026-03-30T12:54:39.904454
+56c7205d-2967-4308-ae9a-f2870abb85af,Teach De Broc,Guest House,Ballyeagh,Ballybunion,Kerry,V31 C971,,,,2026-03-30T12:54:53.596021
+09cc7c53-812e-4028-af6a-b2234211739d,Hydro Hotel,Hotel,Main Street,Lisdoonvarna,Clare,V95 RY61,,,,2026-03-30T12:55:07.352119
+818dd6e7-c0de-4e0a-bde7-da4f978d46dc,The Galmont Hotel & Spa,Hotel,"Lough Atalia Road, Galway city",Galway,Galway,H91 CYN3,,,,2026-03-30T12:55:24.773819
+d5ddc0a2-abdf-4a3a-99bd-c05386b9b465,Lough Eske Castle,Hotel,Lough Eske,Donegal Town,Donegal,F94 HX59,,,,2026-03-30T12:55:40.236622
+4411c356-2241-41b9-b9bb-b9f73c10124f,Arnold's Hotel,Hotel,Main Street,Dunfanaghy,Donegal,F92 N6TF,,,,2026-03-30T12:55:56.187661
+c028831f-4037-4e0d-b61e-f7c91686051b,Holyrood Hotel,Hotel,Main Street,Bundoran,Donegal,F94 N6W9,,,,2026-03-30T12:56:10.925564
+0df47dce-a4e6-4e13-9aaa-66dba09e50b0,Nesbitt Arms Boutique Hotel,Hotel,Main Street,Ardara,Donegal,F94 X0RN,,,,2026-03-30T12:56:25.923688
+19c9ee47-b623-4d2b-840c-6efe62bc975e,Granville Hotel,Hotel,62-66 Meagher's Quay,Waterford,Waterford,X91 XH5R,,,,2026-03-30T12:56:39.838932
+c506d0ad-13ba-4b52-a805-8d6a6bf4a2be,Clayton Hotel Ballsbridge,Hotel,"Merrion Road, Ballsbridge",Dublin 4,Dublin,D04 P3C3,,,,2026-03-30T12:56:54.782657
+aa08c273-dd10-42d8-b3e2-ea57ebc9ba3e,Maldron Hotel Portlaoise,Hotel,"Midway, Abbeyleix Road",Portlaoise,Laois,R32 HKN3,,,,2026-03-30T12:57:09.557961
+085fa4e1-cbd6-474f-9211-93dba6b621e6,Mount Juliet Estate,Hotel,Mount Juliet Estate,Thomastown,Kilkenny,R95 HY05,,,,2026-03-30T12:57:25.291002
+72891017-f647-4823-9927-98de612f6723,Riverside Hotel Killarney,Hotel,Muckross Road,Killarney,Kerry,V93 V260,,,,2026-03-30T12:57:41.869433
+c4e9824d-c4b4-43c4-ac68-ce5a0c119941,Maldron Hotel Newlands Cross,Hotel,"Newlands Cross, Naas Road",Dublin 22,Dublin,D22 V6Y6,,,,2026-03-30T12:57:56.390639
+5a1b77d7-7687-4f05-97e9-c517601dfc88,Holiday Inn Express Dublin Airport,Hotel,"Northwood, Santry",Dublin 9,Dublin,D09 RY17,,,,2026-03-30T12:58:13.667519
+e68b8f4c-3ba5-44a2-a73e-527813de4acc,The Abbey Court Hostel,Holiday Hostel,"29 Bachelors Walk, O'Connell Bridge",Dublin 1,Dublin,D01 AX90,,,,2026-03-30T12:58:27.797985
+e46bc584-7421-436f-acb1-b7a35a75c6f9,Brandon House Hotel and Solas Croi Spa,Hotel,Southknock,New Ross,Wexford,Y34 KR62,52.3955671,-6.9446066,osm,2026-03-30T12:58:34.624662
+dde88e3f-e13d-4b31-a0c3-0e0400a304a5,Castle Oaks House Hotel,Hotel,Stradbally,Castleconnell,Limerick,V94 EH94,52.7069228,-8.5069142,osm,2026-03-30T12:58:35.807968
+6930c7d5-93b5-4d1d-825b-641430deb068,Moyvalley Hotel,Hotel,Balyna Estate,Moyvalley,Kildare,W91 Y803,53.4298379,-6.9199634,osm,2026-03-30T12:58:37.090457
+3a13f707-cb28-4c24-b83d-3ec440f2c4a2,Mulgrave Lodge,Holiday Hostel,47 Mulgrave Street,Dun Laoghaire,Dublin,A96 FN24,53.2896712,-6.1368967,osm,2026-03-30T12:58:38.353891
+fa57dedc-1957-45e3-89e0-fa84a8095309,Aspect Hotel Dublin Parkwest,Hotel,"Park West Business Campus, Nangor Road",Dublin 12,Dublin,D12 F2V4,53.320534,-6.3288431,osm,2026-03-30T12:58:39.788916
+8834ef5f-e0bd-40d2-87de-e0f4995e1518,Parknasilla Hotel,Hotel,Parknasilla,Sneem,Kerry,V93 EK71,51.8156176,-9.8747424,osm,2026-03-30T12:58:40.954218
+45a0520b-8a99-4d47-a0bc-24cbdf3e498f,Blue Haven Hotel,Hotel,3/4 Pearse Street,Kinsale,Cork,P17 NA72,51.7064473,-8.5229476,osm,2026-03-30T12:58:42.070454
+25b111f4-e329-4fdc-a7eb-9e05c39b3e0e,No 1 Pery Square Hotel & Spa,Hotel,"Georgian Quarter, Pery Square",Limerick,Limerick,V94 EKP9,52.661252,-8.6301239,osm,2026-03-30T12:58:44.000730
+19794866-bd93-4339-b498-2a33075b4a23,Actons Hotel,Hotel,Pier Road,Kinsale,Cork,P17 PX80,51.7025552,-8.5191549,osm,2026-03-30T12:58:45.179350
+e6b892ae-a0db-412e-92a8-9203208381b6,Castleknock Hotel  ,Hotel,"Porterstown Road, Castleknock Hotel",Dublin 15,Dublin,D15 WNR7,53.3949346,-6.3892085,osm,2026-03-30T12:58:46.566001
+a29ac673-3ec9-40d9-b5d4-85d9446581f6,Renvyle House Hotel,Hotel,Rusheenduff,Renvyle,Galway,H91 X8Y8,53.609518,-10.0012355,osm,2026-03-30T12:58:47.837881
+3dd8baa2-81fd-47fe-b9b7-1e686e3c0afe,Rochestown Lodge Hotel and Leisure Club,Hotel,164 Rochestown Avenue,Dun Laoghaire,Dublin,A96 ETY8,53.2718406,-6.144695,osm,2026-03-30T12:58:49.123087
+c08e5fe0-6c5b-42a3-a5d8-1a582396f206,"Celtic Ross Hotel, Conference, Leisure Centre & Holistic Suite",Hotel,Rosscarbery,Rosscarbery,Cork,P85 WF86,51.5775538,-9.0327407,osm,2026-03-30T12:58:50.285422
+da90a1d8-d0e8-4903-8c07-371ae7568cad,"Yeats Country Hotel, Spa and Leisure Club",Hotel,Rosses Point,Rosses Point,Sligo,F91 WP6N,54.3054882,-8.5481649,osm,2026-03-30T12:58:51.418231
+6569f038-bc69-447b-a548-09db2e1f6705,West Cork Hotel,Hotel,Ilen Street,Skibbereen,Cork,P81 FH63,51.5518153,-9.2706805,osm,2026-03-30T12:58:52.608675
+056021e6-bc6a-472e-98fd-13a38b74f18d,Armada Hotel,Hotel,Spanish Point,Miltown Malbay,Clare,V95 R883,52.8460592,-9.4151253,osm,2026-03-30T12:58:53.713656
+a0f2c72b-78ca-4547-ab6b-ceaf5bf5f0cc,The Glasshouse,Hotel,Fish Quay,Sligo,Sligo,F91 NCA4,54.2727201,-8.4750244,osm,2026-03-30T12:58:54.966951
+cba0e919-6d47-4565-addc-622a5c091451,Kiltimagh Park Hotel,Hotel,Corrahoor,Kiltimagh,Mayo,F12 NY17,53.85,-9.0,osm,2026-03-30T12:58:56.189012
+35f05f5b-e777-44f7-bb98-50ee47bf195d,Galway Bay Hotel Conference and Leisure Centre,Hotel,Upper Salthill,Galway,Galway,H91 W295,53.260959,-9.0747646,osm,2026-03-30T12:58:57.316978
+ee92ca5e-614c-4090-9feb-07a6c41b161e,Maritime Hotel,Hotel,The Quay,Bantry,Cork,P75 XW35,51.6801681,-9.4584319,osm,2026-03-30T12:58:58.427831
+c595c017-0d2f-44a9-9b17-514d23866af9,The Ice House Hotel,Hotel,The Quay,Ballina,Mayo,F26 Y9E8,54.1286603,-9.1382542,osm,2026-03-30T12:58:59.632057
+e71dc4f7-caf9-4e60-906e-0d0fcd0eb557,Glengarriff Park Hotel & Spa,Hotel,The Village,Glengarriff,Cork,P75 YC84,51.7501967,-9.5499762,osm,2026-03-30T12:59:00.907271
+9268681c-7ce3-42bd-98b9-12fc6c78f27c,Bush Hotel,Hotel,Main Street,Carrick-On-Shannon,Leitrim,N41 H5P1,53.946087,-8.0943742,osm,2026-03-30T12:59:02.768805
+66469d0f-0e4a-464e-b8a9-8cc6c6de86bf,Earl of Desmond Hotel,Hotel,Ballyseedy,Tralee,Kerry,V92 FC79,52.2535502,-9.6588426,osm,2026-03-30T12:59:04.421288
+9e65d96a-c4e4-4b42-9488-a018c29beccf,Harrington Hall,Guest House,69/70 Harcourt Street,Dublin 2,Dublin,D02 HP46,53.3339897,-6.2629863,osm,2026-03-30T12:59:05.608867
+a68d8cfa-efda-413b-9e0c-795a5ce589ca,Ballynahinch Castle Hotel,Hotel,Ballynahinch,Recess,Galway,H91 F4A7,53.4602242,-9.8625291,osm,2026-03-30T12:59:06.704016
+2315697c-89e3-4a9d-9246-f306aa11c477,Seaview House Hotel,Hotel,Ballylickey,Ballylickey,Cork,P75 N283,51.721065,-9.4485066,osm,2026-03-30T12:59:07.867289

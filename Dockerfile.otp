@@ -1,0 +1,11 @@
+FROM eclipse-temurin:21-jre
+
+WORKDIR /srv/otp
+
+COPY otp/otp-shaded-2.8.1.jar /srv/otp/otp-shaded-2.8.1.jar
+COPY otp/graphs/default/graph.obj /srv/otp/graphs/default/graph.obj
+COPY otp/graphs/default/otp-config.json /srv/otp/graphs/default/otp-config.json
+
+EXPOSE 8080
+
+CMD ["java", "-jar", "/srv/otp/otp-shaded-2.8.1.jar", "--load", "--serve", "/srv/otp/graphs/default"]

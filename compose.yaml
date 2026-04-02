@@ -1,0 +1,88 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: streamlit run dashboard/chat.py --server.port=8501 --server.address=0.0.0.0
+    env_file:
+      - .env
+    environment:
+      USE_MCP: "true"
+      MCP_URL: http://mcp:8765
+      OTP_BASE_URL: http://otp:8080
+      GRAPHHOPPER_URL: http://graphhopper:8989
+      OLLAMA_BASE_URL: http://ollama:11434
+    ports:
+      - "8501:8501"
+    depends_on:
+      - ollama
+      - mcp
+      - otp
+      - graphhopper
+    restart: unless-stopped
+
+  mcp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: python src/mcp_server.py
+    env_file:
+      - .env
+    environment:
+      MCP_PORT: "8765"
+      OTP_BASE_URL: http://otp:8080
+      GRAPHHOPPER_URL: http://graphhopper:8989
+      OLLAMA_BASE_URL: http://ollama:11434
+    ports:
+      - "8765:8765"
+    restart: unless-stopped
+
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama-data:/root/.ollama
+    restart: unless-stopped
+
+  ollama-init:
+    image: ollama/ollama:latest
+    depends_on:
+      - ollama
+    environment:
+      OLLAMA_BASE_URL: http://ollama:11434
+      OLLAMA_MODEL: ${OLLAMA_MODEL:-mistral}
+    entrypoint:
+      - /bin/sh
+      - -c
+      - |
+        sleep 8
+        ollama pull "${OLLAMA_MODEL}"
+    restart: "no"
+
+  otp:
+    build:
+      context: .
+      dockerfile: Dockerfile.otp
+    environment:
+      JAVA_TOOL_OPTIONS: -Xmx${OTP_JAVA_XMX:-8G}
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+
+  graphhopper:
+    build:
+      context: .
+      dockerfile: Dockerfile.graphhopper
+    environment:
+      JAVA_TOOL_OPTIONS: -Xmx${GRAPHHOPPER_JAVA_XMX:-6G}
+    volumes:
+      - graphhopper-cache:/srv/graphhopper/graph-cache-ireland
+    ports:
+      - "8989:8989"
+      - "8990:8990"
+    restart: unless-stopped
+
+volumes:
+  graphhopper-cache:
+  ollama-data:

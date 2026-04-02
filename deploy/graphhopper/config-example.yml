@@ -1,0 +1,21 @@
+graphhopper:
+  datareader.file: /srv/data/ireland-and-northern-ireland.osm.pbf
+  graph.location: /srv/graphhopper/graph-cache-ireland
+
+  import.osm.ignored_highways: motorway,trunk
+  graph.encoded_values: foot_access, foot_priority, foot_average_speed, road_access, road_class, hike_rating, mtb_rating
+
+  profiles:
+    - name: foot
+      custom_model_files: [foot-custom.json]
+
+  profiles_ch:
+    - profile: foot
+
+server:
+  application_connectors:
+    - type: http
+      port: 8989
+  admin_connectors:
+    - type: http
+      port: 8990

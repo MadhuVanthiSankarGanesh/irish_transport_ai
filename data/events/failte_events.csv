@@ -1,0 +1,661 @@
+event_name,start_date,end_date,venue,latitude,longitude,region
+Ballydehob Traditional Music Festival 2026,2026-03-27T00:00:00Z,2026-03-29T00:00:00Z,Ballydehob,51.5611066,-9.4595573,Cork
+Cairde Sligo Arts Festival 2026,2026-07-04T00:00:00Z,2026-07-11T00:00:00Z,Sligo,54.2775969,-8.4715258,Sligo
+Cork International Choral Festival 2026,2026-04-29T00:00:00Z,2026-05-03T00:00:00Z,Cork City Hall,51.89726479999999,-8.465495199999998,Cork
+Earagail Arts Festival,2026-07-10T00:00:00Z,2026-07-25T00:00:00Z,Various locations throughout Co Donegal,54.9533201,-7.7287972,Donegal
+Gaelforce Great Fjord Swim,2026-09-12T00:00:00Z,2026-09-12T00:00:00Z,Killary Adventure Company,53.5927404,-9.768690999999999,Galway
+Gaelforce Great River Swim,2026-05-16T00:00:00Z,2026-05-16T00:00:00Z,Lanesborough,53.67245459999999,-7.9863962,Longford
+Galtee Challenge 2026,2026-06-27T00:00:00Z,2026-06-27T00:00:00Z,Anglesborough,52.34030569999999,-8.2895418,Limerick
+Rose of Tralee International Festival 2026,2026-08-14T00:00:00Z,2026-08-18T00:00:00Z,Rose of Tralee International Festival,52.266929,-9.706377,
+St Brendan the Navigator Community Festival 2026,2026-05-14T00:00:00Z,2026-05-17T00:00:00Z,Fenit,52.2784045,-9.861211400000002,Kerry
+The Brandon Bay Run 2026,2026-07-18T00:00:00Z,2026-07-18T00:00:00Z,The Brandon Bay Run,52.2991965,-10.0381391,Kerry
+The Dead by James Joyce,2026-11-20T00:00:00Z,2027-01-31T00:00:00Z,"UCD Newman House, 85 St Stephen's Green",53.3368138,-6.2598119,Dublin
+Westport Folk & Bluegrass Festival 2026,2026-06-04T00:00:00Z,2026-06-07T00:00:00Z,Westport,53.8011456,-9.5222281,Mayo
+DoDublin Hop-on Hop-off & EPIC The Irish Emigration Museum Combo Deal,2025-10-24T00:00:00Z,2026-03-31T00:00:00Z,59 O'Connell Street Upper,53.3505109,-6.2609885,Dublin
+Fastnet Film Festival,2026-05-20T00:00:00Z,2026-05-24T00:00:00Z,Fastnet Film Centre,51.5279653,-9.5452174,Cork
+Waterford St. Patrick's Festival ,2026-03-13T00:00:00Z,2026-03-17T00:00:00Z,Waterford City,52.2572983,-7.1115235,Waterford
+AIB Portrait Prize 2025,2025-11-08T00:00:00Z,2026-03-15T00:00:00Z,National Gallery of Ireland,53.3408887,-6.2522962,Dublin
+Gaelforce Great Lake Swim,2026-07-11T00:00:00Z,2026-07-11T00:00:00Z,Portumna Swimming Area,53.0835342,-8.2110061,Galway
+Consairtín,2026-04-09T00:00:00Z,2026-04-12T00:00:00Z,Inis,52.8470321,-8.9883123,
+Live Aid Exhibition,2025-11-11T00:00:00Z,2026-03-31T00:00:00Z,National Photographic Archive,53.3453111,-6.265425,Dublin
+EcoTrail Wicklow 2026,2026-09-24T00:00:00Z,2026-09-26T00:00:00Z,Bray,53.2010587,-6.1110501,Wicklow
+The Fade Street Market,2025-11-23T00:00:00Z,2026-03-29T00:00:00Z,The Market Bar,53.3421058,-6.264002899999999,Dublin
+Galway International Arts Festival 2026,2026-07-13T00:00:00Z,2026-07-26T00:00:00Z,Galway City,53.27056400000001,-9.0566819,Galway
+"Dún Laoghaire Walking Tours, The Dublin Riviera",2025-12-06T00:00:00Z,2026-10-31T00:00:00Z,"Meeting Place: Harbour Plaza, Dún Laoghaire",53.29491460000001,-6.1337385,Dublin
+Conversations on a Homecoming,2026-03-12T00:00:00Z,2026-03-14T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+The Witch Who Couldn’t Sleep,2026-03-19T00:00:00Z,2026-03-19T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+Before,2026-03-25T00:00:00Z,2026-03-25T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+Conal Gallen – The Last Laugh Tour,2026-03-26T00:00:00Z,2026-03-26T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+The Man In The Woman’s Shoes,2026-04-01T00:00:00Z,2026-04-01T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+Padraig Jack,2026-04-11T00:00:00Z,2026-04-11T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+CISEACH,2026-04-18T00:00:00Z,2026-04-18T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+Red Line Comedy Club,2026-04-25T00:00:00Z,2026-04-25T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+Little Folk – On The Road,2026-05-23T00:00:00Z,2026-05-23T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+The Kings of the Kilburn High Road,2026-06-18T00:00:00Z,2026-06-18T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+National Circus Festival of Ireland,2026-11-05T00:00:00Z,2026-11-08T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Aoife Dunne - Good Grief,2026-05-22T00:00:00Z,2026-05-22T00:00:00Z,The Spirit Store,54.0089765,-6.3900726,Louth
+Aoife Dunne - Good Grief,2026-05-08T00:00:00Z,2026-05-08T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Aoife Dunne : Good Grief,2026-05-01T00:00:00Z,2026-05-01T00:00:00Z,Westport Town Hall Theatre,53.7992862,-9.5241987,Mayo
+Aoife Dunne: Good Grief,2026-04-19T00:00:00Z,2026-04-19T00:00:00Z,Olympia Theatre,53.344278,-6.266111,Dublin
+Aoife Dunne: Good Grief,2026-04-18T00:00:00Z,2026-04-18T00:00:00Z,"The Everyman, Cork",51.90139749999999,-8.4683464,Cork
+Aoife Dunne: Good Grief,2026-03-21T00:00:00Z,2026-03-21T00:00:00Z,Town Hall Theatre,53.2761611,-9.0540556,Galway
+Aoife Dunne - Good Grief,2026-03-20T00:00:00Z,2026-03-20T00:00:00Z,Set Theatre,52.65304210000001,-7.2484311,Kilkenny
+Leopardstown Christmas Festival - Savills Chase Day,2025-12-28T00:00:00Z,2025-12-28T00:00:00Z,Leopardstown Racecourse,53.26553639999999,-6.1954455,Dublin
+Trygve Seim & Tord Gustavsen: Inner Chorals,2026-10-25T00:00:00Z,2026-10-25T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Music Network present the Shuteen Erdenebaatar Quartet,2026-06-20T00:00:00Z,2026-06-20T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Nils Petter Molvær Group,2026-04-03T00:00:00Z,2026-04-03T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Marc Copland Quartet feat Robin Verheyen,2026-03-20T00:00:00Z,2026-03-20T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Solas Quartet: Spring String Quartet Series 2026,2026-04-11T00:00:00Z,2026-04-11T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Rockathon,2026-05-29T00:00:00Z,2026-05-31T00:00:00Z,Rocakthon at Fairyhouse Racecourse,53.4842453,-6.467504,Meath
+James Joyce Walking Tour,2026-01-08T00:00:00Z,2026-12-12T00:00:00Z,James Joyce Centre,53.3541941,-6.259980499999999,Dublin
+Cavan Arts Festival,2026-05-14T00:00:00Z,2026-05-17T00:00:00Z,Cavan Town Hall,53.991125,-7.3621779,Cavan
+Killeshandra Camino Calling,2026-06-20T00:00:00Z,2026-06-20T00:00:00Z,Killeshandra Community Hall,54.0135181,-7.529661299999999,Cavan
+Irish Chili Festival,2026-06-27T00:00:00Z,2026-06-28T00:00:00Z,Marina Market,51.89894839999999,-8.451922099999999,Cork
+Brendan Kelly Band,2026-03-21T00:00:00Z,2026-03-21T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+Philomena Begley & Ray Lynam,2026-04-10T00:00:00Z,2026-04-10T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+The Piano Man,2026-04-23T00:00:00Z,2026-04-23T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+Legends Of The 60's Show,2026-05-07T00:00:00Z,2026-05-07T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+Legends of American Country Show,2026-05-22T00:00:00Z,2026-05-22T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+The Ultimate Bubble Show,2026-06-13T00:00:00Z,2026-06-13T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+The Love Hungry Farmer,2026-09-12T00:00:00Z,2026-09-12T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+Don Baker – My Story Tour 2026,2026-09-18T00:00:00Z,2026-09-18T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+Artist-Initiated Projects 2026,2026-01-21T00:00:00Z,2026-12-12T00:00:00Z,Pallas Projects/Studios,53.3389205,-6.2745307,Dublin
+Elinor O’Donovan: Winter Sun,2025-12-21T00:00:00Z,2026-04-30T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Fishamble presents SILENT by Pat Kinevane,2026-03-12T00:00:00Z,2026-03-12T00:00:00Z,The Civic Theatre,53.2883772,-6.372191,Dublin
+The King of All Birds,2026-02-25T00:00:00Z,2026-02-26T00:00:00Z,The Civic Theatre,53.2883772,-6.372191,Dublin
+Simon Yates – Pleasure & Pain,2026-04-20T00:00:00Z,2026-04-20T00:00:00Z,The Civic Theatre,53.2883772,-6.372191,Dublin
+Cork Comic Con 2026,2026-10-03T00:00:00Z,2026-10-04T00:00:00Z,Marina Market,51.89894839999999,-8.451922099999999,Cork
+Bealtaine Fire Festival 2026,2026-05-09T00:00:00Z,2026-05-10T00:00:00Z,The Hill of Uisneach,53.4871893,-7.564556000000001,Westmeath
+Cape Clear Island Races,2026-08-29T00:00:00Z,2026-08-29T00:00:00Z,Cape Clear Island,51.4387985,-9.4922606,Cork
+Daily Lough Ree & River Shannon Cruise,2026-03-28T00:00:00Z,2026-10-31T00:00:00Z,Viking Tours Ireland,53.4233926,-7.9423094,Westmeath
+Nourish & Flow Festival,2026-08-14T00:00:00Z,2026-08-16T00:00:00Z,Ballykilcavan Brewery,53.0165403,-7.117371299999999,Laois
+The Drifter Tribute Show,2026-04-10T00:00:00Z,2026-04-10T00:00:00Z,Courtmacsherry Hotel,51.63319070000001,-8.6994987,Cork
+The House Must Win,2026-05-06T00:00:00Z,2026-05-16T00:00:00Z,The Everyman,51.90139749999999,-8.4683464,Cork
+The Skellig Coast Dark Skies Cruise by Starlight Sea Cruise,2026-03-20T00:00:00Z,2026-03-21T00:00:00Z,"Knightstown, Valentia Island",51.9256611,-10.2909282,Kerry
+Tuesdays with Morrie,2026-03-26T00:00:00Z,2026-03-28T00:00:00Z,The Everyman,51.90139749999999,-8.4683464,Cork
+Tullamore TradFest,2026-03-27T00:00:00Z,2026-03-29T00:00:00Z,Tullamore,53.2752768,-7.4924439,Offaly
+Van Gogh - An Immersive Journey,2026-01-16T00:00:00Z,2026-03-20T00:00:00Z,Dream Point Experience,53.3492451,-6.2275447,Dublin
+Wander Wild Festival 2026,2026-04-17T00:00:00Z,2026-04-19T00:00:00Z,Killarney National Park,52.02099,-9.506639999999999,Kerry
+Zog,2026-03-11T00:00:00Z,2026-03-14T00:00:00Z,The Everyman,51.9012982,-8.4684555,Cork
+Waterford Festival of Food 2026,2026-04-24T00:00:00Z,2026-04-26T00:00:00Z,Dungarvan,52.0932368,-7.6304404,Waterford
+Art for the Heart Doneraile Arts Festival 2026,2026-06-25T00:00:00Z,2026-06-28T00:00:00Z,Doneraile Court,52.2162916,-8.583008,Cork
+Spraoi International Street Arts Festival 2026,2026-07-31T00:00:00Z,2026-08-02T00:00:00Z,Waterford,52.2572983,-7.1115235,Waterford
+Viking History & Celtic Mythology Walking Tour of Athlone,2026-03-28T00:00:00Z,2026-10-31T00:00:00Z,Viking Tours Ireland,53.4233926,-7.9423094,Westmeath
+Mothers of Newbridge,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,Newbridge House & Farm,53.4866405,-6.1680106,Dublin
+"Little Baker, Big Baker",2026-03-30T00:00:00Z,2026-03-30T00:00:00Z,Newbridge House & Farm,53.4866405,-6.1680106,Dublin
+The 30+ Club,2026-04-18T00:00:00Z,2026-04-18T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+The Piano Man,2026-04-19T00:00:00Z,2026-04-19T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Jason Byrne - Head in The Clouds,2026-04-24T00:00:00Z,2026-04-24T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Damien Dempsey,2026-04-25T00:00:00Z,2026-04-25T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Effie Neill Dance,2026-04-05T00:00:00Z,2026-04-05T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Gavin Gribben Dance,2026-04-26T00:00:00Z,2026-04-26T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+John McNicholl Dance,2026-04-27T00:00:00Z,2026-04-27T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Shawn Cuddy Dance,2026-04-28T00:00:00Z,2026-04-28T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+David James Dance,2026-04-29T00:00:00Z,2026-04-29T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Robert Mizzell Dance,2026-04-30T00:00:00Z,2026-04-30T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+An Intimate Evening with Paul Young,2026-05-01T00:00:00Z,2026-05-01T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Because I’m Worth It,2026-09-11T00:00:00Z,2026-09-11T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+Annie the Musical,2026-05-11T00:00:00Z,2026-05-17T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+The Hunt Dinner Party,2026-05-02T00:00:00Z,2026-09-26T00:00:00Z,Malahide Castle & Gardens,53.44457670000001,-6.1655167,Dublin
+The Things That Matter Most Are The Things That Can't Be Seen,2026-02-24T00:00:00Z,2026-04-04T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+The Bee Gees Story: Nights on Broadway,2026-09-12T00:00:00Z,2026-09-12T00:00:00Z,VISUAL Carlow,52.838161,-6.9278619,Carlow
+Croílár Festival,2026-04-17T00:00:00Z,2026-04-19T00:00:00Z,Athlone,53.4239226,-7.940277499999999,Westmeath
+Celbridge St. Patrick's Day Festival 2026,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,Celbridge,53.3387702,-6.5394381,Kildare
+Trace Your Irish Roots,2026-02-23T00:00:00Z,2026-03-13T00:00:00Z,Irish Family History Centre,53.3486898,-6.2482004,Dublin
+The Collector,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Dancing at Lughnasa,2026-03-19T00:00:00Z,2026-03-21T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Amid The Clouds,2026-03-25T00:00:00Z,2026-03-25T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Dundalk Musical Society Gala,2026-03-27T00:00:00Z,2026-03-28T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+The Witch Who Couldn't Sleep,2026-03-31T00:00:00Z,2026-03-31T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Saipan,2026-03-31T00:00:00Z,2026-03-31T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+"Mack Fleetwood, Europe’s Ultimate Tribute to Fleetwood Mac",2026-04-11T00:00:00Z,2026-04-11T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+A Night At The Opry,2026-04-12T00:00:00Z,2026-04-12T00:00:00Z,VISUAL Carlow,52.838161,-6.9278619,Carlow
+"A Night At The Opry with Claudia Buckley, Johnny Brady & John Hogan",2026-03-12T00:00:00Z,2026-03-12T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+A Wicked Easter,2026-04-03T00:00:00Z,2026-04-04T00:00:00Z,Malahide Castle & Gardens,53.44457670000001,-6.1655167,Dublin
+ABAIR: Breanndán Ó Beaglaoich / Seamas Hyland,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+ABAIR: Franke Archer / Ruth Clinton / Amy Bluemel,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,"Smock Alley Theatre, 1662",53.3450078,-6.269166299999999,Dublin
+ABAIR: Little John Nee / Hugh Cooney,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,"Peacock Stage, Abbey Theatre",53.3507553,-6.2565686,Dublin
+ABAIR: Storytelling at The Peacock Bar,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,Abbey Theatre,53.3483986,-6.257178199999999,Dublin
+ABAIR: The Wilsons & The McKeaney Sisters,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,"Smock Alley Theatre, 1662",53.3450078,-6.269166299999999,Dublin
+Acis and Galatea,2026-05-26T00:00:00Z,2026-05-28T00:00:00Z,"St Carthage's Cathedral, Church of Ireland",52.1398345,-7.9293394,Waterford
+"Aisling Bea ""Older Than Jesus""",2026-03-19T00:00:00Z,2026-03-19T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Al Porter Algorithm,2026-03-27T00:00:00Z,2026-03-27T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Albums Worth Talking About - Episode 2,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,Rascals Brewing Company,53.3360639,-6.3240107,Dublin
+Alma Boliviana Ballet,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,St Stephen's Green,53.3381736,-6.259119,Dublin
+Alternative Side to Dublin | FREE Walking Tour,2026-02-28T00:00:00Z,2026-03-28T00:00:00Z,The Ambassador Theatre,53.352914,-6.262148,Dublin
+An Audience with Liverpool Legends,2026-03-26T00:00:00Z,2026-03-26T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+"Aran Knitting Workshop, Knit an Aran Scarf with Irish Wool",2026-03-14T00:00:00Z,2026-03-15T00:00:00Z,The Pearse Centre,53.3450737,-6.2534374,Dublin
+AS IF | Group Exhibition at the International Centre for the Image,2026-02-06T00:00:00Z,2026-04-05T00:00:00Z,International Centre for the Image,53.3489638,-6.233671699999999,Dublin
+Athlone River Festival 2026: Viking Themed,2026-07-31T00:00:00Z,2026-08-02T00:00:00Z,Athlone,53.4239226,-7.940277499999999,Westmeath
+Award Winning Danny Ryan plus Guests,2026-03-21T00:00:00Z,2026-03-21T00:00:00Z,City Limits - The Cork Comedy Club,51.9018264,-8.470619899999999,Cork
+Aware's Harbour2Harbour Walk 2026,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,Dún Laoghaire Harbour,53.2956349,-6.133322199999999,Dublin
+Ballymaloe Festival of Food,2026-05-15T00:00:00Z,2026-05-17T00:00:00Z,Ballymaloe Grainstore,51.865171,-8.073812,Cork
+Beyond the Border,2026-04-06T00:00:00Z,2026-04-08T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Bill Laurance: Presented by Music Network,2026-10-24T00:00:00Z,2026-10-24T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Blackwater Valley Opera Festival Chorus Recital,2026-05-28T00:00:00Z,2026-05-28T00:00:00Z,Villierstown Church,52.0891971,-7.8513248,Waterford
+Boots & Brews,2026-04-02T00:00:00Z,2026-04-02T00:00:00Z,Malahide Castle & Gardens,53.44457670000001,-6.1655167,Dublin
+BVOF 2026 - Free Open Air Recital Castlemartyr,2026-05-31T00:00:00Z,2026-05-31T00:00:00Z,Castlemartyr Resort,51.911187,-8.063296,Cork
+BVOF 2026 - Free Open Air Recital Dungarvan,2026-05-29T00:00:00Z,2026-05-29T00:00:00Z,"Walton Park, Dungarvan",52.092034,-7.618411500000001,Waterford
+BVOF 2026 - Free Open Air Recital Youghal,2026-05-30T00:00:00Z,2026-05-30T00:00:00Z,"Green Park, Youghal",51.9471285,-7.842490199999999,Cork
+BVOF Opening Ceremony 2026 - Free Open Air Recital Lismore,2026-05-26T00:00:00Z,2026-05-26T00:00:00Z,Lismore Millenium Park,52.13733389999999,-7.9335431,Waterford
+Caife agus Comhluadar – Bígí linn ag caint ‘is ag comhrá Gaeilge,2026-01-30T00:00:00Z,2026-05-22T00:00:00Z,Siamsa Tíre ,52.26644160000001,-9.703574099999999,Kerry
+Captain Splash,2026-04-04T00:00:00Z,2026-04-04T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+"Cash Returns, The Man In Black",2026-03-21T00:00:00Z,2026-03-21T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Cavan Drama Festival 2026,2026-03-07T00:00:00Z,2026-03-14T00:00:00Z,"Townhall Arts Centre, Cavan",53.9909933,-7.3621073,Cavan
+Ceoltóirí Chualann agus Cór Cúil Aodha : Múscailt,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Chris Finnegan: Residency & Exhibition,2026-05-07T00:00:00Z,2026-06-28T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Chris Ramsey: Here Man,2026-03-11T00:00:00Z,2026-03-11T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Christy Moore,2026-04-11T00:00:00Z,2026-04-11T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Clifden Piano Festival,2026-03-15T00:00:00Z,2026-03-16T00:00:00Z,Clifden,53.4891345,-10.0202388,Galway
+Cliona Hagan In Concert,2026-03-20T00:00:00Z,2026-03-20T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Courtmacsherry Harbour Festival,2026-07-25T00:00:00Z,2026-08-03T00:00:00Z,Courtmacsherry,51.63385539999999,-8.7059339,Cork
+Cruise to Clonmacnoise,2026-04-24T00:00:00Z,2026-04-24T00:00:00Z,Viking Tours Ireland,53.4233926,-7.9423094,Westmeath
+Cuilcagh Camino 2026,2026-08-08T00:00:00Z,2026-08-08T00:00:00Z,Swanlinbar,54.1942277,-7.7041564,Cavan
+"Cures and Curses, An evening of traditional storytelling",2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,The Pearse Centre,53.3450737,-6.2534374,Dublin
+Cushendall: Irish Song Cycles – Charles Villiers Stanford,2026-05-28T00:00:00Z,2026-05-28T00:00:00Z,Villierstown Church,52.0891971,-7.8513248,Waterford
+Dan McCabe with Special Guest Gearoid McCarthy,2026-03-20T00:00:00Z,2026-03-20T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Dancing Pianos! Dearbhla Collins & Finghin Collins Concert,2026-05-31T00:00:00Z,2026-05-31T00:00:00Z,Dromore Yard,52.0655322,-7.869051599999999,Waterford
+David McSavage 'The Occasional Ride',2026-03-21T00:00:00Z,2026-03-21T00:00:00Z,VISUAL Carlow,52.838161,-6.9278619,Carlow
+Declan Nerney with special guests Mick Flavin & Louise Morrissey,2026-04-11T00:00:00Z,2026-04-11T00:00:00Z,VISUAL Carlow,52.838161,-6.9278619,Carlow
+Dee Armstrong (Kila) Solo Album: Deichtines Daughter,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,The Pearse Centre,53.3450737,-6.2534374,Dublin
+Delphi Half Marathon & 10km,2026-05-16T00:00:00Z,2026-05-16T00:00:00Z,The Glen Keen Estate & Glen Keen Farm,53.68832769999999,-9.7865142,Mayo
+Dingle Food Festival 2026,2026-10-02T00:00:00Z,2026-10-04T00:00:00Z,Dingle,52.1408534,-10.2671142,Kerry
+Do I Love You?,2026-03-18T00:00:00Z,2026-03-21T00:00:00Z,"Smock Alley Theatre, 1662",53.3450078,-6.269166299999999,Dublin
+Don Giovanni,2026-05-27T00:00:00Z,2026-06-01T00:00:00Z,Lismore Castle,52.1405094,-7.932057200000001,Waterford
+Doris Day: A Date with the Girl Next Door,2026-04-03T00:00:00Z,2026-04-03T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Drawing From the Well – The Breandán Breathnach Collection,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Dublin Book Festival 2026,2026-11-04T00:00:00Z,2026-11-08T00:00:00Z,Royal Irish Academy of Music,53.34235220000001,-6.2500908,Dublin
+Dublin City Council St. Patrick’s Festival Family Village,2026-03-14T00:00:00Z,2026-03-16T00:00:00Z,Wood Quay Amphitheatre,53.3444102,-6.2709812,Dublin
+Dublin City Council St Patrick's Festival Treasure Hunt,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,Dublin City Council,53.3449733,-6.2707241,Dublin
+Dublin Comic Con Summer Edition 2026,2026-08-08T00:00:00Z,2026-08-09T00:00:00Z,The Convention Centre Dublin,53.3478621,-6.2395809,Dublin
+Dundalk Comic Con 2026,2026-07-05T00:00:00Z,2026-07-05T00:00:00Z,"Fairways Hotel, Dundalk",53.9675971,-6.3873934,Louth
+Dundalk Photographic Society Exhibition 2026,2026-04-11T00:00:00Z,2026-04-25T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Easter 2026 at Clonfert Farm,2026-03-28T00:00:00Z,2026-04-05T00:00:00Z,Clonfert Farm,53.3618657,-6.6745734,Kildare
+Easter Family Adventure at Kildare Farm Foods,2026-03-30T00:00:00Z,2026-04-04T00:00:00Z,Kildare Farm Foods,53.1262731,-6.9570373,Kildare
+"Ecce Homo by Titian, National Gallery Dublin",2026-03-31T00:00:00Z,2026-03-31T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Éire to Everywhere: Stories Without Borders with Nuala O'Connor,2026-06-16T00:00:00Z,2026-06-16T00:00:00Z,EPIC The Irish Emigration Museum,53.3483124,-6.2481792,Dublin
+Éire to Everywhere: Stories Without Borders with Oisín Fagan,2026-03-24T00:00:00Z,2026-03-24T00:00:00Z,EPIC The Irish Emigration Museum,53.3483124,-6.2481792,Dublin
+Embroidery Workshop: Make an Irish Celtic Knot,2026-03-11T00:00:00Z,2026-03-11T00:00:00Z,"National Museum of Ireland, Kildare Street",53.3402225,-6.2549209,Dublin
+Evening: Born to Dance by Kerry School of Music Dance Academy,2026-03-21T00:00:00Z,2026-03-21T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Fair Deal,2026-03-03T00:00:00Z,2026-03-28T00:00:00Z,Abbey Theatre,53.3483986,-6.257178199999999,Dublin
+Faulty Towers The Dining Experience,2026-04-11T00:00:00Z,2026-04-11T00:00:00Z,The Dropping Well,53.30780290000001,-6.2545606,Dublin
+Fiona Marron—The centrality of bodies,2026-03-12T00:00:00Z,2026-03-28T00:00:00Z,Pallas Projects/Studios,53.3389205,-6.2745307,Dublin
+Flowers and Friendship Bracelets,2026-04-11T00:00:00Z,2026-04-11T00:00:00Z,The Everyman,51.9011156,-8.4683303,Cork
+Francis Rossi,2026-04-13T00:00:00Z,2026-04-13T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Frontlines: Irish Journalists Abroad,2026-01-30T00:00:00Z,2026-03-31T00:00:00Z,EPIC The Irish Emigration Museum,53.3483124,-6.2481792,Dublin
+Galway Comic Con 2026,2026-06-14T00:00:00Z,2026-06-14T00:00:00Z,Dexcom Stadium,53.2789873,-9.039005999999999,Galway
+Gerard Byrne: An Artist's Eye | Exhibition,2026-02-14T00:00:00Z,2026-03-22T00:00:00Z,Gerard Byrne Gallery,53.3437192,-6.262137999999999,Dublin
+Get Shamrocked!,2026-03-14T00:00:00Z,2026-03-16T00:00:00Z,Dublin City,53.3498053,-6.2603097,Dublin
+Goethe Choir presents Stabat Mater by Karl Jenkins,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,Christ Church Cathedral,53.34351299999999,-6.2710602,Dublin
+Grace,2026-05-01T00:00:00Z,2026-05-01T00:00:00Z,Backstage Theatre,53.7154691,-7.7996269,Longford
+Grace by Jody O'Neill,2026-05-20T00:00:00Z,2026-05-21T00:00:00Z,VISUAL Carlow,52.838161,-6.9278619,Carlow
+Hothouse Flowers,2026-04-18T00:00:00Z,2026-04-18T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+I'm Grand Mam - Happy Campers,2026-03-21T00:00:00Z,2026-03-21T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+In the Footsteps of St Patrick,2026-03-14T00:00:00Z,2026-03-16T00:00:00Z,"Irlanda Oculta, The Tree of Gold",53.3443804,-6.2632213,Dublin
+Ireland Card Show 2026,2026-04-11T00:00:00Z,2026-04-11T00:00:00Z,InterContinental Dublin by IHG,53.326698,-6.226029899999999,Dublin
+Irish Baking Experience,2026-03-15T00:00:00Z,2026-03-21T00:00:00Z,Drumdeel,52.4457718,-7.677380499999999,Tipperary
+Irish Heritage Recital - BVOF 2026,2026-05-29T00:00:00Z,2026-05-29T00:00:00Z,Salterbridge House,52.14926089999999,-7.880488999999999,Waterford
+Irish Salon Opera Series: The Deserted Village by John William Glover,2026-05-30T00:00:00Z,2026-05-30T00:00:00Z,"St Carthage's Cathedral, Church of Ireland",52.1398345,-7.9293394,Waterford
+Irish Writers’ Series: Samuel Beckett,2026-05-30T00:00:00Z,2026-05-30T00:00:00Z,"St Carthage's Cathedral, Church of Ireland",52.1398345,-7.9293394,Waterford
+Jack Patrick Healy - Orange is in the new Jack,2026-04-05T00:00:00Z,2026-04-05T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+James McMurtry,2026-10-04T00:00:00Z,2026-10-04T00:00:00Z,Whelan's,53.33658,-6.265715,Dublin
+Japanese Film Festival,2026-04-11T00:00:00Z,2026-04-11T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Jarlath Regan Gas Man,2026-03-20T00:00:00Z,2026-03-20T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Jason Byrne Head In The Clouds,2026-04-12T00:00:00Z,2026-04-12T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Joe Stilgoe and the RTÉ CO Present: A Night at the Movies,2026-03-12T00:00:00Z,2026-03-12T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Joe the Magician - Live,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Joe the Magician - Live,2026-03-14T00:00:00Z,2026-03-15T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+K-Pop Camp,2026-04-01T00:00:00Z,2026-04-02T00:00:00Z,Malahide Castle & Gardens,53.44457670000001,-6.1655167,Dublin
+Kim Crowley: Residency & Exhibition,2026-03-05T00:00:00Z,2026-05-03T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Kinsale St. Patrick's Day Parade 2026,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,Kinsale,51.7058853,-8.5222327,Cork
+Kinsale St. Patrick's Maritime Parade 2026,2026-03-16T00:00:00Z,2026-03-16T00:00:00Z,Kinsale,51.7060502,-8.5225014,Cork
+Knockbride Festival Family Fun Day,2026-08-16T00:00:00Z,2026-08-16T00:00:00Z,Scoil Maodhóg East Knockbride National School,53.9875971,-6.994836299999999,Cavan
+Kyla Cobbler - Not My Lemons,2026-04-05T00:00:00Z,2026-04-05T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Kyla Cobbler: Not My Lemons,2026-04-02T00:00:00Z,2026-04-02T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Lahinch Trad Festival 2026,2026-04-17T00:00:00Z,2026-04-19T00:00:00Z,Lahinch,52.9334632,-9.3440769,Clare
+Let's Dance,2026-04-10T00:00:00Z,2026-04-10T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Lewis Barfoot at The Cat & Cage Club,2026-03-25T00:00:00Z,2026-03-25T00:00:00Z,Cat and Cage,53.3711919,-6.2532521,Dublin
+Listowel Writers' Week 2026,2026-05-27T00:00:00Z,2026-05-31T00:00:00Z,Listowel,52.4447194,-9.487087899999999,Kerry
+Live in the Marquee at Carndonagh,2026-07-10T00:00:00Z,2026-07-12T00:00:00Z,Carndonagh,55.2510972,-7.261797,Donegal
+LoGaCulture Concert: “Music from the Boyne Valley” and DreaMR,2026-03-12T00:00:00Z,2026-03-12T00:00:00Z,"Whyte Recital Hall, Royal Irish Academy of Music",53.3423388,-6.2501342,Dublin
+Lón le Gaeilge – Lunch with Irish,2026-02-05T00:00:00Z,2026-06-04T00:00:00Z,Siamsa Tíre,52.26568169999999,-9.706378899999999,Kerry
+Macbeth - Volta Theatre Company,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Magdalene Ho & Friends: French Elegance & Eastern Fire,2026-05-31T00:00:00Z,2026-05-31T00:00:00Z,Dromore Yard,52.0655322,-7.869051599999999,Waterford
+Mammy Mia! Here We Go Again,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,The Sugar Club,53.3355007,-6.2566432,Dublin
+Margins: Fine art Photography by Michael Corrigan,2026-03-05T00:00:00Z,2026-04-04T00:00:00Z,SO Fine Art Editions,53.342295,-6.262154799999999,Dublin
+Matinee: Born to Dance by Kerry School of Music Dance Academy,2026-03-21T00:00:00Z,2026-03-21T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Metronome: Paul G. Smyth; Joanna Mattrey,2026-03-12T00:00:00Z,2026-03-12T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Mícheál Ó Cléirigh Summer School 2026,2026-05-08T00:00:00Z,2026-05-10T00:00:00Z,The Franciscan Friary - Rossnowlagh,54.546667,-8.205543,Donegal
+Mike Denver & Guests In Concert,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Mike Rice: Cruel Little Man,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Mozartly Mozart! BVOF 2026 Recital Waterford,2026-06-01T00:00:00Z,2026-06-01T00:00:00Z,Woodhouse Estate,52.12525249999999,-7.4800112,Waterford
+Music Network presents Théo Ould & Alison Langer,2026-04-02T00:00:00Z,2026-04-02T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+3 Hail Marys,2026-05-08T00:00:00Z,2026-05-09T00:00:00Z,VISUAL Carlow,52.838161,-6.9278619,Carlow
+Nathan Carter,2026-04-17T00:00:00Z,2026-04-17T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+"National Symphony Orchestra Ireland, Conductor David Brophy & Uilleann Piper Mark Redmond",2026-03-26T00:00:00Z,2026-03-26T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Navan Comic Con 2026,2026-11-01T00:00:00Z,2026-11-01T00:00:00Z,"Newgrange Hotel, Navan",53.65188819999999,-6.682937099999999,Meath
+Needle Felting Workshop,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,The Pearse Centre,53.3450737,-6.2534374,Dublin
+New Ross Piano Festival 20th Year Celebration,2026-04-19T00:00:00Z,2026-04-19T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+NSOI: Alexander Shelley conducts,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Of Mornington by Billy Roche,2026-04-02T00:00:00Z,2026-04-04T00:00:00Z,Wexford Arts Centre,52.3397212,-6.464063599999999,Wexford
+Of Mornington by Billy Roche,2026-04-14T00:00:00Z,2026-04-18T00:00:00Z,"Smock Alley Theatre, 1662",53.3450078,-6.269166299999999,Dublin
+Of Mornington by Billy Roche - Matinee,2026-04-04T00:00:00Z,2026-04-04T00:00:00Z,Wexford Arts Centre,52.3397212,-6.464063599999999,Wexford
+Orchestral Escapades with NSOI,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Paddy's Eve at Pygmalion with Jayda G & Henrik Schwarz,2026-03-16T00:00:00Z,2026-03-16T00:00:00Z,Pygmalion,53.3421287,-6.2621742,Dublin
+Paper Puppet Making for 5-10yrs -  Ceardlann puipeád,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Pas de Panique,2026-03-22T00:00:00Z,2026-03-22T00:00:00Z,VISUAL Carlow,52.838161,-6.9278619,Carlow
+Patrick McDonnell (Fr Ted) plus Guests,2026-03-28T00:00:00Z,2026-03-28T00:00:00Z,City Limits - The Cork Comedy Club,51.9018264,-8.470619899999999,Cork
+Psychic Sally,2026-03-11T00:00:00Z,2026-03-11T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+QHI Music Quiz,2026-02-19T00:00:00Z,2026-04-16T00:00:00Z,Cleary's Pub,53.35218279999999,-6.2497095,Dublin
+Quizhost Ireland Big Screen Movie Quiz,2026-02-26T00:00:00Z,2026-07-23T00:00:00Z,Cleary's Pub,53.35218279999999,-6.2497095,Dublin
+Qween & The Dublin Gospel Choir,2026-04-10T00:00:00Z,2026-04-10T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Randy Feltface: Gimmick,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+RDS Collins Memorial Recital,2026-05-31T00:00:00Z,2026-05-31T00:00:00Z,"St Carthage's Cathedral, Church of Ireland",52.1398345,-7.9293394,Waterford
+Regina Hanley & The Wolseley Singers with special guest Michael English,2026-04-02T00:00:00Z,2026-04-02T00:00:00Z,VISUAL Carlow,52.838161,-6.9278619,Carlow
+Roscrea Goes Green - St Patrick’s Day Parade 2026,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,"Main Street, Roscrea",52.9554226,-7.7992473,Tipperary
+"Self Portrait by Gwen John, National Portrait Gallery London",2026-04-07T00:00:00Z,2026-04-07T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Serena Terry: Therapy,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Simon Yates Pleasure & Pain Presented by Speakers from the Edge,2026-04-13T00:00:00Z,2026-04-13T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Simple Things,2026-05-02T00:00:00Z,2026-05-02T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Sligo St. Patrick's Festival,2026-03-13T00:00:00Z,2026-03-17T00:00:00Z,"Queen Maeves Square, Sligo",54.2718062,-8.4731925,Sligo
+Sneem St Patrick’s Day Parade,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,Sneem,51.8373942,-9.8983245,Kerry
+Spéirbhean | Sky Woman,2026-03-14T00:00:00Z,2026-03-15T00:00:00Z,Wolfe Tone Park,53.3481028,-6.2667014,Dublin
+Spraoí at the Helix - A St. Patrick’s Show,2026-03-16T00:00:00Z,2026-03-16T00:00:00Z,The Helix,53.3864373,-6.259149400000001,Dublin
+St. Patrick's Festival Dublin 2026,2026-03-14T00:00:00Z,2026-03-17T00:00:00Z,Dublin,53.3498053,-6.2603097,Dublin
+Kilkenny St. Patrick's Festival 2026,2026-03-14T00:00:00Z,2026-03-17T00:00:00Z,Kilkenny,52.6549027,-7.246402900000001,Kilkenny
+St.Patrick's Dancing Weekend: Jack Keogh Dance,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+St.Patrick's Dancing Weekend: Jimmy Buckley Dance,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+St.Patrick's Dancing Weekend: Stuart Moyles Dance,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+St Patrick's Festival Parade Dublin,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,Dublin City,53.3498053,-6.2603097,Dublin
+St Patrick's Weekend Special with St Patser Murray & Guests,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,City Limits - The Cork Comedy Club,51.9018264,-8.470619899999999,Cork
+St Patrick's Weekend Special with The Best of Cork,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,City Limits - The Cork Comedy Club,51.9018264,-8.470619899999999,Cork
+Stories & Crafts for 4-10yrs  - Scealaíocht & Cearadíocht,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Suktinis,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,St Stephen's Green Bandstand,53.3368301,-6.2595386,Dublin
+"Symphony in White, No. 2: The Little White Girl by James McNeill Whistler, Tate Britain London",2026-04-14T00:00:00Z,2026-04-14T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Tara Erraught: Arias and Lieder Recital,2026-05-28T00:00:00Z,2026-05-28T00:00:00Z,Ballynatray Demesne,52.0043819,-7.8870189,Waterford
+The Bee Gees Story - Nights On Broadway,2026-04-10T00:00:00Z,2026-04-10T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+The Best of Cork Winter Series,2026-01-30T00:00:00Z,2026-03-27T00:00:00Z,City Limits - The Cork Comedy Club,51.9018264,-8.470619899999999,Cork
+The Billy Joel Songbook,2026-03-28T00:00:00Z,2026-03-28T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+The Bloody Stream Shenanigans!,2026-03-13T00:00:00Z,2026-03-17T00:00:00Z,The Bloody Stream,53.3889995,-6.0742026,Dublin
+The Carpenters Experience,2026-03-29T00:00:00Z,2026-03-29T00:00:00Z,VISUAL Carlow,52.838161,-6.9278619,Carlow
+The Cúpla Focal Tour,2026-03-14T00:00:00Z,2026-03-17T00:00:00Z,EPIC The Irish Emigration Museum,53.3483124,-6.2481792,Dublin
+The Dawson Chorus Pop Choir,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,"Parliament Street, Dublin",53.3447504,-6.2674142,Dublin
+The Dubliners Encore,2026-04-12T00:00:00Z,2026-04-12T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+The Dubliners Encore,2026-04-05T00:00:00Z,2026-04-05T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+The Easter Bunny's Big Surprise,2026-04-03T00:00:00Z,2026-04-06T00:00:00Z,Secret Valley ,52.4267921,-6.7547637,Wexford
+The Gaeilge Guide,2026-03-12T00:00:00Z,2026-03-12T00:00:00Z,LexIcon Library and Cultural Centre,53.29294470000001,-6.131842499999999,Dublin
+The Gralton Big Band,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+The Kilfenora Céilí Band and Guests,2026-03-16T00:00:00Z,2026-03-16T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+The Kings of Irish Country Show,2026-04-07T00:00:00Z,2026-04-07T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+The Mersey Beatles,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+The Mersey Beatles,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+The Music of The Lord of The Rings. Tribute to Howard Shore,2026-04-03T00:00:00Z,2026-04-03T00:00:00Z,O'Reilly Theatre,53.3558017,-6.261491299999999,Dublin
+The Plough and The Stars,2026-03-03T00:00:00Z,2026-04-30T00:00:00Z,Abbey Theatre,53.3483986,-6.257178199999999,Dublin
+The Pulze Festival 2026,2026-06-13T00:00:00Z,2026-06-14T00:00:00Z,Enniscorthy,52.5031703,-6.5731293,Wexford
+The Quiet Men,2026-02-23T00:00:00Z,2026-03-14T00:00:00Z,Bewleys Cafe Theatre,53.3418082,-6.260657,Dublin
+Theatre Nights presented by The Light Opera Society of Tralee,2026-03-14T00:00:00Z,2026-03-15T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Through her Eyes: Love and Loss Recital,2026-05-27T00:00:00Z,2026-05-27T00:00:00Z,Tourin House,52.1202193,-7.864168400000001,Waterford
+Top 8 Hip Hop & Street Dance Festival,2026-03-26T00:00:00Z,2026-03-29T00:00:00Z,Limerick,52.663839,-8.626729899999999,Limerick
+"Top of the Hill by Grace Henry, Limerick Gallery of Art",2026-03-24T00:00:00Z,2026-03-24T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Tuesdays with Morrie by Mitch Albom presented by Breda Cashe and Pat Moylan,2026-04-04T00:00:00Z,2026-04-04T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Uisce Álainn 2026,2026-05-02T00:00:00Z,2026-05-02T00:00:00Z,Doorly Park,54.2689311,-8.456528,Sligo
+usual and generous ways,2026-02-28T00:00:00Z,2026-04-26T00:00:00Z,Galway Arts Centre,53.2709115,-9.0573006,Galway
+"Watersongs - Niamh O'Sullivan, Gary Beecher Concert",2026-06-01T00:00:00Z,2026-06-01T00:00:00Z,Dromore Yard,52.0655322,-7.869051599999999,Waterford
+West Wicklow Chamber Music Festival,2026-05-20T00:00:00Z,2026-05-24T00:00:00Z,Blessington,53.1696579,-6.534068700000001,Wicklow
+The 62nd Wexford Drama Festival,2026-03-20T00:00:00Z,2026-03-27T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Wexford Light Opera Society Jesus Christ Superstar ,2026-04-27T00:00:00Z,2026-05-02T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+When Forests Sing,2026-05-30T00:00:00Z,2026-05-30T00:00:00Z,Lismore Heritage Centre,52.1370902,-7.932667699999999,Waterford
+Wild Swimming,2026-03-18T00:00:00Z,2026-04-04T00:00:00Z,Bewleys Cafe Theatre,53.3418082,-6.260657,Dublin
+Wild Women Wellness and Sauna,2026-03-22T00:00:00Z,2026-03-22T00:00:00Z,Laragh,53.0089293,-6.3004389,Wicklow
+Easter Treasure Hunt Schull Regatta,2026-04-05T00:00:00Z,2026-04-05T00:00:00Z,Schull Playground,51.5265207,-9.5442418,Cork
+Schull Regatta Festival 2026,2026-08-08T00:00:00Z,2026-08-09T00:00:00Z,Schull Pier,51.5267627,-9.5451619,Cork
+Skellig Coast Dark Sky Festival 2026,2026-03-20T00:00:00Z,2026-03-22T00:00:00Z,Tech Amergin,51.82958499999999,-10.172331,Kerry
+Cork on a Fork Fest 2026,2026-08-12T00:00:00Z,2026-08-16T00:00:00Z,Cork City,51.8987528,-8.4706315,Cork
+International Literature Festival Dublin 2026,2026-05-15T00:00:00Z,2026-05-24T00:00:00Z,Merrion Square Park,53.3396722,-6.249213399999999,Dublin
+MONSTER,2026-03-13T00:00:00Z,2026-03-14T00:00:00Z,"Smock Alley Theatre, 1662",53.3450078,-6.269166299999999,Dublin
+Celine Byrne - Songs of Inspiration & Hope,2026-05-22T00:00:00Z,2026-05-22T00:00:00Z,VISUAL Carlow,52.838161,-6.9278619,Carlow
+Sinderella - Gagging for a Ball,2026-05-23T00:00:00Z,2026-05-23T00:00:00Z,VISUAL Carlow,52.838161,-6.9278619,Carlow
+The Summer Country Show,2026-05-25T00:00:00Z,2026-05-25T00:00:00Z,VISUAL Carlow,52.838161,-6.9278619,Carlow
+LOINNIR presented by Céim Arts,2026-03-22T00:00:00Z,2026-03-22T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+International Festival of Time Waterford 2026,2026-05-22T00:00:00Z,2026-05-24T00:00:00Z,Waterford Treasures: Medieval Museum,52.2599757,-7.107011,Waterford
+Vittorio Angelone 'you can’t Say Nothing any more',2026-04-25T00:00:00Z,2026-04-25T00:00:00Z,National Opera House,52.3380334,-6.4621603,Wexford
+Smithwick's Experience Kilkenny St Patrick's Festival,2026-03-14T00:00:00Z,2026-03-17T00:00:00Z,Smithwick's Experience,52.6543481,-7.2542673,Kilkenny
+Adult Board Games Social Night,2026-03-11T00:00:00Z,2026-03-11T00:00:00Z,This Must Be The Place,53.34670699999999,-6.280046599999999,Dublin
+Retro Ibiza Rave,2026-04-05T00:00:00Z,2026-04-05T00:00:00Z,Crown Live,52.3415989,-6.4626639,Wexford
+High School Musical JR ,2026-03-27T00:00:00Z,2026-03-28T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Joe The Magician – Live,2026-03-29T00:00:00Z,2026-03-29T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Adult Seasonal Flower Arranging with Maura's Cottage,2026-04-01T00:00:00Z,2026-04-01T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Gavin James,2026-05-03T00:00:00Z,2026-05-03T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Niall McCabe,2026-05-03T00:00:00Z,2026-05-03T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Bingo Loco,2026-05-08T00:00:00Z,2026-05-08T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Biird,2026-05-08T00:00:00Z,2026-05-08T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Doireann Garrihy - The Laughs Of Your Life Live,2026-05-09T00:00:00Z,2026-05-09T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Killian Sundermann - Killian Dollar Baby,2026-05-09T00:00:00Z,2026-05-09T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Mary Black - The Slán Tour,2026-05-16T00:00:00Z,2026-05-16T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+The Makings of a Murderer,2026-05-22T00:00:00Z,2026-05-22T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Gareth - The Uncut Tour,2026-05-28T00:00:00Z,2026-05-28T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Ireland Bike Fest 2026,2026-05-29T00:00:00Z,2026-05-31T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+K Pop Forever!,2026-06-05T00:00:00Z,2026-06-06T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Music Current 2026,2026-04-08T00:00:00Z,2026-04-11T00:00:00Z,Project Arts Centre🎭,53.344979,-6.266262999999999,Dublin
+Macbeth,2026-03-23T00:00:00Z,2026-04-02T00:00:00Z,Smock Alley Theatre,53.3448366,-6.2691234,Dublin
+Easter Teidí Tours at the GAA Museum,2026-04-02T00:00:00Z,2026-04-06T00:00:00Z,GAA Museum & Tours,53.3606949,-6.249427499999999,Dublin
+St Patrick's Festival Shamrock Special,2026-03-14T00:00:00Z,2026-03-15T00:00:00Z,The Dog House Blue's Tea Room Restaurant,53.38879499999999,-6.0746619,Dublin
+The Irish Coffee Experience,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,"The Mint Bar, The College Green Hotel",53.3456096,-6.2588141,Dublin
+St Declan's Way Annual Pilgrimage 2026,2026-04-18T00:00:00Z,2026-05-24T00:00:00Z,Knockmealdown Mountains,52.2277778,-7.915277799999999,Waterford
+Restival 2026,2026-05-02T00:00:00Z,2026-05-03T00:00:00Z,Mount Congreve Gardens & Country Estate,52.2375821,-7.212399899999999,Waterford
+Paul Dunlea & Scott Flanigan: Triskel Lunchtime Jazz Series 2026,2026-03-28T00:00:00Z,2026-03-28T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+The Short Films of David Lynch,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Hard Boiled,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Hamnet,2026-03-08T00:00:00Z,2026-03-11T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+If I Had Legs I'd Kick You,2026-03-08T00:00:00Z,2026-03-11T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Woman in Stem's Q1 Check In : Locking In for 2026,2026-03-29T00:00:00Z,2026-03-29T00:00:00Z,The Sound House,53.3483198,-6.255915099999999,Dublin
+Robert Boyle Summer School 2026,2026-06-04T00:00:00Z,2026-06-07T00:00:00Z,Lismore Castle Gardens,52.1405094,-7.932057200000001,Waterford
+The Churchyard Sessions 2026,2026-05-23T00:00:00Z,2026-09-05T00:00:00Z,"The Reg, Waterford City",52.26033160000001,-7.105473,Waterford
+The Apple Market Sessions 2026,2026-06-06T00:00:00Z,2026-08-29T00:00:00Z,The Apple Market,52.2580351,-7.111824400000001,Waterford
+TuneFest Dungarvan 2026,2026-06-17T00:00:00Z,2026-06-21T00:00:00Z,Grattan Square,52.0899102,-7.6211079,Waterford
+Waterford Viking Marathon 2026,2026-06-20T00:00:00Z,2026-06-21T00:00:00Z,"The Mall, Waterford",52.2600557,-7.1055822,Waterford
+GAA World Games 2026,2026-07-13T00:00:00Z,2026-07-17T00:00:00Z,SETU Arena Waterford,52.2516716,-7.1791792,Waterford
+Slow Looking Tour - Recovered Voices: Stories and Experiences of the Irish during World War One,2026-03-28T00:00:00Z,2026-03-28T00:00:00Z,"National Museum of Ireland, Collins Barracks",53.3489404,-6.2863653,Dublin
+Tour & Whiskey Tasting Experience,2026-04-04T00:00:00Z,2026-09-19T00:00:00Z,Malahide Castle & Gardens,53.44457670000001,-6.1655167,Dublin
+A Quiet Love,2026-04-14T00:00:00Z,2026-04-14T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Buail isteach ag Saotharlann an Zú Mhairbh don imeacht: An Nathair Nimhe in Éirinn?,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,"National Museum of Ireland, Collins Barracks",53.3489404,-6.2863653,Dublin
+Thread Therapy,2026-04-28T00:00:00Z,2026-05-02T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Telling Tinder Tales,2026-04-25T00:00:00Z,2026-04-25T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Horseshoe,2026-04-28T00:00:00Z,2026-04-28T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+International Pan Celtic Festival,2026-04-07T00:00:00Z,2026-04-11T00:00:00Z,"Carlow, various locations",52.8364127,-6.928037100000001,Carlow
+Easter Egg Hunt at Brigit's Garden,2026-04-04T00:00:00Z,2026-04-06T00:00:00Z,Brigit's Garden & Café,53.3858367,-9.212856100000002,Galway
+Easter Weekend At Wells House & Gardens,2026-04-04T00:00:00Z,2026-04-06T00:00:00Z,Wells House & Gardens,52.5283829,-6.344859599999999,Wexford
+HOT MESS,2026-03-05T00:00:00Z,2026-03-14T00:00:00Z,"Smock Alley Theatre, 1662",53.3450078,-6.269166299999999,Dublin
+Simple Creatures,2026-03-24T00:00:00Z,2026-03-28T00:00:00Z,"Smock Alley Theatre, 1662",53.3450078,-6.269166299999999,Dublin
+Doomslayers LIVE!: Season 3 Premiere,2026-03-19T00:00:00Z,2026-03-19T00:00:00Z,"Smock Alley Theatre, 1662",53.3450078,-6.269166299999999,Dublin
+A Grain of Sand حبّة رمل,2026-04-07T00:00:00Z,2026-04-11T00:00:00Z,"Smock Alley Theatre, 1662",53.3450078,-6.269166299999999,Dublin
+"Sliver Salon: Sarah Schulman, The Fantasy and Necessity of Solidarity",2026-04-09T00:00:00Z,2026-04-09T00:00:00Z,"Smock Alley Theatre, 1662",53.3450078,-6.269166299999999,Dublin
+Ed Sheeran Experience,2026-06-06T00:00:00Z,2026-06-06T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Michael English Dance,2026-06-06T00:00:00Z,2026-06-06T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+What's Love Got To Do With It - Tina Turner Tribute,2026-06-14T00:00:00Z,2026-06-14T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+George Murphy & The Rising Sons,2026-06-26T00:00:00Z,2026-06-26T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Michael Collins Band & Louise Morrissey Dance,2026-07-02T00:00:00Z,2026-07-30T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Johnny Brady Dance,2026-07-03T00:00:00Z,2026-07-03T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Pete Tong Presents Ibiza Classics,2026-07-03T00:00:00Z,2026-07-03T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Nathan Carter Cabaret & Dancing,2026-07-04T00:00:00Z,2026-07-04T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Brendan Shine Dance,2026-07-07T00:00:00Z,2026-07-28T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Mike Denver,2026-07-08T00:00:00Z,2026-07-08T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Moth & Butterfly Storytellers,2026-03-14T00:00:00Z,2026-03-16T00:00:00Z,EPIC The Irish Emigration Museum,53.3483124,-6.2481792,Dublin
+City Funfair,2026-03-14T00:00:00Z,2026-03-17T00:00:00Z,Custom House Quay,53.3481876,-6.2506375,Dublin
+Cailleach : A Dance for the Witches of Ireland,2026-03-14T00:00:00Z,2026-03-15T00:00:00Z,Dubh Linn Garden,53.3423616,-6.2666319,Dublin
+Céilí Mór,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,Merrion Square Park,53.3396722,-6.249213399999999,Dublin
+Sweet Jayne Band,2026-03-14T00:00:00Z,2026-03-16T00:00:00Z,EPIC The Irish Emigration Museum,53.3483124,-6.2481792,Dublin
+Dee Armstrong (Kila) & Friends,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,EPIC The Irish Emigration Museum,53.3483124,-6.2481792,Dublin
+Up Sadbh Down,2026-03-14T00:00:00Z,2026-03-16T00:00:00Z,"Various Locations, Dublin City",53.3484666,-6.2687446,Dublin
+North : South,2026-03-14T00:00:00Z,2026-03-16T00:00:00Z,"Various Locations, Dublin City",53.3444102,-6.2709812,Dublin
+Silk Worm Drop-in for Families,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,Chester Beatty,53.3422356,-6.2672762,Dublin
+Samba Dance Brazil,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,Dubh Linn Garden,53.3423616,-6.2666319,Dublin
+The Crucible - The Gaiety Theatre,2026-02-09T00:00:00Z,2026-03-21T00:00:00Z,The Gaiety Theatre,53.34046129999999,-6.2615754,Dublin
+Spraoí at the Helix,2026-03-16T00:00:00Z,2026-03-16T00:00:00Z,The Helix,53.3864373,-6.259149400000001,Dublin
+GIVĒON,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,3Arena,53.3474963,-6.2285078,Dublin
+Oscar Wilde's De Profundis -  A love letter rediscovered,2026-03-07T00:00:00Z,2026-08-31T00:00:00Z,MoLI – Museum of Literature Ireland,53.3367903,-6.2601607,Dublin
+Tour: The Saints of Ireland,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,"National Museum of Ireland, Kildare Street",53.3402225,-6.2549209,Dublin
+Celebrate St. Patrick's week at Dublinia,2026-03-14T00:00:00Z,2026-03-16T00:00:00Z,Dublinia,53.343149,-6.2720614,Dublin
+Rock Against Homelessness,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,3Olympia Theatre,53.34430949999999,-6.2660651,Dublin
+Cecilia Vicuña: Reverse Migration a Poetic Journey,2026-02-28T00:00:00Z,2026-07-05T00:00:00Z,IMMA. Irish Museum of Modern Art,53.3434597,-6.29712,Dublin
+"Fisherwoman, Fisherwoman:  Camille Souter & Alberta Whittle",2026-03-06T00:00:00Z,2026-09-13T00:00:00Z,IMMA. Irish Museum of Modern Art,53.3434597,-6.29712,Dublin
+Mike Rice,2026-03-13T00:00:00Z,2026-03-14T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Gorey St Patrick’s Day Parade 2026,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,Gorey,52.675307,-6.295941,Wexford
+Ballina-Killaloe St. Patrick's Day parade,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,Ballina/Killaloe,52.808886,-8.4475152,Clare
+Ablefest Killarney 2026,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,Killarney,52.0599609,-9.504537000000001,Kerry
+Killarney St Patrick's Festival 2026,2026-03-14T00:00:00Z,2026-03-17T00:00:00Z,Killarney,52.0599609,-9.504537000000001,Kerry
+Kilkenny Tradfest,2026-03-13T00:00:00Z,2026-03-17T00:00:00Z,Kilkenny,52.6549027,-7.246402900000001,Kilkenny
+54th Limerick International Band Championship,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,Limerick,52.663839,-8.626729899999999,Limerick
+Galway St. Patrick’s Day Festival 2026,2026-03-14T00:00:00Z,2026-03-17T00:00:00Z,Galway City,53.27056400000001,-9.0566819,Galway
+Cork St. Patrick's Festival 2026,2026-03-13T00:00:00Z,2026-03-17T00:00:00Z,Cork,51.8985143,-8.4756035,Cork
+County Wexford - St. Patrick’s Day 2026,2026-03-17T00:00:00Z,2026-03-17T00:00:00Z,"Various Locations, Co Wexford",52.336916,-6.4633381,Wexford
+"Block Party, Waterford",2026-06-13T00:00:00Z,2026-08-22T00:00:00Z,itty bittys,52.2593205,-7.106186699999999,Waterford
+Hay! Presented by Lyngo Theatre - Noon Show,2026-05-25T00:00:00Z,2026-05-25T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Hay! Presented by Lyngo Theatre - 10:30am Show,2026-05-25T00:00:00Z,2026-05-25T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+PIAF The Paris Icon and the Glasgow girl,2026-05-17T00:00:00Z,2026-05-17T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Dr. Malie Coyne: Winging It – The Art Of Figuring Life Out,2026-05-16T00:00:00Z,2026-05-16T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+K-Pop – Superslayers Live!,2026-05-10T00:00:00Z,2026-05-10T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Movie: The Swallow,2026-05-05T00:00:00Z,2026-05-05T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Declan Nerney in Concert,2026-05-03T00:00:00Z,2026-05-03T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+ECSTATIC CÉILÍ,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,Conscious Dublin,53.3638475,-6.2709211,Dublin
+An Evening with Darth Vader - Dundalk,2026-04-02T00:00:00Z,2026-04-02T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+An Evening with Darth Vader - Drogheda,2026-04-03T00:00:00Z,2026-04-03T00:00:00Z,McHugh's,53.71604850000001,-6.346798499999999,Louth
+Shirley Valentine starring Norma Sheahan,2026-04-30T00:00:00Z,2026-04-30T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+CISEACH | An Embodied Manifesto,2026-04-28T00:00:00Z,2026-04-28T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Springsteen – A Tribute,2026-04-26T00:00:00Z,2026-04-26T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+"3 Hail Mary’s presented by Crokey Plays, written by Tommy Marren",2026-04-24T00:00:00Z,2026-04-25T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Trio Bohémo presented by Music Network,2026-04-19T00:00:00Z,2026-04-19T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+The Prince of Egypt – The Musical : Irish Premiere,2026-04-14T00:00:00Z,2026-04-18T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Live Talk with Mountaineer Simon Yates,2026-04-11T00:00:00Z,2026-04-11T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Timeless & Irish presented by Radio Kerry,2026-04-09T00:00:00Z,2026-04-09T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+(6-10yrs) Easter Clay Creations with Amy Smith from Tralee Pottery Club,2026-04-09T00:00:00Z,2026-04-09T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+(2-5yrs) Parent & Toddler Easter Clay Workshop,2026-04-09T00:00:00Z,2026-04-09T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+(5-11yrs) Nature’s Creative Explorers,2026-04-08T00:00:00Z,2026-04-08T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Juanita’s Big Problem presented by Circus250 (5-12yrs),2026-04-08T00:00:00Z,2026-04-08T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+SIMPLY THE BEST Rebecca O’Connor as Tina Turner,2026-06-12T00:00:00Z,2026-06-12T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Shuteen Erdenebaatar Quartet presented by Music Network,2026-06-21T00:00:00Z,2026-06-21T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Summer Country With the Stars,2026-06-23T00:00:00Z,2026-06-23T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+The Love Hungry Farmer by John B. Keane,2026-09-03T00:00:00Z,2026-09-03T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Vittorio Angelone: You Can’t Say Nothing Any More,2026-09-05T00:00:00Z,2026-09-05T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Onóir Live in Concert,2026-06-05T00:00:00Z,2026-06-05T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Gearóid Farrelly: No Pressure,2026-09-12T00:00:00Z,2026-09-12T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+"Philadelphia, here I come ! presented by Zyber Theatre",2026-09-21T00:00:00Z,2026-09-23T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Anne Gildea – Further Adventures in Womaning,2026-08-20T00:00:00Z,2026-09-26T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Rory’s Stories: The Good Ol’ Days,2026-10-16T00:00:00Z,2026-10-16T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+"Nature’s Creative Explorers. A playful, inclusive workshop for children aged 5–11 with additional needs.",2026-04-08T00:00:00Z,2026-04-08T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Bon Jovee ‘The Bon Jovi Tribute Show’,2026-10-24T00:00:00Z,2026-10-24T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Sinéad Culbert: I’m No Wonder Woman,2026-10-27T00:00:00Z,2026-10-27T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Movie: Easter Parade,2026-04-07T00:00:00Z,2026-04-07T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+Ralph McTell ‘Somewhere Down the Road’,2026-11-06T00:00:00Z,2026-11-06T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+(5yrs+) Pop-up Easter Puppet Workshop,2026-04-02T00:00:00Z,2026-04-02T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+(5yrs+) Pop-up Easter Puppet Workshop,2026-04-02T00:00:00Z,2026-04-02T00:00:00Z,Siamsa Tíre - Theatre & Arts Centre,52.2666168,-9.7083368,Kerry
+An Evening with Darth Vader - Dun Laoghaire,2026-03-30T00:00:00Z,2026-03-30T00:00:00Z,Walters,53.2898401,-6.130033399999999,Dublin
+Gina & The Champions,2026-08-28T00:00:00Z,2026-08-28T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Grace O'Malley Festival,2026-05-22T00:00:00Z,2026-05-24T00:00:00Z,Achill Island,53.9619505,-10.015335,Mayo
+Taylor Fever,2026-08-28T00:00:00Z,2026-08-28T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Dublin City Ramblers,2026-08-23T00:00:00Z,2026-08-23T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+The Wolfe Tones,2026-08-22T00:00:00Z,2026-08-22T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Dreams of Freedom,2026-08-21T00:00:00Z,2026-08-22T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+The Wolfe Tones,2026-08-21T00:00:00Z,2026-08-21T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Bray St. Patrick’s Festival Bray,2026-03-13T00:00:00Z,2026-03-18T00:00:00Z,Bray,53.2010587,-6.1110501,Wicklow
+Comeraghs Wild Festival,2026-07-09T00:00:00Z,2026-07-12T00:00:00Z,Comeragh Mountain Farm,52.1826121,-7.6512664,Waterford
+Wells Food Fest 2026,2026-07-12T00:00:00Z,2026-07-12T00:00:00Z,Wells House & Gardens,52.5283829,-6.344859599999999,Wexford
+Wells House and Gardens Doggie Day Out,2026-07-05T00:00:00Z,2026-07-05T00:00:00Z,Wells House & Gardens,52.5283829,-6.344859599999999,Wexford
+Culture Date with Dublin 8,2026-05-04T00:00:00Z,2026-05-10T00:00:00Z,Dublin 8,53.34785249999999,-6.318115199999999,Dublin
+Mike Denver Dance,2026-08-19T00:00:00Z,2026-08-19T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Galway Potters Market 2026,2026-05-30T00:00:00Z,2026-05-31T00:00:00Z,Eyre Square,53.2743394,-9.0492276,Galway
+The Kilkennys,2026-08-16T00:00:00Z,2026-08-16T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Dublin City Ramblers,2026-08-15T00:00:00Z,2026-08-15T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Philomena Begley & Guests,2026-08-15T00:00:00Z,2026-08-15T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Dreams of Freedom,2026-08-14T00:00:00Z,2026-08-14T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Gina & The Champions,2026-07-05T00:00:00Z,2026-07-05T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Michael English Dance,2026-08-12T00:00:00Z,2026-08-12T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+K Pop Forever!,2026-08-14T00:00:00Z,2026-08-14T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Jack Keogh Dance,2026-07-06T00:00:00Z,2026-07-27T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Gina & The Champions,2026-08-09T00:00:00Z,2026-08-09T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+ABBAESQUE,2026-07-10T00:00:00Z,2026-07-10T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Michael English Dance,2026-08-05T00:00:00Z,2026-08-05T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Mike Denver Cabaret & Dancing,2026-08-07T00:00:00Z,2026-08-07T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Michael Collins Band & Louise Morrissey Dance,2026-08-06T00:00:00Z,2026-08-27T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Brendan Shine Dance,2026-08-04T00:00:00Z,2026-08-25T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Derek Ryan Dance,2026-07-18T00:00:00Z,2026-07-18T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Dreams of Freedom,2026-07-17T00:00:00Z,2026-07-17T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Dublin City Ramblers,2026-07-11T00:00:00Z,2026-07-11T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Garron Noone,2026-07-11T00:00:00Z,2026-07-11T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Michael English Dance,2026-07-15T00:00:00Z,2026-07-15T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+David James Dance,2026-07-12T00:00:00Z,2026-07-12T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Michael English Cabaret & Dancing,2026-07-31T00:00:00Z,2026-07-31T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Effie Neill Dance,2026-08-03T00:00:00Z,2026-08-24T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+The Kilkennys,2026-07-19T00:00:00Z,2026-07-19T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Mike Denver Dance,2026-07-22T00:00:00Z,2026-07-22T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+James,2026-07-24T00:00:00Z,2026-07-24T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Remembering Joe - The Joe Dolan Show,2026-07-24T00:00:00Z,2026-07-24T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Cash Returns,2026-07-25T00:00:00Z,2026-07-25T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Declan Nerney Dance,2026-07-26T00:00:00Z,2026-07-26T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+TR Dallas Dance,2026-07-29T00:00:00Z,2026-07-29T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+ABBAESQUE,2026-08-01T00:00:00Z,2026-08-01T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+The Whistlin' Donkeys,2026-07-02T00:00:00Z,2026-07-02T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+EASA Seanchai,2026-07-25T00:00:00Z,2026-08-09T00:00:00Z,Waterford City,52.2580351,-7.111824400000001,Waterford
+Aonach na nDéise Viking Heritage Festival,2026-08-15T00:00:00Z,2026-08-16T00:00:00Z,"Woodstown, via Greenway SETU West Campus Car Park",52.2545247,-7.180487800000001,Waterford
+Dunmore East Bluegrass Festival 2026,2026-08-28T00:00:00Z,2026-08-30T00:00:00Z,Dunmore East,52.1527666,-6.994803999999999,Waterford
+Waterford Harvest Festival 2026,2026-09-04T00:00:00Z,2026-09-06T00:00:00Z,John Roberts Square,52.2610635,-7.111957899999999,Waterford
+Vitamin Sea Festival 2026,2026-09-18T00:00:00Z,2026-09-20T00:00:00Z,Tramore,52.1597061,-7.1403336,Waterford
+Waterford Winterval 2026,2026-11-13T00:00:00Z,2026-12-23T00:00:00Z,Waterford City,52.2610635,-7.111957899999999,Waterford
+Enchanted Garden Winter Lights 2026,2026-11-28T00:00:00Z,2026-12-31T00:00:00Z,Lafcadio Hearn Japanese Gardens,52.1633068,-7.149873299999999,Waterford
+An Evening with Johns' Boys Welsh Male Voice Choir,2026-05-30T00:00:00Z,2026-05-30T00:00:00Z,National Opera House Wexford,52.3380334,-6.4621603,Wexford
+Johns' Boys Welsh Male Voice Choir,2026-05-29T00:00:00Z,2026-05-29T00:00:00Z,St Patrick's Cathedral,53.3395154,-6.2714767,Dublin
+Kingdom County Show 2026,2026-05-09T00:00:00Z,2026-05-10T00:00:00Z,Kingdom County Show,52.2471172,-9.6232364,Kerry
+Popstars The Musical,2026-04-22T00:00:00Z,2026-04-24T00:00:00Z,An Táin Arts Centre,54.0045323,-6.400592899999999,Louth
+Calum Macphail,2026-08-02T00:00:00Z,2026-08-02T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Jurassic Wild - Battle of the T-Rex's,2026-08-09T00:00:00Z,2026-08-09T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+ABBA by Moonlight,2026-09-05T00:00:00Z,2026-09-05T00:00:00Z,Newbridge House & Farm,53.4866405,-6.1680106,Dublin
+Wells House and Gardens Classic Car Show 2026,2026-06-21T00:00:00Z,2026-06-21T00:00:00Z,Wells House & Gardens,52.5283829,-6.344859599999999,Wexford
+Kevin Quigley & The Great Ideas,2026-04-18T00:00:00Z,2026-04-18T00:00:00Z,Monroe's Tavern,53.2699902,-9.0577598,Galway
+Summer In The City Waterford 2026,2026-06-06T00:00:00Z,2026-08-30T00:00:00Z,"John Roberts Square, Waterford City",52.2610635,-7.111957899999999,Waterford
+Ronan Collins Showband Hits,2026-08-28T00:00:00Z,2026-08-28T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Michael Starring Ben - The Magic Of Michael Jackson,2026-09-06T00:00:00Z,2026-09-06T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Cormac Begley,2026-09-11T00:00:00Z,2026-09-11T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Seventh Wonder performs Fleetwood Mac Orchestrated,2026-09-18T00:00:00Z,2026-09-18T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+80's Icons Show,2026-09-18T00:00:00Z,2026-09-18T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Calum MacPhail,2026-10-09T00:00:00Z,2026-10-09T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Coldplace,2026-10-18T00:00:00Z,2026-10-18T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Onóir,2026-11-21T00:00:00Z,2026-11-21T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Sorry You Felt That Way,2026-04-28T00:00:00Z,2026-05-09T00:00:00Z,"Smock Alley Theatre, 1662",53.3450078,-6.269166299999999,Dublin
+Mike Wozniak: The Bench,2026-10-23T00:00:00Z,2026-10-23T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+The Seeger Sessions Revival,2026-10-24T00:00:00Z,2026-10-24T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+David O'Doherty: Highway To The David Zone,2026-11-28T00:00:00Z,2026-11-28T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Summer Solstic on Uisneach,2026-06-21T00:00:00Z,2026-06-21T00:00:00Z,Hill of Uisneach,53.4837751,-7.554963600000001,Westmeath
+Christophe Capewell + Brooke Sharkey + Isak's Island,2026-03-19T00:00:00Z,2026-03-19T00:00:00Z,The Cobblestone,53.3498083,-6.2778361,Dublin
+The Portrait of a Lady: Jane Campion Season,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+The Piano: Jane Campion Season,2026-03-16T00:00:00Z,2026-03-16T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Holy Smoke: Jane Campion Season,2026-03-18T00:00:00Z,2026-03-18T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+ABAIR: Stoite/Uprooted,2026-03-16T00:00:00Z,2026-03-16T00:00:00Z,The Button Factory,53.3449334,-6.2645228,Dublin
+"The Big Dig Workshop, A Viking House Excavation",2026-03-14T00:00:00Z,2026-03-16T00:00:00Z,"Wood Quay, Dublin City",53.3450562,-6.271027,Dublin
+Taste of Kildare,2026-08-15T00:00:00Z,2026-08-16T00:00:00Z,Naas Racecourse,53.2193372,-6.647107999999999,Kildare
+"Iarla Ó lionáird, Cormac McCarthy & Aoife Ní Bhriain - with support from The Lady Desart Choir",2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,"St Canice's Cathedral, Kilkenny",52.6567338,-7.257318,Kilkenny
+St Patrick's Festival at EPIC,2026-03-14T00:00:00Z,2026-03-17T00:00:00Z,EPIC The Irish Emigration Museum,53.3483124,-6.2481792,Dublin
+Clare Sands live at Billy Byrne's (Kilkenny Tradfest 2026),2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,Billy Byrnes Gastro Bar & Venue,52.6547385,-7.2470052,Kilkenny
+Emma Langford Live at Kilkenny Tradfest 2026,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,Cleere's Bar & Theatre,52.6550549,-7.2551907,Kilkenny
+Mundy - Live at Kilkenny Tradfest 2026,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,Kyteler's Inn,52.6531445,-7.253276700000001,Kilkenny
+An Céilí Mór with The Blackwater Céilí Band & Craobh Osraí CCE,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,Kilkenny River Court Hotel,52.6515406,-7.249257200000001,Kilkenny
+How I Became A Wave - Kilkenny Tradfest 2026,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,Cleere's Bar & Theatre,52.6550549,-7.2551907,Kilkenny
+Séamus & Caoimhe Uí Fhlatharta - Kilkenny Tradfest 2026,2026-03-15T00:00:00Z,2026-03-15T00:00:00Z,Billy Byrnes Gastro Bar & Venue,52.6547385,-7.2470052,Kilkenny
+Pádraig Jack Live at Kilkenny Tradfest 2026,2026-03-16T00:00:00Z,2026-03-16T00:00:00Z,Billy Byrnes Gastro Bar & Venue,52.6547385,-7.2470052,Kilkenny
+Cut & Paste No. 9 2026: Remembering Arthur Griffith,2026-03-31T00:00:00Z,2026-03-31T00:00:00Z,The James Joyce Centre,53.3541997,-6.2599662,Dublin
+Limerick St. Patrick’s Festival 2026,2026-03-13T00:00:00Z,2026-03-17T00:00:00Z,Limerick City and County,52.663839,-8.626729899999999,Limerick
+Thundercat,2026-04-03T00:00:00Z,2026-04-03T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Dylan Moran: Dollah Ho,2026-04-04T00:00:00Z,2026-04-04T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Searows,2026-04-05T00:00:00Z,2026-04-05T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+An Evening with Ricky Tomlinson - My Arse,2026-04-08T00:00:00Z,2026-04-08T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Dan McCabe with Special Guest Gearoid McCarthy,2026-04-09T00:00:00Z,2026-04-09T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Freddie Gibbs,2026-04-12T00:00:00Z,2026-04-12T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Alison Spittle - Big,2026-04-11T00:00:00Z,2026-04-11T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Dry Cleaning,2026-04-17T00:00:00Z,2026-04-17T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Tony Cantwell,2026-04-18T00:00:00Z,2026-04-18T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+The Blindboy Podcast,2026-04-20T00:00:00Z,2026-04-20T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Happy Mondays with Special Guests The Farm,2026-04-23T00:00:00Z,2026-04-23T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Janine Harouni with This is What You Waited For,2026-04-24T00:00:00Z,2026-04-24T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Jen Brister: Reactive,2026-04-25T00:00:00Z,2026-04-25T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Vittorio Angelone: You Can't Say Nothing Any More,2026-04-26T00:00:00Z,2026-04-27T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Tim Key - Loganberry,2026-04-30T00:00:00Z,2026-04-30T00:00:00Z,Vicar Street,53.34267639999999,-6.2778366,Dublin
+Keep It Tight - Deirdre O'Kane & Emma Doran Live Podcast,2026-12-13T00:00:00Z,2026-12-13T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Michael English Dance,2026-12-19T00:00:00Z,2026-12-19T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Newport Gráinne Uaile Festival 2026,2026-07-30T00:00:00Z,2026-08-02T00:00:00Z,Newport,53.8852758,-9.5463685,Mayo
+Scrooge: A Cirque Spectacular,2027-01-02T00:00:00Z,2027-01-03T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Celine Byrne's Christmas Celebration,2026-12-20T00:00:00Z,2026-12-20T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Take It To The Limit - A Celebration Of The Eagles,2027-01-15T00:00:00Z,2027-01-15T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Cowboys and Heroes 2026,2026-05-29T00:00:00Z,2026-06-01T00:00:00Z,Drumcoura City Ranch,54.0276611,-7.751960200000001,Leitrim
+The Three Amigos,2027-01-28T00:00:00Z,2027-01-28T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Cork Harbour Festival 2026,2026-05-30T00:00:00Z,2026-06-08T00:00:00Z,Cork,51.8985143,-8.4756035,Cork
+Diversity,2026-05-01T00:00:00Z,2026-05-01T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Macbeth,2026-04-23T00:00:00Z,2026-04-25T00:00:00Z,Lime Tree Theatre,52.65369279999999,-8.6426977,Limerick
+Christopher Cross,2026-05-28T00:00:00Z,2026-05-28T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Carlow Garden Festival 2026,2026-07-25T00:00:00Z,2026-08-02T00:00:00Z,Carlow,52.7354501,-6.7206312,Carlow
+How To Tackle Your Finances With Eoin McGee,2026-05-16T00:00:00Z,2026-05-16T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+Sirât,2026-03-22T00:00:00Z,2026-03-25T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Twinless,2026-03-22T00:00:00Z,2026-03-25T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Ky Nam Inn (EAFFI),2026-03-26T00:00:00Z,2026-03-26T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+The System (EAFFI),2026-03-26T00:00:00Z,2026-03-26T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+The Mad Executioners,2026-03-27T00:00:00Z,2026-03-27T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+The Killer,2026-03-27T00:00:00Z,2026-03-27T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+The Secret Agent,2026-03-29T00:00:00Z,2026-04-01T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+The President's Cake,2026-03-29T00:00:00Z,2026-04-01T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+I Wish You Were Here,2026-03-15T00:00:00Z,2026-03-18T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+Mark Mehigan,2026-04-16T00:00:00Z,2026-04-16T00:00:00Z,Gleneagle Arena (INEC),52.044466,-9.502486,Kerry
+André Rieu,2026-04-10T00:00:00Z,2026-04-11T00:00:00Z,3Arena,53.3474963,-6.2285078,Dublin
+Rick Astley - The Reflection Tour 2026,2026-04-14T00:00:00Z,2026-04-14T00:00:00Z,3Arena,53.3474963,-6.2285078,Dublin
+Yungblud,2026-04-15T00:00:00Z,2026-04-15T00:00:00Z,3Arena,53.3474963,-6.2285078,Dublin
+Peter Kay Live,2026-04-16T00:00:00Z,2026-04-16T00:00:00Z,3Arena,53.3474963,-6.2285078,Dublin
+Matt Rife - Stay Golden World Tour,2026-04-22T00:00:00Z,2026-04-22T00:00:00Z,3Arena,53.3474963,-6.2285078,Dublin
+NE-YO & AKON,2026-04-23T00:00:00Z,2026-04-23T00:00:00Z,3Arena,53.3474963,-6.2285078,Dublin
+Big Thief,2026-04-29T00:00:00Z,2026-04-29T00:00:00Z,3Arena,53.3474963,-6.2285078,Dublin
+Louis Tomlinson - How Did We Get Here? World Tour,2026-04-30T00:00:00Z,2026-04-30T00:00:00Z,3Arena,53.3474963,-6.2285078,Dublin
+European Wool Experience,2026-03-28T00:00:00Z,2026-03-28T00:00:00Z,Meadowlands Hotel,52.276508,-9.691972,Kerry
+Ben De La Cour,2026-04-05T00:00:00Z,2026-04-05T00:00:00Z,THENCF,54.1150523,-9.1524659,Mayo
+NSOI: Music for Good Friday,2026-04-03T00:00:00Z,2026-04-03T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+The Glenn Miller Orchestra,2026-04-04T00:00:00Z,2026-04-04T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Family Concert: Springtime with The Jacquin Trio,2026-04-08T00:00:00Z,2026-04-08T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NCH Presents Open Door Series with RIAM Young Artist Programme,2026-04-09T00:00:00Z,2026-04-09T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+RTÉ lyric fm The Hamilton Scores Live,2026-04-09T00:00:00Z,2026-04-09T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+'It Don't Mean a Thing',2026-04-10T00:00:00Z,2026-04-10T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NCH Landmarks: David Kitt - the Big Romance,2026-04-10T00:00:00Z,2026-04-11T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Metronome: Little Gem Big Band,2026-04-11T00:00:00Z,2026-04-11T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+The Four Seasons Chamber Music Series: Frühlingsglaube (Faith in Spring),2026-04-12T00:00:00Z,2026-04-12T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Introduction to Enamel Workshop,2026-03-14T00:00:00Z,2026-03-21T00:00:00Z,Silver Works,53.343767,-6.2642441,Dublin
+Scéal Phadraig ‘Legends & Libations’,2026-03-16T00:00:00Z,2026-03-16T00:00:00Z,Pig's Lane,52.0585793,-9.5071186,Kerry
+THE VOYAGE:  music inspired by the sea with West Cork Choral Singers,2026-03-22T00:00:00Z,2026-03-22T00:00:00Z,Church of Saint Brendan the Navigator,51.680921,-9.453082499999999,Cork
+West Cork Chamber Music Festival 2026,2026-06-26T00:00:00Z,2026-07-05T00:00:00Z,Bantry,51.6792697,-9.4504086,Cork
+Siansa Gael Linn 2026 - Craobh Chomórtas,2026-04-12T00:00:00Z,2026-04-12T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Perspectives: The Köln Concert,2026-04-13T00:00:00Z,2026-04-13T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: Diatribe Stage - Sophie Cooper + Eimear Reidy // Strider,2026-04-15T00:00:00Z,2026-04-15T00:00:00Z,Project Arts Centre🎭,53.344979,-6.266262999999999,Dublin
+NMD26: What's Next? Nadar Summer School,2026-04-16T00:00:00Z,2026-04-16T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Drumreilly Community Camino,2026-05-02T00:00:00Z,2026-05-02T00:00:00Z,Drumcoura,54.0234052,-7.7495734,Leitrim
+Jake Kalilec: Triskel Lunchtime Jazz Series 2026,2026-04-18T00:00:00Z,2026-04-18T00:00:00Z,Triskel Arts Centre,51.8973901,-8.476346399999999,Cork
+The Dublin Jazz Co-op Presents: 'Ben Shutz Up & Playz',2026-03-29T00:00:00Z,2026-03-29T00:00:00Z,The Cobblestone,53.3498083,-6.2778361,Dublin
+Don’t Tell Dad About Diana,2026-04-13T00:00:00Z,2026-05-02T00:00:00Z,Bewleys Cafe Theatre,53.3418082,-6.260657,Dublin
+Dún Laoghaire Musical & Dramatic Society: Guys and Dolls,2026-03-31T00:00:00Z,2026-04-04T00:00:00Z,Pavilion Theatre,53.2939206,-6.133966699999999,Dublin
+Monday Night Cinema: Solo,2026-04-06T00:00:00Z,2026-04-06T00:00:00Z,Pavilion Theatre,53.2939206,-6.133966699999999,Dublin
+Wagner’s Siegfried  - Encore Screening,2026-04-07T00:00:00Z,2026-04-07T00:00:00Z,Pavilion Theatre,53.2939206,-6.133966699999999,Dublin
+Music Network: Trio Bohémo,2026-04-09T00:00:00Z,2026-04-09T00:00:00Z,Pavilion Theatre,53.2939206,-6.133966699999999,Dublin
+"Dubray: The Read Irish Women Event with Jan Carson, Edel Coffey, Charleen Hurtubise & Louise Nealon",2026-04-10T00:00:00Z,2026-04-10T00:00:00Z,Pavilion Theatre,53.2939206,-6.133966699999999,Dublin
+Pavilion Theatre presents Evgeny Grinko,2026-04-12T00:00:00Z,2026-04-12T00:00:00Z,Pavilion Theatre,53.2939206,-6.133966699999999,Dublin
+Monday Night Cinema: Urchin,2026-04-13T00:00:00Z,2026-04-13T00:00:00Z,Pavilion Theatre,53.2939206,-6.133966699999999,Dublin
+The House Must Win by Mick Flannery,2026-04-16T00:00:00Z,2026-05-03T00:00:00Z,Pavilion Theatre,53.2939206,-6.133966699999999,Dublin
+Monday Night Cinema: The Mastermind,2026-04-20T00:00:00Z,2026-04-20T00:00:00Z,Pavilion Theatre,53.2939206,-6.133966699999999,Dublin
+Monday Night Cinema: H is for Hawk,2026-04-27T00:00:00Z,2026-04-27T00:00:00Z,Pavilion Theatre,53.2939206,-6.133966699999999,Dublin
+St Patrick’s Athletic vs Derry City,2026-03-16T00:00:00Z,2026-03-16T00:00:00Z,Richmond Park,53.3403942,-6.316088300000001,Dublin
+St Patrick’s Athletic vs Drogheda United,2026-03-13T00:00:00Z,2026-03-13T00:00:00Z,Richmond Park,53.3409846,-6.3167475,Dublin
+Whiskey and Living History,2026-03-20T00:00:00Z,2026-04-24T00:00:00Z,Dublinia,53.343149,-6.2720614,Dublin
+Rush Harbour Festival & Airshow 2026,2026-07-31T00:00:00Z,2026-08-03T00:00:00Z,Rush North Beach,53.5308576,-6.087006,
+Sneem Summer Festival 2026,2026-07-15T00:00:00Z,2026-07-19T00:00:00Z,Sneem,51.8373942,-9.8983245,Kerry
+Annual Fota House Easter Egg Trail,2026-04-03T00:00:00Z,2026-04-06T00:00:00Z,"Fota House, Arboretum & Gardens",51.8938576,-8.303795899999999,Cork
+90s Silent Disco | Live Aid at the National Library of Ireland exhibition,2026-04-10T00:00:00Z,2026-04-10T00:00:00Z,National Photographic Archive,53.3453111,-6.265425,Dublin
+Live Aid Sunday Sessions: Spring Reset | Live Aid at the National Library of Ireland exhibition,2026-04-26T00:00:00Z,2026-04-26T00:00:00Z,National Photographic Archive,53.3453111,-6.265425,Dublin
+The Big Green Trad,2026-03-14T00:00:00Z,2026-03-14T00:00:00Z,Belvedere House Gardens & Park,53.4773383,-7.3688373,Westmeath
+NMD26: Ensemble Musikfabrik presents “It Breathes”,2026-04-16T00:00:00Z,2026-04-16T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: Musikfabrik presents 'No Salt',2026-04-16T00:00:00Z,2026-04-16T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: Diatribe Stage - Wind Songs // Sky Rivers,2026-04-16T00:00:00Z,2026-04-16T00:00:00Z,The Project Arts Centre,53.344979,-6.266262999999999,Dublin
+NMD26: For Morton Feldman,2026-04-17T00:00:00Z,2026-04-17T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: Ghost Trance Music,2026-04-17T00:00:00Z,2026-04-17T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: Gerald Barry's Salome with NSOI,2026-04-17T00:00:00Z,2026-04-17T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: Diatribe Stage - Patrick Zimmerli / Satoshi Takeishi,2026-04-17T00:00:00Z,2026-04-17T00:00:00Z,Project Arts Centre,53.344979,-6.266262999999999,Dublin
+NMD26: Totally Made Up Music,2026-04-18T00:00:00Z,2026-04-18T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: Soundstreams Presents: I Want to Tell You Everything,2026-04-18T00:00:00Z,2026-04-18T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: Come to the Edge,2026-04-18T00:00:00Z,2026-04-18T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: A Double Bill: Old Segotia / Land of Winter,2026-04-18T00:00:00Z,2026-04-18T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: Diatribe Stage - Shelta // Insufficient Funs,2026-04-18T00:00:00Z,2026-04-18T00:00:00Z,Project Arts Centre,53.344979,-6.266262999999999,Dublin
+NMD26: Crash Works III ‘You Heard It First’,2026-04-19T00:00:00Z,2026-04-19T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: Love The Earth,2026-04-19T00:00:00Z,2026-04-19T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: Gare St Lazare Ireland - The Last Tape,2026-04-19T00:00:00Z,2026-04-19T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: RTÉ CO - O’Leary & O’Connell,2026-04-19T00:00:00Z,2026-04-19T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NMD26: Jack,2026-04-19T00:00:00Z,2026-04-19T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+An Evening with Katriona O'Sullivan,2026-04-22T00:00:00Z,2026-04-22T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Archipelago: A Fusion of Traditional Music from Ireland and Java,2026-04-23T00:00:00Z,2026-04-23T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Connor McKeon: The Soul of Motown,2026-04-23T00:00:00Z,2026-04-23T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+"Dublin's Theatre Royal, Remembered",2026-04-24T00:00:00Z,2026-04-24T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+UCD Composition Ensemble,2026-04-24T00:00:00Z,2026-04-24T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Peter and the Wolf & The Young Person's Guide to the Orchestra with NSOI,2026-04-26T00:00:00Z,2026-04-26T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+The Four Seasons Chamber Music Series: Clair de Lune,2026-04-26T00:00:00Z,2026-04-26T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+"Perspectives: Eiko Ishibashi, Jim O’Rourke & Caoimhín Ó Raghallaigh",2026-04-26T00:00:00Z,2026-04-26T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+Banff Mountain Film Festival Tour,2026-04-28T00:00:00Z,2026-04-28T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin
+NSOI: E.T. The Extra-Terrestrial in Concert,2026-04-30T00:00:00Z,2026-05-01T00:00:00Z,National Concert Hall,53.3346479,-6.2587823,Dublin

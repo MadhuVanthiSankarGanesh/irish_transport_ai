@@ -1,0 +1,57 @@
+# Secrets and local environment
+.env
+*.pem
+*.key
+
+# Python cache/build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large runtime assets kept local / copied separately to EC2
+otp/otp-shaded-*.jar
+otp/graphs/default/graph.obj
+otp/graphs/default/*.osm.pbf
+deploy/graphhopper/graphhopper-web-*.jar
+deploy/graphhopper/graph-cache-ireland/
+
+# Large generated and raw data
+data/raw/
+data/processed/
+data/realtime/
+data/graph/
+data/models/
+data/vector_db/
+data/GTFS_All_extracted/
+data/clean/stop_times.csv
+data/clean/trips.csv
+outputs/
+
+# Keep lightweight app/config data under version control
+!data/cache/
+!data/cache/**
+!data/clean/
+data/clean/*
+!data/clean/stops.csv
+!data/features/
+!data/features/**
+
+# Allow GraphHopper config files that are needed for deployment
+!deploy/graphhopper/
+deploy/graphhopper/*
+!deploy/graphhopper/config-example.yml
+!deploy/graphhopper/foot-custom.json

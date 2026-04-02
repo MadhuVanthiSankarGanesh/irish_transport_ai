@@ -1,0 +1,12 @@
+FROM eclipse-temurin:21-jre
+
+WORKDIR /srv/graphhopper
+
+COPY deploy/graphhopper/graphhopper-web-10.2.jar /srv/graphhopper/graphhopper-web-10.2.jar
+COPY deploy/graphhopper/config-example.yml /srv/graphhopper/config-example.yml
+COPY deploy/graphhopper/foot-custom.json /srv/graphhopper/foot-custom.json
+COPY otp/graphs/default/ireland-and-northern-ireland-260318.osm.pbf /srv/data/ireland-and-northern-ireland.osm.pbf
+
+EXPOSE 8989 8990
+
+CMD ["java", "-Xmx6G", "-jar", "/srv/graphhopper/graphhopper-web-10.2.jar", "server", "/srv/graphhopper/config-example.yml"]
