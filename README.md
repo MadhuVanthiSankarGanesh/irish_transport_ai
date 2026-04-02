@@ -1,83 +1,150 @@
 # Dublin Smart Mobility Planner
 
-An agentic multimodal travel planner for Ireland that combines:
+An AI-powered multimodal journey planner for Dublin and Ireland that combines event discovery, conversational trip planning, public transport routing, and pedestrian routing in one system.
 
-- `LangGraph` for conversational orchestration
-- `MCP` for tool execution
-- `OpenTripPlanner` for transit routing
-- `GraphHopper` for walking paths
-- `Streamlit` for the user experience
-- GTFS, OSM, and Fáilte Ireland open data for transport and tourism context
+This project combines an LLM-driven interface with real transport and tourism infrastructure:
+
+- `Streamlit` for the user-facing chat experience
+- `LangGraph` for multi-step conversational orchestration
+- `MCP` for tool execution and service access
+- `OpenTripPlanner (OTP)` for transit routing
+- `GraphHopper` for walking routes
+- `GTFS`, `OSM`, and tourism/event datasets for transport and destination context
+
+## What It Does
+
+The planner supports flows like:
+
+- finding events happening this weekend
+- selecting an event and planning a route to it
+- routing from a stop name, district, or address
+- showing nearby accommodations and attractions
+- replanning to a selected accommodation or attraction
+- rendering route maps with transit styling and street-based walking paths
+
+## Project Focus
+
+The system focuses on:
+
+- full-stack AI product thinking
+- LLM orchestration beyond simple prompting
+- geospatial and transport data integration
+- service orchestration across multiple runtime components
+- deployment thinking for local Docker and AWS EC2
+- practical debugging of real-world routing issues
 
 ## Supported Runtime
 
-The project is now centered around one supported app path:
+The supported app path is:
 
 - UI: `dashboard/chat.py`
-- Agent runtime: `src/llm/`
-- Tool server: `src/mcp_server.py`
-- Transit service: `otp/`
-- Walking service: `deploy/graphhopper/`
+- agent logic: `src/llm/`
+- MCP server: `src/mcp_server.py`
+- OTP runtime: `otp/`
+- GraphHopper runtime: `deploy/graphhopper/`
 
-The older dashboard and one-off OTP diagnostic files are not part of the main deployment path.
+The repo also contains archived material from earlier experiments and diagnostics, but the Docker/AWS path above is the supported runtime.
 
 ## Architecture
 
 ```text
-Streamlit (dashboard/chat.py)
+Streamlit UI (dashboard/chat.py)
         |
         v
 LangGraph agent (src/llm/graph.py)
         |
         v
-MCP tool server (src/mcp_server.py)
+MCP tool gateway (src/mcp_server.py / src/llm/tool_gateway.py)
         |
-        +--> OTP
-        +--> GraphHopper
-        +--> Event / accommodation / attraction data
+        +--> OTP for transit itineraries
+        +--> GraphHopper for walking routes
+        +--> geocoding and GTFS helpers
+        +--> events / attractions / accommodations datasets
 ```
 
-## Local Docker Stack
+More detail:
 
-1. Copy `.env.example` to `.env`
-2. Add your `OPENAI_API_KEY` if using OpenAI
-3. Place working GraphHopper files into `deploy/graphhopper/`
-4. Start the stack
+- [Architecture Guide](docs/ARCHITECTURE.md)
+- [Demo Checklist](docs/DEMO_CHECKLIST.md)
+- [Deployment Guide](DEPLOYMENT.md)
+
+## Repository Layout
+
+Core areas:
+
+- `dashboard/` Streamlit UI
+- `src/` agent logic, tools, graph orchestration, and MCP server
+- `deploy/aws/` AWS deployment notes
+- `deploy/graphhopper/` GraphHopper config files for deployment
+- `otp/` OTP runtime files and graph assets
+- `data/` cached tourism, GTFS, and supporting datasets
+- `archive/` legacy notes and earlier artifacts not part of the main runtime path
+
+## Local Docker Run
+
+1. Copy the environment template:
 
 ```bash
-docker compose up --build
+cp .env.example .env
 ```
 
-App URL:
+2. Configure either:
+
+- `LLM_PROVIDER=ollama`
+- or `LLM_PROVIDER=openai` with an `OPENAI_API_KEY`
+
+3. Make sure the required runtime assets exist locally:
+
+- `otp/otp-shaded-2.8.1.jar`
+- `otp/graphs/default/graph.obj`
+- `otp/graphs/default/ireland-and-northern-ireland-260318.osm.pbf`
+- `deploy/graphhopper/graphhopper-web-10.2.jar`
+- `deploy/graphhopper/config-example.yml`
+- `deploy/graphhopper/foot-custom.json`
+
+4. Start the stack:
+
+```bash
+docker compose up --build -d
+```
+
+5. Open:
 
 ```text
 http://localhost:8501
 ```
 
-## AWS Demo Deployment
+## AWS Deployment Model
 
-For an interview demo, the recommended setup is a single EC2 host running Docker Compose.
+For interview and portfolio demos, the recommended deployment is:
 
-See:
+- one AWS EC2 instance
+- Docker Engine + Docker Compose
+- the app, MCP, OTP, GraphHopper, and optionally Ollama running as containers
 
-- `DEPLOYMENT.md`
-- `deploy/aws/README.md`
+Recommended docs:
 
-## Data and Runtime Requirements
+- [Deployment Guide](DEPLOYMENT.md)
+- [AWS Notes](deploy/aws/README.md)
 
-- `data/` contains events, GTFS extracts, cached tourism datasets, and derived artifacts
-- `otp/` contains the OTP jar and graph files
-- `deploy/graphhopper/` holds the GraphHopper runtime files you already validated locally
+## GitHub vs Runtime Assets
 
-## Main Environment Variables
+This repository uses a hybrid deployment model:
 
-- `LLM_PROVIDER`
-- `OPENAI_API_KEY`
-- `OPENAI_MODEL`
-- `USE_MCP`
-- `OTP_BASE_URL`
-- `GRAPHHOPPER_URL`
+- GitHub holds the code, Dockerfiles, configs, and docs
+- EC2 receives the large runtime assets separately before `docker compose build`
 
-## Repo Cleanup
+That keeps the repository lightweight while still supporting the full Docker runtime on EC2.
 
-The repository contains archived legacy diagnostics and setup notes from earlier OTP debugging phases. The supported deployment path is the Docker/AWS structure above.
+Runtime assets that are typically copied manually to EC2:
+
+- OTP jar
+- OTP graph files
+- Ireland OSM extract
+- GraphHopper jar
+
+## Additional Docs
+
+- [Architecture Guide](docs/ARCHITECTURE.md)
+- [Demo Checklist](docs/DEMO_CHECKLIST.md)
+- [Deployment Guide](DEPLOYMENT.md)
