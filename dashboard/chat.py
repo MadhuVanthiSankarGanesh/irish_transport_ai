@@ -30,15 +30,29 @@ from src.llm.tool_gateway import get_walk_path_tool
 
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "openai" if os.getenv("OPENAI_API_KEY") else "ollama").strip().lower()
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+BEDROCK_MODEL_ID = os.getenv("BEDROCK_MODEL_ID", "amazon.nova-lite-v1:0")
+AWS_REGION = os.getenv("AWS_REGION") or os.getenv("AWS_DEFAULT_REGION", "")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "mistral")
 OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
 LLM_TEMPERATURE = float(os.getenv("LLM_TEMPERATURE", "0.2"))
 
 ChatOpenAI = None
 Ollama = None
+BedrockChat = None
+BedrockConverse = None
 if LLM_PROVIDER == "openai":
     try:
         from langchain_openai import ChatOpenAI  # type: ignore
+        LLM_AVAILABLE = True
+    except ImportError:
+        LLM_AVAILABLE = False
+elif LLM_PROVIDER == "bedrock":
+    try:
+        from langchain_aws import ChatBedrock as BedrockChat  # type: ignore
+        try:
+            from langchain_aws import ChatBedrockConverse as BedrockConverse  # type: ignore
+        except ImportError:
+            BedrockConverse = None
         LLM_AVAILABLE = True
     except ImportError:
         LLM_AVAILABLE = False
@@ -127,6 +141,24 @@ def get_llm():
                 st.warning("OPENAI_API_KEY not set. Please configure it.")
                 return None
             return ChatOpenAI(model=OPENAI_MODEL, temperature=LLM_TEMPERATURE)
+        if LLM_PROVIDER == "bedrock":
+            if not AWS_REGION:
+                st.warning("AWS_REGION or AWS_DEFAULT_REGION not set. Please configure it for Bedrock.")
+                return None
+            try:
+                if BedrockConverse is not None:
+                    return BedrockConverse(
+                        model=BEDROCK_MODEL_ID,
+                        region_name=AWS_REGION,
+                        temperature=LLM_TEMPERATURE,
+                    )
+            except Exception:
+                pass
+            return BedrockChat(
+                model_id=BEDROCK_MODEL_ID,
+                region_name=AWS_REGION,
+                model_kwargs={"temperature": LLM_TEMPERATURE},
+            )
         return Ollama(model=OLLAMA_MODEL, base_url=OLLAMA_BASE_URL, temperature=LLM_TEMPERATURE)
     except Exception as e:
         st.error(f"Failed to initialize LLM: {e}")
