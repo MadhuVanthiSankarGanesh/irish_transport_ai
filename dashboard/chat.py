@@ -28,16 +28,13 @@ from src.graph.otp_manager import graph_age_hours, otp_server_running
 from src.llm.tools import geocode_cached, _shape_points_for_leg
 from src.llm.tool_gateway import get_walk_path_tool
 
-LLM_PROVIDER = os.getenv("LLM_PROVIDER", "openai" if os.getenv("OPENAI_API_KEY") else "ollama").strip().lower()
+LLM_PROVIDER = os.getenv("LLM_PROVIDER", "openai" if os.getenv("OPENAI_API_KEY") else "bedrock").strip().lower()
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 BEDROCK_MODEL_ID = os.getenv("BEDROCK_MODEL_ID", "amazon.nova-lite-v1:0")
 AWS_REGION = os.getenv("AWS_REGION") or os.getenv("AWS_DEFAULT_REGION", "")
-OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "mistral")
-OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
 LLM_TEMPERATURE = float(os.getenv("LLM_TEMPERATURE", "0.2"))
 
 ChatOpenAI = None
-Ollama = None
 BedrockChat = None
 BedrockConverse = None
 if LLM_PROVIDER == "openai":
@@ -57,15 +54,7 @@ elif LLM_PROVIDER == "bedrock":
     except ImportError:
         LLM_AVAILABLE = False
 else:
-    try:
-        from langchain_ollama import OllamaLLM as Ollama  # type: ignore
-        LLM_AVAILABLE = True
-    except ImportError:
-        try:
-            from langchain_community.llms import Ollama  # type: ignore
-            LLM_AVAILABLE = True
-        except ImportError:
-            LLM_AVAILABLE = False
+    LLM_AVAILABLE = False
 
 
 # ============================================================================
@@ -159,7 +148,8 @@ def get_llm():
                 region_name=AWS_REGION,
                 model_kwargs={"temperature": LLM_TEMPERATURE},
             )
-        return Ollama(model=OLLAMA_MODEL, base_url=OLLAMA_BASE_URL, temperature=LLM_TEMPERATURE)
+        st.warning(f"Unsupported LLM_PROVIDER: {LLM_PROVIDER}. Use 'openai' or 'bedrock'.")
+        return None
     except Exception as e:
         st.error(f"Failed to initialize LLM: {e}")
         return None
