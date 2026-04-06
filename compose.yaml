@@ -1,149 +1,71 @@
-# Configuration for Dublin AI Smart Mobility Planner
-# Edit this file to customize the agent behavior
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: streamlit run dashboard/chat.py --server.port=8501 --server.address=0.0.0.0
+    env_file:
+      - .env
+    environment:
+      USE_MCP: "true"
+      MCP_URL: http://mcp:8765
+      OTP_BASE_URL: http://otp:8080
+      GRAPHHOPPER_URL: http://graphhopper:8989
+      AWS_REGION: ${AWS_REGION:-us-east-1}
+      AWS_DEFAULT_REGION: ${AWS_DEFAULT_REGION:-us-east-1}
+      AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID:-}
+      AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY:-}
+      AWS_SESSION_TOKEN: ${AWS_SESSION_TOKEN:-}
+    ports:
+      - "8501:8501"
+    depends_on:
+      - mcp
+      - otp
+      - graphhopper
+    restart: unless-stopped
 
-# ============================================================================
-# LLM Configuration
-# ============================================================================
+  mcp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: python src/mcp_server.py
+    env_file:
+      - .env
+    environment:
+      MCP_PORT: "8765"
+      OTP_BASE_URL: http://otp:8080
+      GRAPHHOPPER_URL: http://graphhopper:8989
+      AWS_REGION: ${AWS_REGION:-us-east-1}
+      AWS_DEFAULT_REGION: ${AWS_DEFAULT_REGION:-us-east-1}
+      AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID:-}
+      AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY:-}
+      AWS_SESSION_TOKEN: ${AWS_SESSION_TOKEN:-}
+    ports:
+      - "8765:8765"
+    restart: unless-stopped
 
-# LLM provider: "ollama" or "openai"
-llm_provider: "ollama"
+  otp:
+    build:
+      context: .
+      dockerfile: Dockerfile.otp
+    environment:
+      JAVA_TOOL_OPTIONS: -Xmx${OTP_JAVA_XMX:-8G}
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
 
-# Ollama configuration
-ollama:
-  model: "mistral"      # Available: mistral, neural-chat, dolphin-mixtral, llama2
-  base_url: "http://localhost:11434"
-  temperature: 0.2
-  top_p: 0.9
+  graphhopper:
+    build:
+      context: .
+      dockerfile: Dockerfile.graphhopper
+    environment:
+      JAVA_TOOL_OPTIONS: -Xmx${GRAPHHOPPER_JAVA_XMX:-6G}
+    volumes:
+      - graphhopper-cache:/srv/graphhopper/graph-cache-ireland
+    ports:
+      - "8989:8989"
+      - "8990:8990"
+    restart: unless-stopped
 
-# OpenAI configuration (requires OPENAI_API_KEY environment variable)
-openai:
-  model: "gpt-4o-mini"  # or: gpt-4, gpt-3.5-turbo
-  temperature: 0.2
-  max_tokens: 1024
-
-# ============================================================================
-# OpenTripPlanner Configuration
-# ============================================================================
-
-otp:
-  base_url: "http://localhost:8080/otp/routers/default"
-  timeout: 30
-  max_walk_distance: 1000  # meters
-
-# ============================================================================
-# Data Paths
-# ============================================================================
-
-data:
-  events: "data/features/event_demand.csv"
-  stops: "data/clean/stops.csv"
-  routes: "data/clean/routes.csv"
-  stop_times: "data/clean/stop_times.csv"
-
-# ============================================================================
-# Agent Behavior
-# ============================================================================
-
-agent:
-  # How many events to show in search results
-  max_events_per_search: 5
-  
-  # Intent classification strategy
-  intent_classifier:
-    use_llm: true  # Use LLM for classification (vs simple heuristics)
-  
-  # Date range defaults
-  date_ranges:
-    this_weekend: 4   # Days from today to Friday
-    next_week: 7      # Days from today to next Monday
-  
-  # Route planning defaults
-  route_planner:
-    default_preference: "balanced"  # balanced, fastest, least_transfers
-    show_alternatives: false
-    max_alternatives: 3
-
-# ============================================================================
-# Geocoding
-# ============================================================================
-
-geocoding:
-  # Strategy: "stops_first" (search stops database first) or "nominatim_first"
-  strategy: "stops_first"
-  
-  nominatim:
-    timeout: 10
-    user_agent: "dublin_transport_ai"
-
-# ============================================================================
-# UI Configuration (Streamlit)
-# ============================================================================
-
-ui:
-  # Chat interface settings
-  chat:
-    max_messages_display: 50
-    enable_sidebar: true
-    enable_context_display: true
-  
-  # Response formatting
-  formatting:
-    use_emojis: true
-    use_markdown: true
-    line_width: 70
-
-# ============================================================================
-# Logging
-# ============================================================================
-
-logging:
-  level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
-  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
-  file: "logs/agent.log"
-
-# ============================================================================
-# Performance & Caching
-# ============================================================================
-
-caching:
-  # Cache events data in memory
-  cache_events: true
-  cache_ttl_seconds: 3600  # Refresh hourly
-  
-  # Cache stops reference
-  cache_stops: true
-  
-  # Cache geocoding results
-  cache_geocoding: true
-  cache_geocoding_ttl_seconds: 86400  # 24 hours
-
-# ============================================================================
-# Accessibility
-# ============================================================================
-
-accessibility:
-  # Prefer wheelchair-accessible routes
-  wheelchair_accessible: false
-  
-  # Prefer low-floor buses when available
-  low_floor_only: false
-  
-  # Max walking distance for accessibility
-  max_walk_distance_accessible: 500  # meters
-
-# ============================================================================
-# Feature Flags
-# ============================================================================
-
-features:
-  # Enable real-time congestion data
-  realtime_congestion: false
-  
-  # Enable accessibility scoring
-  accessibility_scoring: false
-  
-  # Enable user preferences persistence
-  persistent_preferences: false
-  
-  # Enable analytics collection
-  analytics: false
+volumes:
+  graphhopper-cache:
