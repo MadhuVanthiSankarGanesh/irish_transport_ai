@@ -81,6 +81,16 @@ More detail:
 - [Demo Checklist](docs/DEMO_CHECKLIST.md)
 - [Deployment Guide](DEPLOYMENT.md)
 
+## Demo Video
+
+Replace `YOUR_YOUTUBE_VIDEO_ID` below with your actual YouTube video ID.
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+
+Direct link:
+
+`https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID`
+
 ## Screenshots
 
 Store screenshots in `docs/images/`.
@@ -128,8 +138,6 @@ Use a screenshot that shows:
 ### Route Planning Map
 
 ![Route Planning](docs/images/app-route.png)
-
-![Route Planning](docs/images/app-route1.png)
 
 ## Repository Layout
 
