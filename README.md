@@ -83,19 +83,49 @@ More detail:
 
 ## Screenshots
 
-Store app screenshots in `docs/images/` and reference them here.
+Store screenshots in `docs/images/`.
 
-Suggested files:
+Suggested images for the final README:
 
+- `docs/images/aws-app-instance.png`
+- `docs/images/aws-routing-instance.png`
 - `docs/images/app-home.png`
 - `docs/images/app-events.png`
 - `docs/images/app-route.png`
 
-Example layout:
+Recommended order:
+
+### AWS App Instance
+
+Use a screenshot that shows:
+
+- EC2 instance name
+- instance state
+- public IPv4 address
+- security group or running status if visible
+
+![AWS App Instance](docs/images/aws-app-instance.png)
+
+### AWS Routing Instance
+
+Use a screenshot that shows:
+
+- OTP/GraphHopper EC2 instance
+- instance state
+- public IPv4 address
+- routing role in the architecture
+
+![AWS Routing Instance](docs/images/aws-routing-instance.png)
+
+### App Home
 
 ![App Home](docs/images/app-home.png)
 
+### Event Discovery
+
 ![Event Discovery](docs/images/app-events.png)
+
+### Route Planning Map
 
 ![Route Planning](docs/images/app-route.png)
 
