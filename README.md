@@ -129,6 +129,8 @@ Use a screenshot that shows:
 
 ![Route Planning](docs/images/app-route.png)
 
+![Route Planning](docs/images/app-route1.png)
+
 ## Repository Layout
 
 Core areas:
