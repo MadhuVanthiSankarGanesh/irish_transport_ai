@@ -11,6 +11,19 @@ This project combines an LLM-driven interface with real transport and tourism in
 - `GraphHopper` for walking routes
 - `GTFS`, `OSM`, and tourism/event datasets for transport and destination context
 
+## AWS Deployment Highlight
+
+This project is designed to run as a cloud-hosted demo on AWS EC2.
+
+The recommended deployment model is:
+
+- an AWS EC2 app instance for `Streamlit` and `MCP`
+- an AWS EC2 routing instance for `OTP` and `GraphHopper`
+- AWS-managed LLM access through `Bedrock`
+- manually provisioned runtime assets for the routing layer
+
+This keeps the public demo lightweight while still using real transit and routing services in the cloud.
+
 ## What It Does
 
 The planner supports flows like:
@@ -67,6 +80,24 @@ More detail:
 - [Architecture Guide](docs/ARCHITECTURE.md)
 - [Demo Checklist](docs/DEMO_CHECKLIST.md)
 - [Deployment Guide](DEPLOYMENT.md)
+
+## Screenshots
+
+Store app screenshots in `docs/images/` and reference them here.
+
+Suggested files:
+
+- `docs/images/app-home.png`
+- `docs/images/app-events.png`
+- `docs/images/app-route.png`
+
+Example layout:
+
+![App Home](docs/images/app-home.png)
+
+![Event Discovery](docs/images/app-events.png)
+
+![Route Planning](docs/images/app-route.png)
 
 ## Repository Layout
 
