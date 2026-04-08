@@ -85,7 +85,7 @@ More detail:
 
 Replace `YOUR_YOUTUBE_VIDEO_ID` below with your actual YouTube video ID.
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+[![Watch the demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=9Up1x95cqJo)
 
 Direct link:
 
