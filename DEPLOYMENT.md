@@ -1,48 +1,35 @@
 # Deployment Guide
 
-This project is now organized around a single supported deployment target:
+This project is deployed as a Docker Compose stack with four main services plus an optional local LLM service:
 
-- `dashboard/chat.py`
-- `src/mcp_server.py`
-- OTP
-- GraphHopper
+- `app` for the Streamlit UI
+- `mcp` for tool execution
+- `otp` for transit routing
+- `graphhopper` for walking routes
+- `ollama` optionally, when self-hosting the LLM
 
-The recommended deployment for portfolio and interview demos is a single AWS EC2 host running Docker Compose.
+For a portfolio or interview demo, the recommended production-like setup is a two-instance AWS EC2 deployment:
+
+- one EC2 instance for the `app` and `mcp` services
+- one EC2 instance for the `otp` and `graphhopper` services
+
+This keeps the public-facing app lightweight while isolating the heavier routing workloads on a separate machine.
 
 ## Supported Deployment Model
 
 Use:
 
-- `Dockerfile`
 - `compose.yaml`
+- `Dockerfile`
+- `Dockerfile.otp`
+- `Dockerfile.graphhopper`
 - `.env`
-- `deploy/aws/README.md`
 
-This keeps the full stack in the cloud while avoiding unnecessary orchestration complexity.
+This keeps the architecture understandable and easy to explain.
 
-## Services
+For local development, the same services can still be run together on a single machine with Docker Compose.
 
-### 1. App
-
-- Containerized Streamlit app
-- Runs `dashboard/chat.py`
-
-### 2. MCP
-
-- Containerized tool server
-- Runs `src/mcp_server.py`
-
-### 3. OTP
-
-- Java service using the checked-in OTP jar
-- Loads the prebuilt graph from `otp/graphs/default`
-
-### 4. GraphHopper
-
-- Java service using your validated GraphHopper runtime files
-- Mounted from `deploy/graphhopper/`
-
-## Quick Start
+## Local Docker Quick Start
 
 1. Copy the environment template:
 
@@ -50,16 +37,20 @@ This keeps the full stack in the cloud while avoiding unnecessary orchestration 
 cp .env.example .env
 ```
 
-2. Fill in:
+2. Configure either:
 
-- `OPENAI_API_KEY`
-- any memory overrides if needed
+- `LLM_PROVIDER=ollama`
+- or `LLM_PROVIDER=openai` with a valid `OPENAI_API_KEY`
 
-3. Put your working GraphHopper files into `deploy/graphhopper/`:
+3. Ensure the required runtime assets are present locally:
 
-- `graphhopper-web-10.2.jar`
-- `config-example.yml`
-- `foot.json` if your config needs it
+- `otp/otp-shaded-2.8.1.jar`
+- `otp/graphs/default/graph.obj`
+- `otp/graphs/default/ireland-and-northern-ireland-260318.osm.pbf`
+- `otp/graphs/default/otp-config.json`
+- `deploy/graphhopper/graphhopper-web-10.2.jar`
+- `deploy/graphhopper/config-example.yml`
+- `deploy/graphhopper/foot-custom.json`
 
 4. Start the stack:
 
@@ -73,27 +64,76 @@ docker compose up --build -d
 http://localhost:8501
 ```
 
-## AWS EC2 Recommendation
+## AWS EC2 Deployment
 
-For this project, EC2 is the cleanest option because OTP and GraphHopper are long-running Java services and the demo needs predictable connectivity between containers.
+Recommended for demo reliability:
 
-Recommended demo setup:
+- `1` EC2 instance
+- Ubuntu 22.04 LTS
+- `100 GB` gp3 storage
+- enough RAM for OTP + GraphHopper + app stack
 
-- one EC2 instance
-- Docker Engine
-- Docker Compose
-- security group opening `8501`
+If using Ollama on the same machine, prefer a larger instance. If using OpenAI API, the infrastructure is lighter.
 
-Internal container-to-container traffic can stay private.
+See:
 
-## Data Layout
+- `deploy/aws/README.md`
 
-- `data/` is mounted read-only into the Python services
-- `otp/` is mounted into the OTP container
-- `deploy/graphhopper/` is mounted into the GraphHopper container
+## Hybrid GitHub + EC2 Asset Model
+
+This repository is intentionally shaped for a hybrid deployment model:
+
+- GitHub stores the code, Dockerfiles, configs, and docs
+- EC2 receives large runtime artifacts separately before `docker compose build`
+
+That keeps the repo reviewable and avoids pushing large generated or runtime files to GitHub.
+
+Typical runtime files copied manually to EC2:
+
+- `otp/otp-shaded-2.8.1.jar`
+- `otp/graphs/default/graph.obj`
+- `otp/graphs/default/ireland-and-northern-ireland-260318.osm.pbf`
+- `otp/graphs/default/otp-config.json`
+- `deploy/graphhopper/graphhopper-web-10.2.jar`
+- `deploy/graphhopper/config-example.yml`
+- `deploy/graphhopper/foot-custom.json`
+
+These files must exist on EC2 before:
+
+```bash
+docker compose build
+```
+
+because the Dockerfiles copy them into the images.
+
+## Service Summary
+
+### App
+
+- Streamlit UI
+- entrypoint: `dashboard/chat.py`
+
+### MCP
+
+- tool server for the agent runtime
+- entrypoint: `src/mcp_server.py`
+
+### OTP
+
+- Java transit router
+- uses the prebuilt graph in `otp/graphs/default`
+
+### GraphHopper
+
+- Java walking router
+- configured through `deploy/graphhopper/`
+
+### Ollama
+
+- optional self-hosted LLM runtime
+- useful for fully self-contained demos
 
 ## Notes
 
-- This layout is optimized for clarity and demo reliability.
-- It is intentionally simpler than Kubernetes or ECS for interview use.
-- If you later want ECS, the service split in `compose.yaml` maps cleanly onto ECS task definitions.
+- This deployment path is intentionally simpler than ECS or Kubernetes for interview use.
+- It is still strong enough to demonstrate service orchestration, cloud deployment, and infrastructure ownership.
