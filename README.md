@@ -83,11 +83,13 @@ More detail:
 
 ## Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=9Up1x95cqJo)
+Replace `YOUR_YOUTUBE_VIDEO_ID` below with your actual YouTube video ID.
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
 
 Direct link:
 
-`https://www.youtube.com/watch?v=9Up1x95cqJo`
+`https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID`
 
 ## Screenshots
 
@@ -187,9 +189,19 @@ http://localhost:8501
 
 For interview and portfolio demos, the recommended deployment is:
 
-- one AWS EC2 instance
-- Docker Engine + Docker Compose
-- the app, MCP, OTP, GraphHopper, and optionally Ollama running as containers
+- two AWS EC2 instances
+- one app instance for `Streamlit` and `MCP`
+- one routing instance for `OTP` and `GraphHopper`
+- Docker Engine + Docker Compose on each instance
+- Bedrock or another managed LLM provider so the app instance stays lightweight
+
+This split better reflects the real system design:
+
+- the app instance handles chat UX, orchestration, and tool access
+- the routing instance handles the heavier Java routing workloads
+- the two services communicate over configured service URLs
+
+For local development or quick demos, a single-host Docker Compose deployment is still supported.
 
 Recommended docs:
 
